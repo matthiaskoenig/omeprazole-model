@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5554358.svg)](https://doi.org/10.5281/zenodo.5554358)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5555814.svg)](https://doi.org/10.5281/zenodo.5554358)
 
 # Omeprazole model
 This repository provides the omeprazole physiological based pharmacokinetics/pharmacodynamics model (PBPK/PD).
@@ -21,11 +21,11 @@ The whole-body submodel is available from [`omeprazole_body.xml`](./models/omepr
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/omeprazole-model/main/models/omeprazole_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/omeprazole-model/main/models/omeprazole_body.xml)
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5554092.svg)](https://doi.org/10.5281/zenodo.5554092)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5555814.svg)](https://doi.org/10.5281/zenodo.5554092)
 
 > König, Matthias, & Balci, Sükrü. (2021).  
 > *Omeprazole physiological based pharmacokinetics/pharmacodynamics model (PBPK/PD) (0.7.0).*   
-> Zenodo. [https://doi.org/10.5281/zenodo.5554358](https://doi.org/10.5281/zenodo.5554358)
+> Zenodo. [https://doi.org/10.5281/zenodo.5555815](https://doi.org/10.5281/zenodo.5555815)
 
 ## License
 
