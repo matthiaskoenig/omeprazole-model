@@ -24,8 +24,8 @@ The whole-body submodel is available from [`omeprazole_body.xml`](./models/omepr
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5555814.svg)](https://doi.org/10.5281/zenodo.5555814)
 
 > König, Matthias, & Balci, Sükrü. (2021).  
-> *Omeprazole physiological based pharmacokinetics/pharmacodynamics model (PBPK/PD) (0.7.0).*   
-> Zenodo. [https://doi.org/10.5281/zenodo.5555815](https://doi.org/10.5281/zenodo.5555815)
+> *Omeprazole physiological based pharmacokinetics/pharmacodynamics model (PBPK/PD) (0.8.0).*   
+> Zenodo. [https://doi.org/10.5281/zenodo.5575750](https://doi.org/10.5281/zenodo.5575750)
 
 ## License
 
