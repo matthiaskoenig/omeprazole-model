@@ -953,27 +953,6 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </compartment>
-      <compartment metaid="ST__meta_Vgacid" sboTerm="SBO:0000290" id="ST__Vgacid" name="gastric acid" spatialDimensions="3" size="0.1" units="litre" constant="true">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>~100 [ml]</p>
-          </body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#ST__meta_Vgacid">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="https://identifiers.org/FMA:62972"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C94192"/>
-                  <rdf:li rdf:resource="https://identifiers.org/omit/0006944"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </compartment>
     </listOfCompartments>
     <listOfSpecies>
       <species metaid="meta_Cgu_plasma_ome" sboTerm="SBO:0000247" id="Cgu_plasma_ome" name="omeprazole (gut)" compartment="Vgu_plasma" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
@@ -1799,21 +1778,6 @@ Calculation of proton concentration as:</p>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="ST__meta_protons_gacid" sboTerm="SBO:0000247" id="ST__protons_gacid" name="H+ (gastric fluid)" compartment="ST__Vgacid" initialConcentration="10" substanceUnits="ST__mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#ST__meta_protons_gacid">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C17024"/>
-                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:24636"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
       <species metaid="ST__meta_pp_active" sboTerm="SBO:0000245" id="ST__pp_active" name="proton pump (active)" compartment="ST__Vpar" initialAmount="1" substanceUnits="dimensionless" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false" conversionFactor="ST__cf_species_dimensionless">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -1897,9 +1861,9 @@ Calculation of proton concentration as:</p>
       <parameter id="FQpa" name="pancreas fractional tissue blood flow" value="0.017" units="dimensionless" constant="true"/>
       <parameter id="FQre" name="rest of body fractional tissue blood flow" value="0" units="dimensionless" constant="false"/>
       <parameter id="Mr_ome" name="Molecular weight ome [g/mole]" value="345.4" units="g_per_mole" constant="true"/>
-      <parameter id="ftissue_ome" name="tissue distribution ome" value="0" units="l_per_min" constant="true"/>
       <parameter id="fup_ome" name="fraction unbound in plasma ome" value="1" units="dimensionless" constant="true"/>
       <parameter id="BP_ome" name="blood to plasma ratio ome" value="1" units="dimensionless" constant="true"/>
+      <parameter id="ftissue_ome" name="tissue distribution ome" value="0.449478175067043" units="l_per_min" constant="true"/>
       <parameter id="IVDOSE_ome" name="IV bolus dose ome [mg]" value="0" units="mg" constant="false"/>
       <parameter id="ti_ome" name="injection time ome [s]" value="10" units="second" constant="true"/>
       <parameter id="Ki_ome" name="Ki [1/min] injection ome" value="0.02" units="per_min" constant="false"/>
@@ -1911,9 +1875,10 @@ Calculation of proton concentration as:</p>
       <parameter id="Ka_abs_ome" name="Absorption rate ome" value="2" units="per_hr" constant="true"/>
       <parameter id="F_ome" name="fraction absorbed ome" value="1" units="dimensionless" constant="true"/>
       <parameter id="Mr_omemets" name="Molecular weight omemets [g/mole]" value="345.4" units="g_per_mole" constant="true"/>
-      <parameter id="ftissue_omemets" name="tissue distribution omemets" value="0" units="l_per_min" constant="true"/>
       <parameter id="fup_omemets" name="fraction unbound in plasma omemets" value="1" units="dimensionless" constant="true"/>
       <parameter id="BP_omemets" name="blood to plasma ratio omemets" value="1" units="dimensionless" constant="true"/>
+      <parameter id="ftissue_omemets" name="tissue distribution omemets" value="0.1" units="l_per_min" constant="true"/>
+      <parameter id="F_ome_solution" name="Flag if application is solution (1) or (hard) capsule (0)" value="1" units="dimensionless" constant="true"/>
       <parameter id="F_ome_pH2" name="Fraction absorbed at pH 2" value="0.35" units="dimensionless" constant="true"/>
       <parameter id="F_ome_pH6" name="Fraction absorbed at pH 6" value="0.84" units="dimensionless" constant="true"/>
       <parameter id="F_ome_KpH" name="Midpoint of pH absorption effect" value="4" units="dimensionless" constant="true"/>
@@ -2017,7 +1982,7 @@ Calculation of proton concentration as:</p>
       <parameter id="Mhv_omemets" name="omeprazole metabolites amount (hepatic vein)" value="NaN" units="mg_per_l" constant="false"/>
       <parameter id="F_ome_pH" value="NaN" units="dimensionless" constant="false"/>
       <parameter id="dissolution_ome" name="dissolution omeprazole" value="NaN" units="mmole_per_min" constant="false"/>
-      <parameter metaid="LI__meta_OMEIM_Vmax" sboTerm="SBO:0000186" id="LI__OMEIM_Vmax" name="Vmax omeprazole import" value="0.01" units="LI__mmole_per_min_l" constant="true">
+      <parameter metaid="LI__meta_OMEIM_Vmax" sboTerm="SBO:0000186" id="LI__OMEIM_Vmax" name="Vmax omeprazole import" value="0.0105988034941322" units="LI__mmole_per_min_l" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#LI__meta_OMEIM_Vmax">
@@ -2043,7 +2008,7 @@ Calculation of proton concentration as:</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="LI__meta_OMECYP_Vmax" sboTerm="SBO:0000186" id="LI__OMECYP_Vmax" name="Vmax omeprazole conversion" value="0.075" units="LI__mmole_per_min_l" constant="true">
+      <parameter metaid="LI__meta_OMECYP_Vmax" sboTerm="SBO:0000186" id="LI__OMECYP_Vmax" name="Vmax omeprazole conversion" value="0.338053300155668" units="LI__mmole_per_min_l" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#LI__meta_OMECYP_Vmax">
@@ -2069,7 +2034,7 @@ Calculation of proton concentration as:</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="LI__meta_OMEMETSEX_Vmax" sboTerm="SBO:0000186" id="LI__OMEMETSEX_Vmax" name="Vmax omeprazole metabolite export" value="0.075" units="LI__mmole_per_min_l" constant="true">
+      <parameter metaid="LI__meta_OMEMETSEX_Vmax" sboTerm="SBO:0000186" id="LI__OMEMETSEX_Vmax" name="Vmax omeprazole metabolite export" value="0.32125023435222" units="LI__mmole_per_min_l" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#LI__meta_OMEMETSEX_Vmax">
@@ -2095,7 +2060,7 @@ Calculation of proton concentration as:</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="KI__meta_OMEMETSEX_k" sboTerm="SBO:0000009" id="KI__OMEMETSEX_k" name="rate urinary excretion omeprazole metabolites" value="1" units="KI__per_min" constant="true">
+      <parameter metaid="KI__meta_OMEMETSEX_k" sboTerm="SBO:0000009" id="KI__OMEMETSEX_k" name="rate urinary excretion omeprazole metabolites" value="0.597418091253071" units="KI__per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#KI__meta_OMEMETSEX_k">
@@ -2108,20 +2073,18 @@ Calculation of proton concentration as:</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="ST__meta_Qgacid" sboTerm="SBO:0000002" id="ST__Qgacid" name="gastric acid secretion" value="0.01" units="ST__l_per_min" constant="true">
+      <parameter metaid="ST__meta_Qstomach" sboTerm="SBO:0000002" id="ST__Qstomach" name="stomach fluid loss" value="0.01" units="ST__l_per_min" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>gastric acid flow ~1.5 [l/day]</p>
+            <p>loss of stomach fluid to intestine</p>
           </body>
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#ST__meta_Qgacid">
+            <rdf:Description rdf:about="#ST__meta_Qstomach">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000002"/>
-                  <rdf:li rdf:resource="https://identifiers.org/GO:0001696"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C32661"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -2155,7 +2118,7 @@ Calculation of proton concentration as:</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="ST__meta_ppi_k" sboTerm="SBO:0000153" id="ST__ppi_k" name="Inhibition rate PP" value="0.01" units="ST__l_per_min" constant="true">
+      <parameter metaid="ST__meta_ppi_k" sboTerm="SBO:0000153" id="ST__ppi_k" name="Inhibition rate PP" value="5" units="ST__l_per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#ST__meta_ppi_k">
@@ -2168,7 +2131,7 @@ Calculation of proton concentration as:</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="ST__meta_pp_synthesis_k" sboTerm="SBO:0000153" id="ST__pp_synthesis_k" name="Synthesis rate PP" value="0.01" units="ST__mmole_per_min" constant="true">
+      <parameter metaid="ST__meta_pp_synthesis_k" sboTerm="SBO:0000153" id="ST__pp_synthesis_k" name="Synthesis rate PP" value="0.0004" units="ST__mmole_per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#ST__meta_pp_synthesis_k">
@@ -2181,7 +2144,7 @@ Calculation of proton concentration as:</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="ST__meta_pp_degradation_k" sboTerm="SBO:0000153" id="ST__pp_degradation_k" name="Degradation rate PP" value="0.01" units="ST__mmole_per_min" constant="true">
+      <parameter metaid="ST__meta_pp_degradation_k" sboTerm="SBO:0000153" id="ST__pp_degradation_k" name="Degradation rate PP" value="0.0004" units="ST__mmole_per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#ST__meta_pp_degradation_k">
@@ -3723,55 +3686,63 @@ Ensures non-negative values and capping at pH6.</p>
           </body>
         </notes>
         <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
-          <apply>
-            <plus/>
-            <ci> F_ome_pH2 </ci>
-            <apply>
-              <divide/>
-              <apply>
-                <times/>
-                <apply>
-                  <minus/>
-                  <ci> F_ome_pH6 </ci>
-                  <ci> F_ome_pH2 </ci>
-                </apply>
-                <apply>
-                  <power/>
-                  <apply>
-                    <max/>
-                    <cn sbml:units="dimensionless" type="integer"> 0 </cn>
-                    <apply>
-                      <minus/>
-                      <ci> pH </ci>
-                      <cn sbml:units="dimensionless" type="integer"> 2 </cn>
-                    </apply>
-                  </apply>
-                  <ci> F_ome_n </ci>
-                </apply>
-              </apply>
+          <piecewise>
+            <piece>
               <apply>
                 <plus/>
+                <ci> F_ome_pH2 </ci>
                 <apply>
-                  <power/>
+                  <divide/>
                   <apply>
-                    <max/>
-                    <cn sbml:units="dimensionless" type="integer"> 0 </cn>
+                    <times/>
                     <apply>
                       <minus/>
-                      <ci> pH </ci>
-                      <cn sbml:units="dimensionless" type="integer"> 2 </cn>
+                      <ci> F_ome_pH6 </ci>
+                      <ci> F_ome_pH2 </ci>
+                    </apply>
+                    <apply>
+                      <power/>
+                      <apply>
+                        <max/>
+                        <cn sbml:units="dimensionless" type="integer"> 0 </cn>
+                        <apply>
+                          <minus/>
+                          <ci> pH </ci>
+                          <cn sbml:units="dimensionless" type="integer"> 2 </cn>
+                        </apply>
+                      </apply>
+                      <ci> F_ome_n </ci>
                     </apply>
                   </apply>
-                  <ci> F_ome_n </ci>
-                </apply>
-                <apply>
-                  <power/>
-                  <ci> F_ome_KpH </ci>
-                  <ci> F_ome_n </ci>
+                  <apply>
+                    <plus/>
+                    <apply>
+                      <power/>
+                      <apply>
+                        <max/>
+                        <cn sbml:units="dimensionless" type="integer"> 0 </cn>
+                        <apply>
+                          <minus/>
+                          <ci> pH </ci>
+                          <cn sbml:units="dimensionless" type="integer"> 2 </cn>
+                        </apply>
+                      </apply>
+                      <ci> F_ome_n </ci>
+                    </apply>
+                    <apply>
+                      <power/>
+                      <ci> F_ome_KpH </ci>
+                      <ci> F_ome_n </ci>
+                    </apply>
+                  </apply>
                 </apply>
               </apply>
-            </apply>
-          </apply>
+              <ci> F_ome_solution </ci>
+            </piece>
+            <otherwise>
+              <ci> F_ome </ci>
+            </otherwise>
+          </piecewise>
         </math>
       </assignmentRule>
       <rateRule variable="IVDOSE_ome">
@@ -4934,46 +4905,36 @@ Ensures non-negative values and capping at pH6.</p>
           </rdf:RDF>
         </annotation>
         <listOfProducts>
-          <speciesReference species="ST__protons_gacid" stoichiometry="1" constant="true"/>
+          <speciesReference species="ST__protons_stomach" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <listOfModifiers>
           <modifierSpeciesReference species="ST__pp_active"/>
         </listOfModifiers>
         <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
             <apply>
               <times/>
               <ci> ST__pp_rate_k </ci>
-              <ci> ST__pp_active </ci>
-            </apply>
-          </math>
-        </kineticLaw>
-      </reaction>
-      <reaction metaid="ST__meta_gacid_secretion" sboTerm="SBO:0000651" id="ST__gacid_secretion" name="Gastric acid secretion" reversible="false">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#ST__meta_gacid_secretion">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000651"/>
-                  <rdf:li rdf:resource="https://identifiers.org/GO:0001696"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="ST__protons_gacid" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="ST__protons_stomach" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <apply>
-              <times/>
-              <ci> ST__Qgacid </ci>
-              <ci> ST__protons_gacid </ci>
+              <apply>
+                <power/>
+                <cn sbml:units="dimensionless" type="integer"> 10 </cn>
+                <apply>
+                  <plus/>
+                  <apply>
+                    <divide/>
+                    <apply>
+                      <minus/>
+                      <cn sbml:units="dimensionless"> 1.1 </cn>
+                    </apply>
+                    <apply>
+                      <plus/>
+                      <ci> ST__pp_active </ci>
+                      <cn sbml:units="dimensionless"> 0.1 </cn>
+                    </apply>
+                  </apply>
+                  <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                </apply>
+              </apply>
             </apply>
           </math>
         </kineticLaw>
@@ -4997,7 +4958,7 @@ Ensures non-negative values and capping at pH6.</p>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <apply>
               <times/>
-              <ci> ST__Qgacid </ci>
+              <ci> ST__Qstomach </ci>
               <ci> ST__protons_stomach </ci>
             </apply>
           </math>

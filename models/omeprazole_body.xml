@@ -1512,9 +1512,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
       <parameter id="FQpa" name="pancreas fractional tissue blood flow" value="0.017" units="dimensionless" constant="true"/>
       <parameter id="FQre" name="rest of body fractional tissue blood flow" value="0" units="dimensionless" constant="false"/>
       <parameter id="Mr_ome" name="Molecular weight ome [g/mole]" value="345.4" units="g_per_mole" constant="true"/>
-      <parameter id="ftissue_ome" name="tissue distribution ome" value="0" units="l_per_min" constant="true"/>
       <parameter id="fup_ome" name="fraction unbound in plasma ome" value="1" units="dimensionless" constant="true"/>
       <parameter id="BP_ome" name="blood to plasma ratio ome" value="1" units="dimensionless" constant="true"/>
+      <parameter id="ftissue_ome" name="tissue distribution ome" value="0.449478175067043" units="l_per_min" constant="true"/>
       <parameter id="IVDOSE_ome" name="IV bolus dose ome [mg]" value="0" units="mg" constant="false"/>
       <parameter id="ti_ome" name="injection time ome [s]" value="10" units="second" constant="true"/>
       <parameter id="Ki_ome" name="Ki [1/min] injection ome" value="0.02" units="per_min" constant="false"/>
@@ -1526,9 +1526,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
       <parameter id="Ka_abs_ome" name="Absorption rate ome" value="2" units="per_hr" constant="true"/>
       <parameter id="F_ome" name="fraction absorbed ome" value="1" units="dimensionless" constant="true"/>
       <parameter id="Mr_omemets" name="Molecular weight omemets [g/mole]" value="345.4" units="g_per_mole" constant="true"/>
-      <parameter id="ftissue_omemets" name="tissue distribution omemets" value="0" units="l_per_min" constant="true"/>
       <parameter id="fup_omemets" name="fraction unbound in plasma omemets" value="1" units="dimensionless" constant="true"/>
       <parameter id="BP_omemets" name="blood to plasma ratio omemets" value="1" units="dimensionless" constant="true"/>
+      <parameter id="ftissue_omemets" name="tissue distribution omemets" value="0.1" units="l_per_min" constant="true"/>
+      <parameter id="F_ome_solution" name="Flag if application is solution (1) or (hard) capsule (0)" value="1" units="dimensionless" constant="true"/>
       <parameter id="F_ome_pH2" name="Fraction absorbed at pH 2" value="0.35" units="dimensionless" constant="true"/>
       <parameter id="F_ome_pH6" name="Fraction absorbed at pH 6" value="0.84" units="dimensionless" constant="true"/>
       <parameter id="F_ome_KpH" name="Midpoint of pH absorption effect" value="4" units="dimensionless" constant="true"/>
@@ -3161,55 +3162,63 @@ Ensures non-negative values and capping at pH6.</p>
           </body>
         </notes>
         <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
-          <apply>
-            <plus/>
-            <ci> F_ome_pH2 </ci>
-            <apply>
-              <divide/>
-              <apply>
-                <times/>
-                <apply>
-                  <minus/>
-                  <ci> F_ome_pH6 </ci>
-                  <ci> F_ome_pH2 </ci>
-                </apply>
-                <apply>
-                  <power/>
-                  <apply>
-                    <max/>
-                    <cn sbml:units="dimensionless" type="integer"> 0 </cn>
-                    <apply>
-                      <minus/>
-                      <ci> pH </ci>
-                      <cn sbml:units="dimensionless" type="integer"> 2 </cn>
-                    </apply>
-                  </apply>
-                  <ci> F_ome_n </ci>
-                </apply>
-              </apply>
+          <piecewise>
+            <piece>
               <apply>
                 <plus/>
+                <ci> F_ome_pH2 </ci>
                 <apply>
-                  <power/>
+                  <divide/>
                   <apply>
-                    <max/>
-                    <cn sbml:units="dimensionless" type="integer"> 0 </cn>
+                    <times/>
                     <apply>
                       <minus/>
-                      <ci> pH </ci>
-                      <cn sbml:units="dimensionless" type="integer"> 2 </cn>
+                      <ci> F_ome_pH6 </ci>
+                      <ci> F_ome_pH2 </ci>
+                    </apply>
+                    <apply>
+                      <power/>
+                      <apply>
+                        <max/>
+                        <cn sbml:units="dimensionless" type="integer"> 0 </cn>
+                        <apply>
+                          <minus/>
+                          <ci> pH </ci>
+                          <cn sbml:units="dimensionless" type="integer"> 2 </cn>
+                        </apply>
+                      </apply>
+                      <ci> F_ome_n </ci>
                     </apply>
                   </apply>
-                  <ci> F_ome_n </ci>
-                </apply>
-                <apply>
-                  <power/>
-                  <ci> F_ome_KpH </ci>
-                  <ci> F_ome_n </ci>
+                  <apply>
+                    <plus/>
+                    <apply>
+                      <power/>
+                      <apply>
+                        <max/>
+                        <cn sbml:units="dimensionless" type="integer"> 0 </cn>
+                        <apply>
+                          <minus/>
+                          <ci> pH </ci>
+                          <cn sbml:units="dimensionless" type="integer"> 2 </cn>
+                        </apply>
+                      </apply>
+                      <ci> F_ome_n </ci>
+                    </apply>
+                    <apply>
+                      <power/>
+                      <ci> F_ome_KpH </ci>
+                      <ci> F_ome_n </ci>
+                    </apply>
+                  </apply>
                 </apply>
               </apply>
-            </apply>
-          </apply>
+              <ci> F_ome_solution </ci>
+            </piece>
+            <otherwise>
+              <ci> F_ome </ci>
+            </otherwise>
+          </piecewise>
         </math>
       </assignmentRule>
       <rateRule variable="IVDOSE_ome">
