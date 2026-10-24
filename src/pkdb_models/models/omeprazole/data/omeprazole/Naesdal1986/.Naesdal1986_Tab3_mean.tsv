@@ -1,0 +1,5 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	se	unit	comments
+Naesdal1986	all	12	OME40_PO	tmax	omeprazole	plasma	NA	NA	0.24	0.029	hr	NA
+Naesdal1986	all	12	OME40_PO	concentration	omeprazole	plasma	24.0	hr	3.19	0.439	nmol/l	NA
+Naesdal1986	all	12	OME40_PO	thalf	omeprazole	plasma	NA	NA	0.6	0.076	hr	NA
+Naesdal1986	all	12	OME40_PO	bioavailability	omeprazole	plasma	NA	NA	0.7	0.091	dimensionless	NA

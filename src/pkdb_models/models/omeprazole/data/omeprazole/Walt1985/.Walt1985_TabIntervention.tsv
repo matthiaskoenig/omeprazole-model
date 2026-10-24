@@ -1,0 +1,2 @@
+study	name	measurement_type	choice	substance	value	route	form	time	time_end	time_unit	application	unit	comment
+Walt1985	D_OME_iv_80	dosing	NA	omeprazole	80	iv	powder	0	12	min	single dose	mg	stop time missing

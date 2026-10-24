@@ -1,0 +1,6 @@
+study	group	count	intervention	x_measurement_type	x_substance	tissue	x_label	x_time	x_time_units	x_mean	x_units	y_measurement_type	y_substance	y_label	y_time	y_time_units	y_mean	y_units	comments
+Qadir2017	all	8	OME20	concentration	omeprazole	urine	ome20_conc_urine	24	hr	0.10084726	µg/ml	relative-peak-area	omeprazole	ome20_peak_urine	24	hr	50.158813	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	urine	ome20_conc_urine	24	hr	0.752655	µg/ml	relative-peak-area	omeprazole	ome20_peak_urine	24	hr	208.62083	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	urine	ome20_conc_urine	24	hr	1.2583457	µg/ml	relative-peak-area	omeprazole	ome20_peak_urine	24	hr	423.42496	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	urine	ome20_conc_urine	24	hr	2.0078866	µg/ml	relative-peak-area	omeprazole	ome20_peak_urine	24	hr	641.7951	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	urine	ome20_conc_urine	24	hr	2.5160134	µg/ml	relative-peak-area	omeprazole	ome20_peak_urine	24	hr	641.4141	dimensionless	NA

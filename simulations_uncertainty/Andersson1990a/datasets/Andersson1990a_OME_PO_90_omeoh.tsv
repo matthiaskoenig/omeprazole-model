@@ -1,0 +1,14 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	mean_sd	comment	mean_unit	count_unit
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	0.08062044	hr	0.8924			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	0.10762918	hr	2.666			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	0.24312381	hr	2.34			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	0.33262694	hr	2.895			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	0.40810713	hr	2.499			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	0.4837226	hr	2.055			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	0.7248174	hr	1.508			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	0.9807016	hr	1.201			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	1.4773198	hr	0.7996			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	1.9735323	hr	0.6167			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	2.9660475	hr	0.3551			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	4.0038776	hr	0.1854			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	OME_PO_90_omeoh	4.996844	hr	0.09067			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless

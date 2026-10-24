@@ -1,0 +1,13 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	mean_unit	count_unit
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.06101259	hr	0.28506434				micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.17902203	hr	1.5010605	1.1121465	0.388914	0.952640853824777	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.24930853	hr	1.5917008	1.1973362	0.3943646	0.96599204261679	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.33583546	hr	1.5907118	1.0649801	0.5257317	1.28777440660596	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.41182387	hr	1.6755717	1.1555545	0.5200172	1.27377679747083	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.5030543	hr	1.5830852	1.0687824	0.5143028	1.25977943328467	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.6508379	hr	1.3927932	0.9929119	0.3998813	0.979505142680803	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.84337145	hr	1.0819697	0.6991659	0.3828038	0.937673981598423	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	0.9854531	hr	0.89745814	0.5944592	0.30299894	0.742192795604175	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	1.4896168	hr	0.5945031	0.42306888	0.17143422	0.419926363452035	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	1.9892765	hr	0.400189	0.21161138	0.18857762	0.461918945908464	micromol/l	dimensionless
+Lind1983	group1	6	concentration	D_OME_po_40	omeprazole	plasma	HPLC	Fig3_concentration_po_40	3.0024626	hr	0.21143554	0.11422355	0.09721199	0.238119772380541	micromol/l	dimensionless

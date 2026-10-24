@@ -1,0 +1,1444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level3/version2/core" xmlns:comp="http://www.sbml.org/sbml/level3/version1/comp/version1" xmlns:distrib="http://www.sbml.org/sbml/level3/version1/distrib/version1" level="3" version="2" comp:required="true" distrib:required="true">
+  <notes>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Created with <a href="https://github.com/matthiaskoenig/sbmlutils">https://github.com/matthiaskoenig/sbmlutils</a>.
+<a href="https://doi.org/10.5281/zenodo.5525390">
+        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5525390.svg" alt="DOI"/></a></p>
+      </body>
+    </notes>
+  <model metaid="meta_omeprazole_intestine" id="omeprazole_intestine" name="Model for omeprazole absorption in the intestine" substanceUnits="mmole" timeUnits="min" volumeUnits="litre" areaUnits="m2" lengthUnits="metre" extentUnits="mmole">
+    <notes>
+      <body xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Model for omeprazole absorption in the intestine and the stomach pH</h1>
+        <h2>Application forms</h2>
+        <p>The oral dose is in the stomach (<code>PODOSE_&lt;sid&gt;</code>, mg). The form is set by
+the switches <code>f_ec</code> and <code>f_unprotected</code>:</p>
+        <ul>
+          <li>buffered solution or suspension (<code>f_ec = 0</code>, <code>f_unprotected = 0</code>): the
+dose enters the intestinal lumen with <code>Ka_dis_ome</code>, no degradation.</li>
+          <li>unprotected solution or suspension (<code>f_ec = 0</code>, <code>f_unprotected = 1</code>):
+the fraction <code>F_ome_pH</code> (depending on the stomach pH) enters the lumen,
+the rest is degraded by the gastric acid.</li>
+          <li>enteric-coated form (<code>f_ec = 1</code>): the pellets leave the stomach with
+<code>Ka_ec_ome</code> (<code>POEC_&lt;sid&gt;</code>, mg, pellets in the small intestine) and
+release omeprazole with the same rate into the lumen: a delayed release
+(two steps), no degradation.</li>
+          <li>food (<code>fed = 1</code>): the gastric emptying and the dissolution are slower
+by <code>FED_f_dissolution</code>, the fraction absorbed is <code>FED_f_absorption</code>.</li>
+        </ul>
+        <h2>Absorption</h2>
+        <p>S- and R-omeprazole are absorbed with <code>OMEABS_k</code>, completely
+(<code>F_ome_abs = 1</code>, no unchanged omeprazole in the feces); the
+bioavailability is the hepatic first pass.</p>
+        <h2>Proton pumps and stomach pH</h2>
+        <p>The model describes the change in stomach pH depending on omeprazole. A key
+component are the proton pumps in the parietal cells.</p>
+        <ul>
+          <li>proton-pumps (PP) in gastric wall (gastric parietal cells, protein amount)</li>
+          <li>PP can be inhibited by omeprazole in the gastric wall; the activation processes
+from omeprazole to the active inhibitor in the gastric wall are not modeled in
+detail, but omeprazole was assumed to directly inhibit the PPs.</li>
+          <li>inhibition of PP converts the active in the inactive form</li>
+          <li>PP have a continuous turnover consisting of PP protein synthesis and PP
+degradation. The newly synthesized PP protein is active. Active and inactive PP
+are degraded identically.</li>
+          <li>pH in the stomach is modeled by calculating the amount of protons in the stomach.</li>
+          <li>PP (active) can secrete protons in the lumen (-&gt; decrease pH)</li>
+          <li>only omeprazole, but not the omeprazole metabolites were assumed to have proton
+pump inhibitor (PPI) activity.</li>
+        </ul>
+        <pre>
+          <code>PP (active) + OME -&gt; PP-OME (inactive)
+--synthesis--&gt; PP (active)
+PP (active) --degradation--&gt;
+PP-OME (inactive) --degradation--&gt;
+</code>
+        </pre>
+        <h2>pH calculation</h2>
+        <ul>
+          <li>pH is calculated as decimal logarithm of reciprocal hydrogen ion activity
+<code>pH = - log10 ([H+])</code>. <code>[H+]</code> is in [mole/litre] = [mmole/litre] in stomach
+volume.</li>
+          <li>The normal stomach pH values are: pH=1-3</li>
+        </ul>
+        <h2>gastric acid secretion</h2>
+        <ul>
+          <li>A typical adult human stomach will secrete about 1.5 liters of gastric acid daily.</li>
+          <li>Stomach volume is around 100 [ml]</li>
+          <li>PP pump H+ into [gastric acid]; <code>[gastric acid] --1.5 [l/day]--&gt; [stomach (100[ml])] --1.5 [l/day]--&gt;</code>.</li>
+          <li>
+            <code>1.5 [l/day] = 1.5 [l/day]/(24*60 [min/day])* 1000 [ml/l] = 1.04 [ml/min]</code>
+          </li>
+          <li>acid output basal: <code>4.3 [mmole (H+)/hr] placebo =&gt; 4.3 mmole/100 ml = 0.043 mmole/ml = 43 mole/litre (in 1 hr)</code>.
+<code>Delta pH (1 hr) = - log10(43) = -1.63</code></li>
+          <li>stimulated (food stimulated): ~ 8 [mmole (H+)/hr] = 70-80 [mole/litre].
+<code>Delta pH (1 hr) = - log10(350) = -1.88</code></li>
+          <li>stimulated (pentagastrin): 35 [mmole (H+)/hr] = 350 [mole/litre].
+<code>Delta pH (1 hr) = - log10(350) = -2.54</code></li>
+        </ul>
+        <h2>pH changes</h2>
+        <p>Stomach pH should be ~1-3 pH at steady state and go up to ~7 pH at maximum PP
+inhibition at 80-90%.</p>
+        <p>The content of this model has been carefully created in a manual research effort.</p>
+        <h2>Terms of use</h2>
+        <p>Copyright © 2026 <a href="https://livermetabolism.com" title="Matthias König" target="_blank">Matthias König</a>.</p>
+        <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png"/>
+        </a>
+        <br/>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<p>Redistribution and use of any part of this model, with or without modification, are permitted provided
+that the following conditions are met:</p>
+        <ul>
+          <li>Redistributions of this SBML file must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+          <li>Redistributions in a different form must reproduce the above copyright notice, this list of conditions
+and the following disclaimer in the documentation and/or other materials provided
+with the distribution.</li>
+        </ul>
+        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</p></body>
+      </notes>
+    <annotation>
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+        <rdf:Description rdf:about="#meta_omeprazole_intestine">
+          <dcterms:creator>
+            <rdf:Bag>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Leal Pujol</vCard4:family-name>
+                  <vCard4:given-name>Helen</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>lepujolh@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Balci</vCard4:family-name>
+                  <vCard4:given-name>Sükrü</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>balcisue@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>König</vCard4:family-name>
+                  <vCard4:given-name>Matthias</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>koenigmx@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+            </rdf:Bag>
+          </dcterms:creator>
+          <dcterms:created rdf:parseType="Resource">
+            <dcterms:W3CDTF>2026-10-24T18:40:15Z</dcterms:W3CDTF>
+          </dcterms:created>
+          <dcterms:modified rdf:parseType="Resource">
+            <dcterms:W3CDTF>2026-10-24T18:40:15Z</dcterms:W3CDTF>
+          </dcterms:modified>
+        </rdf:Description>
+      </rdf:RDF>
+    </annotation>
+    <listOfUnitDefinitions>
+      <unitDefinition id="g_per_mole" name="g/mole">
+        <listOfUnits>
+          <unit kind="gram" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="mole" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="l_per_min" name="l/min">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="l_per_min_mmole" name="l/min/mmole">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+          <unit kind="mole" exponent="-1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="m2" name="meter^2">
+        <listOfUnits>
+          <unit kind="metre" exponent="2" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mM" name="mmole/liter">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mg" name="mg">
+        <listOfUnits>
+          <unit kind="gram" exponent="1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mg_per_min" name="mg/min">
+        <listOfUnits>
+          <unit kind="gram" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="min" name="min">
+        <listOfUnits>
+          <unit kind="second" exponent="1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="min_per_hr" name="min/hour">
+        <listOfUnits>
+          <unit kind="second" exponent="1" scale="0" multiplier="60"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="3600"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole" name="mmole">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole_per_min" name="mmole/min">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole_per_min_l" name="mmole/min/liter">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="per_hr" name="1/hr">
+        <listOfUnits>
+          <unit kind="second" exponent="-1" scale="0" multiplier="3600"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="per_min" name="1/min">
+        <listOfUnits>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="per_mmole" name="1/mmole">
+        <listOfUnits>
+          <unit kind="mole" exponent="-1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+    </listOfUnitDefinitions>
+    <listOfCompartments>
+      <compartment metaid="meta_Vext" sboTerm="SBO:0000290" id="Vext" name="plasma" size="1" units="litre" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C13356"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000131"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vlumen" sboTerm="SBO:0000290" id="Vlumen" name="intestinal lumen (inner part of intestine)" size="1.15425" units="litre" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vlumen">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:14586"/>
+                  <rdf:li rdf:resource="https://identifiers.org/UBERON:0018543"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vfeces" sboTerm="SBO:0000290" id="Vfeces" name="feces" size="1" units="litre" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vfeces">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:64183"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C13234"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000440"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vstomach" sboTerm="SBO:0000290" id="Vstomach" name="stomach" size="1" units="litre" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vstomach">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:7148"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C12391"/>
+                  <rdf:li rdf:resource="https://identifiers.org/UBERON:0000945"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0001307"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vpar" sboTerm="SBO:0000290" id="Vpar" name="parietal cells" size="1" units="litre" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>The proton pumps are dimensionless amounts, the volume is not used.</p>
+          </body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vpar">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C12594"/>
+                  <rdf:li rdf:resource="https://identifiers.org/snomedct:57041003"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species metaid="meta_some_stomach" sboTerm="SBO:0000247" id="some_stomach" name="S-omeprazole (stomach)" compartment="Vstomach" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="true" constant="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Placeholder of the dose, which is the parameter <code>PODOSE_&lt;sid&gt;</code>
+(stomach) and <code>POEC_&lt;sid&gt;</code> (enteric-coated pellets in the
+small intestine) in mg.</p>
+          </body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_some_stomach">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9568614"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:50275"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-DEOSSOPVSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_some_lumen" sboTerm="SBO:0000247" id="some_lumen" name="S-omeprazole (intestinal lumen)" compartment="Vlumen" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_some_lumen">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9568614"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:50275"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-DEOSSOPVSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_some_ext" sboTerm="SBO:0000247" id="some_ext" name="S-omeprazole (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_some_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9568614"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:50275"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-DEOSSOPVSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_some_feces" sboTerm="SBO:0000247" id="some_feces" name="S-omeprazole (feces)" compartment="Vfeces" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_some_feces">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9568614"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:50275"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-DEOSSOPVSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_rome_stomach" sboTerm="SBO:0000247" id="rome_stomach" name="R-omeprazole (stomach)" compartment="Vstomach" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="true" constant="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Placeholder of the dose, which is the parameter <code>PODOSE_&lt;sid&gt;</code>
+(stomach) and <code>POEC_&lt;sid&gt;</code> (enteric-coated pellets in the
+small intestine) in mg.</p>
+          </body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_rome_stomach">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9579578"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:77262"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-XMMPIXPASA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_rome_lumen" sboTerm="SBO:0000247" id="rome_lumen" name="R-omeprazole (intestinal lumen)" compartment="Vlumen" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_rome_lumen">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9579578"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:77262"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-XMMPIXPASA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_rome_ext" sboTerm="SBO:0000247" id="rome_ext" name="R-omeprazole (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_rome_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9579578"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:77262"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-XMMPIXPASA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_rome_feces" sboTerm="SBO:0000247" id="rome_feces" name="R-omeprazole (feces)" compartment="Vfeces" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_rome_feces">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9579578"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:77262"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-XMMPIXPASA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species sboTerm="SBO:0000247" id="omeoth_lumen" name="other omeprazole metabolites (intestinal lumen)" compartment="Vlumen" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species sboTerm="SBO:0000247" id="omeoth_feces" name="other omeprazole metabolites (feces)" compartment="Vfeces" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false"/>
+      <species metaid="meta_protons_stomach" sboTerm="SBO:0000247" id="protons_stomach" name="H+ (stomach gastric fluid)" compartment="Vstomach" initialConcentration="10" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Typical stomach pH of: <code>pH = 1-3; pH=2.0</code>
+Calculation of proton concentration as:</p>
+            <pre>
+              <code>pH = -log10(H+) =&gt; H+ = 10^-pH = 10^-2 = 0.01 [mole/litre] = 10 [mmole/l]
+   = 10 [mM]
+</code>
+            </pre>
+          </body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_protons_stomach">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C17024"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:24636"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_pp_active" sboTerm="SBO:0000245" id="pp_active" name="proton pump (active)" compartment="Vpar" initialAmount="1" substanceUnits="dimensionless" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false" conversionFactor="cf_species_dimensionless">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_pp_active">
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/omit:0017846"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_pp_inactive" sboTerm="SBO:0000245" id="pp_inactive" name="proton pump (inactive)" compartment="Vpar" initialAmount="0" substanceUnits="dimensionless" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false" conversionFactor="cf_species_dimensionless">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_pp_inactive">
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/omit:0017846"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+    </listOfSpecies>
+    <listOfParameters>
+      <parameter sboTerm="SBO:0000002" id="pH" name="pH value stomach" value="2" units="dimensionless" constant="false"/>
+      <parameter sboTerm="SBO:0000002" id="Qstomach" name="stomach fluid loss" value="0.01" units="l_per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>loss of stomach fluid to intestine</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="cf_species_dimensionless" name="dimensionless species conversion" value="1" units="per_mmole" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="f_ec" name="enteric-coated form (0 solution or suspension, 1 enteric-coated)" value="0" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>1: capsule with enteric-coated pellets, enteric-coated tablet, MUPS
+tablet, enteric-coated granules; 0: solution or suspension. Set by the
+experiments from the application form.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="f_unprotected" name="unprotected solution (0 buffered or enteric-coated, 1 unprotected)" value="0" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>1: a solution or suspension without bicarbonate buffer, which the
+gastric acid degrades (<code>F_ome_pH</code>); 0: buffered solution or suspension
+and the enteric-coated forms. Set by the experiments.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="Ka_dis_ome" name="rate of the gastric emptying of a solution" value="30" units="per_hr" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Gastric emptying of a buffered solution: tmax 0.2-0.3 hr
+[Andersson1990a, Andersson1993, Naesdal1986, Regaardh1990]. Fast,
+not fitted: the absorption <code>OMEABS_k</code> limits the uptake, the fits
+spread the rate over 9-60 /hr at the same cost.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="Ka_ec_ome" name="rate of the gastric emptying and the release of an enteric-coated form" value="1.45474229513195" units="per_hr" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>The enteric-coated pellets leave the stomach and dissolve in the small
+intestine, both with this rate (a delayed release): tmax 1.5-2.5 hr
+[Elkoshi2002, Palovaara2003, Uno2007].</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>GU__Ka_ec_ome</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 1.45474 1/(hr) |
+| bounds | [0.2, 20] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [1.32522, 1.60719] |
+| Fisher confidence interval | [1.36691, 1.54822] |
+| distribution of the draws | <code>lognormal(0.37482876818862887, 0.04921324551669155, 0.2, 20.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_hr" distrib:type="confidenceInterval" distrib:valueLower="1.32521672644348" distrib:valueUpper="1.60719173293996"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.0461788252479624" distrib:units="per_hr" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <cn> 0.374828768188629 </cn>
+                  <cn> 0.0492132455166916 </cn>
+                  <cn> 0.2 </cn>
+                  <cn> 20 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="fed" name="fed state (0 fasted, 1 fed)" value="0" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="FED_f_dissolution" name="fed effect on the gastric emptying and dissolution" value="0.35" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>A meal slows the gastric emptying of the enteric-coated pellets: tmax
++1.5 to +3 hr, Cmax x0.34-0.40 (VazdaSilva2005, high-fat breakfast).
+Not fitted (one study).</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="FED_f_absorption" name="fed effect on the fraction absorbed" value="0.65" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>A meal lowers the exposure: AUC x0.62-0.66 at steady state
+(VazdaSilva2005, high-fat breakfast). Not fitted (one study).</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="F_ome_abs" name="fraction absorbed omeprazole" value="1" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Omeprazole is absorbed completely: the urinary recovery of the
+radioactivity is the same after IV and oral doses, no unchanged
+omeprazole in the feces [Regaardh1986, Andersson1993]. Not fitted.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMEABS_k" name="rate of omeprazole absorption" value="0.0909283349017812" units="per_min" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>GU__OMEABS_k</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.0909283 1/(min) |
+| bounds | [0.001, 1] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.0721061, 0.117414] |
+| Fisher confidence interval | [0.0776959, 0.106414] |
+| distribution of the draws | <code>lognormal(-2.3976836112806565, 0.12438109566173126, 0.001, 1.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_min" distrib:type="confidenceInterval" distrib:valueLower="0.0721061378819225" distrib:valueUpper="0.117413759981421"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.00728918700084895" distrib:units="per_min" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 2.39768361128066 </cn>
+                  </apply>
+                  <cn> 0.124381095661731 </cn>
+                  <cn> 0.001 </cn>
+                  <cn> 1 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMEOTHEXC_k" name="rate of the fecal excretion of the other metabolites" value="0.0007" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Transit of the metabolites of the bile from the intestinal lumen into
+the feces, half-life about 16 hr. Not fitted.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000647" id="Mr_ome" name="Molecular weight omeprazole [g/mole]" value="345.416" units="g_per_mole" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="F_ome_pH2" name="fraction not degraded at pH 2" value="0.35" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="F_ome_pH6" name="fraction not degraded at pH 6" value="1" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="F_ome_KpH" name="midpoint of the pH effect on the degradation" value="4" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="F_ome_n" name="Hill coefficient of the pH effect on the degradation" value="2" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="PODOSE_some" name="oral dose S-omeprazole in the stomach [mg]" value="0" units="mg" constant="false"/>
+      <parameter sboTerm="SBO:0000002" id="POEC_some" name="enteric-coated S-omeprazole in the small intestine [mg]" value="0" units="mg" constant="false"/>
+      <parameter sboTerm="SBO:0000002" id="PODOSE_rome" name="oral dose R-omeprazole in the stomach [mg]" value="0" units="mg" constant="false"/>
+      <parameter sboTerm="SBO:0000002" id="POEC_rome" name="enteric-coated R-omeprazole in the small intestine [mg]" value="0" units="mg" constant="false"/>
+      <parameter sboTerm="SBO:0000153" id="pp_rate_k" name="Rate of proton secretion" value="0.1" units="mmole_per_min" constant="true"/>
+      <parameter sboTerm="SBO:0000153" id="ppi_k" name="Inhibition rate PP" value="5" units="l_per_min" constant="true"/>
+      <parameter sboTerm="SBO:0000153" id="pp_synthesis_k" name="Synthesis rate PP" value="0.0004" units="mmole_per_min" constant="true"/>
+      <parameter sboTerm="SBO:0000153" id="pp_degradation_k" name="Degradation rate PP" value="0.0004" units="mmole_per_min" constant="true"/>
+      <parameter id="pp_total" name="total proton pump" units="dimensionless" constant="false"/>
+      <parameter id="F_ome_pH" name="fraction of an unprotected solution not degraded in the stomach" units="dimensionless" constant="false"/>
+      <parameter id="F_ome_stomach" name="fraction of a solution not degraded in the stomach" units="dimensionless" constant="false"/>
+      <parameter id="Ka_emptying" name="rate of the gastric emptying of the form" units="per_hr" constant="false"/>
+      <parameter id="F_ome_abs_eff" name="fraction absorbed omeprazole (fed state)" units="dimensionless" constant="false"/>
+      <parameter id="emptying_some" name="gastric emptying S-omeprazole" units="mmole_per_min" constant="false"/>
+      <parameter id="absorption_some" name="absorption S-omeprazole" units="mmole_per_min" constant="false"/>
+      <parameter id="emptying_rome" name="gastric emptying R-omeprazole" units="mmole_per_min" constant="false"/>
+      <parameter id="absorption_rome" name="absorption R-omeprazole" units="mmole_per_min" constant="false"/>
+    </listOfParameters>
+    <listOfRules>
+      <assignmentRule sboTerm="SBO:0000359" name="total proton pump" variable="pp_total">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <plus/>
+            <ci> pp_active </ci>
+            <ci> pp_inactive </ci>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule metaid="_meta_pH_rule" sboTerm="SBO:0000474" name="pH" variable="pH">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>pH calculation with conversion of stomach proton concentration:
+<code>[mmole/l] -&gt; [mole/l]</code></p>
+          </body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#_meta_pH_rule">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C45997"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+          <apply>
+            <minus/>
+            <apply>
+              <log/>
+              <logbase>
+                <cn type="integer"> 10 </cn>
+              </logbase>
+              <apply>
+                <divide/>
+                <ci> protons_stomach </ci>
+                <cn sbml:units="mM" type="integer"> 1000 </cn>
+              </apply>
+            </apply>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="fraction of an unprotected solution not degraded in the stomach" variable="F_ome_pH">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Sigmoidal interpolation between F_ome_pH2 and F_ome_pH6: omeprazole is
+unstable at a low pH. Only for unprotected solutions (<code>f_unprotected</code>).</p>
+          </body>
+        </notes>
+        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+          <apply>
+            <plus/>
+            <ci> F_ome_pH2 </ci>
+            <apply>
+              <divide/>
+              <apply>
+                <times/>
+                <apply>
+                  <minus/>
+                  <ci> F_ome_pH6 </ci>
+                  <ci> F_ome_pH2 </ci>
+                </apply>
+                <apply>
+                  <power/>
+                  <apply>
+                    <max/>
+                    <cn sbml:units="dimensionless" type="integer"> 0 </cn>
+                    <apply>
+                      <minus/>
+                      <ci> pH </ci>
+                      <cn sbml:units="dimensionless" type="integer"> 2 </cn>
+                    </apply>
+                  </apply>
+                  <ci> F_ome_n </ci>
+                </apply>
+              </apply>
+              <apply>
+                <plus/>
+                <apply>
+                  <power/>
+                  <apply>
+                    <max/>
+                    <cn sbml:units="dimensionless" type="integer"> 0 </cn>
+                    <apply>
+                      <minus/>
+                      <ci> pH </ci>
+                      <cn sbml:units="dimensionless" type="integer"> 2 </cn>
+                    </apply>
+                  </apply>
+                  <ci> F_ome_n </ci>
+                </apply>
+                <apply>
+                  <power/>
+                  <ci> F_ome_KpH </ci>
+                  <ci> F_ome_n </ci>
+                </apply>
+              </apply>
+            </apply>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="fraction of a solution not degraded in the stomach" variable="F_ome_stomach">
+        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+          <apply>
+            <minus/>
+            <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+            <apply>
+              <times/>
+              <ci> f_unprotected </ci>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> F_ome_pH </ci>
+              </apply>
+            </apply>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="rate of the gastric emptying of the form" variable="Ka_emptying">
+        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+          <apply>
+            <times/>
+            <apply>
+              <plus/>
+              <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+              <apply>
+                <times/>
+                <ci> fed </ci>
+                <apply>
+                  <minus/>
+                  <ci> FED_f_dissolution </ci>
+                  <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                </apply>
+              </apply>
+            </apply>
+            <apply>
+              <plus/>
+              <apply>
+                <times/>
+                <apply>
+                  <minus/>
+                  <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                  <ci> f_ec </ci>
+                </apply>
+                <ci> Ka_dis_ome </ci>
+              </apply>
+              <apply>
+                <times/>
+                <ci> f_ec </ci>
+                <ci> Ka_ec_ome </ci>
+              </apply>
+            </apply>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="fraction absorbed omeprazole (fed state)" variable="F_ome_abs_eff">
+        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+          <apply>
+            <times/>
+            <ci> F_ome_abs </ci>
+            <apply>
+              <plus/>
+              <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+              <apply>
+                <times/>
+                <ci> fed </ci>
+                <apply>
+                  <minus/>
+                  <ci> FED_f_absorption </ci>
+                  <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                </apply>
+              </apply>
+            </apply>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="gastric emptying S-omeprazole" variable="emptying_some">
+        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+          <apply>
+            <divide/>
+            <apply>
+              <times/>
+              <apply>
+                <divide/>
+                <ci> Ka_emptying </ci>
+                <cn sbml:units="min_per_hr" type="integer"> 60 </cn>
+              </apply>
+              <ci> PODOSE_some </ci>
+            </apply>
+            <ci> Mr_ome </ci>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="absorption S-omeprazole" variable="absorption_some">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <ci> OMEABS_k </ci>
+            <ci> Vlumen </ci>
+            <ci> some_lumen </ci>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="gastric emptying R-omeprazole" variable="emptying_rome">
+        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+          <apply>
+            <divide/>
+            <apply>
+              <times/>
+              <apply>
+                <divide/>
+                <ci> Ka_emptying </ci>
+                <cn sbml:units="min_per_hr" type="integer"> 60 </cn>
+              </apply>
+              <ci> PODOSE_rome </ci>
+            </apply>
+            <ci> Mr_ome </ci>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="absorption R-omeprazole" variable="absorption_rome">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <ci> OMEABS_k </ci>
+            <ci> Vlumen </ci>
+            <ci> rome_lumen </ci>
+          </apply>
+        </math>
+      </assignmentRule>
+      <rateRule name="gastric emptying S-omeprazole" variable="PODOSE_some">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <apply>
+              <minus/>
+              <ci> emptying_some </ci>
+            </apply>
+            <ci> Mr_ome </ci>
+          </apply>
+        </math>
+      </rateRule>
+      <rateRule name="enteric-coated pellets S-omeprazole" variable="POEC_some">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <apply>
+              <minus/>
+              <apply>
+                <times/>
+                <ci> f_ec </ci>
+                <ci> emptying_some </ci>
+              </apply>
+              <ci> release_some </ci>
+            </apply>
+            <ci> Mr_ome </ci>
+          </apply>
+        </math>
+      </rateRule>
+      <rateRule name="gastric emptying R-omeprazole" variable="PODOSE_rome">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <apply>
+              <minus/>
+              <ci> emptying_rome </ci>
+            </apply>
+            <ci> Mr_ome </ci>
+          </apply>
+        </math>
+      </rateRule>
+      <rateRule name="enteric-coated pellets R-omeprazole" variable="POEC_rome">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <apply>
+              <minus/>
+              <apply>
+                <times/>
+                <ci> f_ec </ci>
+                <ci> emptying_rome </ci>
+              </apply>
+              <ci> release_rome </ci>
+            </apply>
+            <ci> Mr_ome </ci>
+          </apply>
+        </math>
+      </rateRule>
+    </listOfRules>
+    <listOfReactions>
+      <reaction sboTerm="SBO:0000651" id="pp_rate" name="Proton secretion by proton pump" reversible="false">
+        <listOfProducts>
+          <speciesReference species="protons_stomach" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="pp_active"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <ci> pp_rate_k </ci>
+              <apply>
+                <power/>
+                <cn sbml:units="dimensionless" type="integer"> 10 </cn>
+                <apply>
+                  <plus/>
+                  <apply>
+                    <divide/>
+                    <apply>
+                      <minus/>
+                      <cn sbml:units="dimensionless"> 1.1 </cn>
+                    </apply>
+                    <apply>
+                      <plus/>
+                      <ci> pp_active </ci>
+                      <cn sbml:units="dimensionless"> 0.1 </cn>
+                    </apply>
+                  </apply>
+                  <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                </apply>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000651" id="gacid_loss" name="Gastric acid loss to intestine" reversible="false">
+        <listOfReactants>
+          <speciesReference species="protons_stomach" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> Qstomach </ci>
+              <ci> protons_stomach </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000169" id="ppi" name="PP inhibition" reversible="false">
+        <listOfReactants>
+          <speciesReference species="pp_active" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="pp_inactive" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="some_ext"/>
+          <modifierSpeciesReference species="rome_ext"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> ppi_k </ci>
+              <ci> pp_active </ci>
+              <apply>
+                <plus/>
+                <ci> some_ext </ci>
+                <ci> rome_ext </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000651" id="pp_synthesis" name="PP synthesis" reversible="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>
+              <strong>steady state</strong>
+            </p>
+            <pre>
+              <code>pp_synthesis = pp_active_degradation (with pp_active = 1 [dimensionless])
+pp_synthesis_k = pp_degradation_k * pp_active
+pp_active = pp_synthesis_k/pp_degradation_k
+</code>
+            </pre>
+          </body>
+        </notes>
+        <listOfProducts>
+          <speciesReference species="pp_active" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> pp_synthesis_k </ci>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000651" id="pp_active_degradation" name="degradation PP active" reversible="false">
+        <listOfReactants>
+          <speciesReference species="pp_active" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> pp_degradation_k </ci>
+              <ci> pp_active </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000651" id="pp_inactive_degradation" name="degradation PP inactive" reversible="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Identical kinetics to degradation of active PP.</p>
+          </body>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="pp_inactive" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> pp_degradation_k </ci>
+              <ci> pp_inactive </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="OMEOTHEXC" name="excretion other metabolites (feces)" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="omeoth_lumen" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoth_feces" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> OMEOTHEXC_k </ci>
+              <ci> Vlumen </ci>
+              <ci> omeoth_lumen </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="dissolution_some" name="gastric emptying of the solution S-omeprazole" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="some_stomach" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="some_lumen" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> f_ec </ci>
+              </apply>
+              <ci> F_ome_stomach </ci>
+              <ci> emptying_some </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000176" id="degradation_some" name="acid degradation S-omeprazole" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="some_stomach" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfModifiers>
+          <modifierSpeciesReference species="protons_stomach"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> f_ec </ci>
+              </apply>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> F_ome_stomach </ci>
+              </apply>
+              <ci> emptying_some </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="release_some" name="release from the enteric-coated pellets S-omeprazole" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="some_stomach" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="some_lumen" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <divide/>
+              <apply>
+                <times/>
+                <apply>
+                  <divide/>
+                  <apply>
+                    <times/>
+                    <apply>
+                      <plus/>
+                      <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                      <apply>
+                        <times/>
+                        <ci> fed </ci>
+                        <apply>
+                          <minus/>
+                          <ci> FED_f_dissolution </ci>
+                          <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                        </apply>
+                      </apply>
+                    </apply>
+                    <ci> Ka_ec_ome </ci>
+                  </apply>
+                  <cn sbml:units="min_per_hr" type="integer"> 60 </cn>
+                </apply>
+                <ci> POEC_some </ci>
+              </apply>
+              <ci> Mr_ome </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="SOMEABS" name="absorption S-omeprazole" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="some_lumen" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="some_ext" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> F_ome_abs_eff </ci>
+              <ci> absorption_some </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="SOMEEXC" name="excretion S-omeprazole (feces)" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="some_lumen" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="some_feces" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> F_ome_abs_eff </ci>
+              </apply>
+              <ci> absorption_some </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="dissolution_rome" name="gastric emptying of the solution R-omeprazole" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="rome_stomach" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="rome_lumen" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> f_ec </ci>
+              </apply>
+              <ci> F_ome_stomach </ci>
+              <ci> emptying_rome </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000176" id="degradation_rome" name="acid degradation R-omeprazole" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="rome_stomach" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfModifiers>
+          <modifierSpeciesReference species="protons_stomach"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> f_ec </ci>
+              </apply>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> F_ome_stomach </ci>
+              </apply>
+              <ci> emptying_rome </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="release_rome" name="release from the enteric-coated pellets R-omeprazole" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="rome_stomach" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="rome_lumen" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <divide/>
+              <apply>
+                <times/>
+                <apply>
+                  <divide/>
+                  <apply>
+                    <times/>
+                    <apply>
+                      <plus/>
+                      <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                      <apply>
+                        <times/>
+                        <ci> fed </ci>
+                        <apply>
+                          <minus/>
+                          <ci> FED_f_dissolution </ci>
+                          <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                        </apply>
+                      </apply>
+                    </apply>
+                    <ci> Ka_ec_ome </ci>
+                  </apply>
+                  <cn sbml:units="min_per_hr" type="integer"> 60 </cn>
+                </apply>
+                <ci> POEC_rome </ci>
+              </apply>
+              <ci> Mr_ome </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="ROMEABS" name="absorption R-omeprazole" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="rome_lumen" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="rome_ext" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> F_ome_abs_eff </ci>
+              <ci> absorption_rome </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="ROMEEXC" name="excretion R-omeprazole (feces)" reversible="false" compartment="Vlumen">
+        <listOfReactants>
+          <speciesReference species="rome_lumen" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="rome_feces" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> F_ome_abs_eff </ci>
+              </apply>
+              <ci> absorption_rome </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+    </listOfReactions>
+    <comp:listOfPorts>
+      <comp:port metaid="pH_port" sboTerm="SBO:0000599" comp:idRef="pH" comp:id="pH_port" comp:name="Port of pH"/>
+      <comp:port metaid="PODOSE_some_port" sboTerm="SBO:0000599" comp:idRef="PODOSE_some" comp:id="PODOSE_some_port" comp:name="Port of PODOSE_some"/>
+      <comp:port metaid="PODOSE_rome_port" sboTerm="SBO:0000599" comp:idRef="PODOSE_rome" comp:id="PODOSE_rome_port" comp:name="Port of PODOSE_rome"/>
+      <comp:port metaid="Vext_port" sboTerm="SBO:0000599" comp:idRef="Vext" comp:id="Vext_port" comp:name="Port of Vext"/>
+      <comp:port metaid="Vlumen_port" sboTerm="SBO:0000599" comp:idRef="Vlumen" comp:id="Vlumen_port" comp:name="Port of Vlumen"/>
+      <comp:port metaid="Vfeces_port" sboTerm="SBO:0000599" comp:idRef="Vfeces" comp:id="Vfeces_port" comp:name="Port of Vfeces"/>
+      <comp:port metaid="Vstomach_port" sboTerm="SBO:0000599" comp:idRef="Vstomach" comp:id="Vstomach_port" comp:name="Port of Vstomach"/>
+      <comp:port metaid="some_lumen_port" sboTerm="SBO:0000599" comp:idRef="some_lumen" comp:id="some_lumen_port" comp:name="Port of some_lumen"/>
+      <comp:port metaid="some_ext_port" sboTerm="SBO:0000599" comp:idRef="some_ext" comp:id="some_ext_port" comp:name="Port of some_ext"/>
+      <comp:port metaid="some_feces_port" sboTerm="SBO:0000599" comp:idRef="some_feces" comp:id="some_feces_port" comp:name="Port of some_feces"/>
+      <comp:port metaid="rome_lumen_port" sboTerm="SBO:0000599" comp:idRef="rome_lumen" comp:id="rome_lumen_port" comp:name="Port of rome_lumen"/>
+      <comp:port metaid="rome_ext_port" sboTerm="SBO:0000599" comp:idRef="rome_ext" comp:id="rome_ext_port" comp:name="Port of rome_ext"/>
+      <comp:port metaid="rome_feces_port" sboTerm="SBO:0000599" comp:idRef="rome_feces" comp:id="rome_feces_port" comp:name="Port of rome_feces"/>
+      <comp:port metaid="omeoth_lumen_port" sboTerm="SBO:0000599" comp:idRef="omeoth_lumen" comp:id="omeoth_lumen_port" comp:name="Port of omeoth_lumen"/>
+      <comp:port metaid="omeoth_feces_port" sboTerm="SBO:0000599" comp:idRef="omeoth_feces" comp:id="omeoth_feces_port" comp:name="Port of omeoth_feces"/>
+      <comp:port metaid="protons_stomach_port" sboTerm="SBO:0000599" comp:idRef="protons_stomach" comp:id="protons_stomach_port" comp:name="Port of protons_stomach"/>
+    </comp:listOfPorts>
+  </model>
+</sbml>

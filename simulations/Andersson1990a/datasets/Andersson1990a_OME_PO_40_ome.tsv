@@ -1,0 +1,11 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	mean_sd	comment	mean_unit	count_unit
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	6.2660933	min	0.9501			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	11.119222	min	1.912			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	16.053349	min	2.144			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	20.566736	min	1.946			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	25.95535	min	2.113			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	30.029999	min	1.769			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	45.403866	min	1.038			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	59.857502	min	0.7047			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	89.64901	min	0.3641			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_40	omeprazole 	plasma	HPLC	OME_PO_40_ome	120.302246	min	0.2479			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless

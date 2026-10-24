@@ -1,0 +1,9 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit	comments
+Prichard1985	all	NA	8	species	NA	homo sapiens	8	NA	NA	NA	NA	NA	NA	NA
+Prichard1985	all	NA	8	healthy	NA	Y	8	NA	NA	NA	NA	NA	NA	NA
+Prichard1985	all	NA	8	sex	NA	M	8	NA	NA	NA	NA	NA	NA	NA
+Prichard1985	all	NA	8	age	NA	NA	8	22.0	NA	20.0	26.0	NA	yr	NA
+Prichard1985	all	NA	8	weight	NA	NA	8	74.0	NA	63.0	116.0	NA	kg	NA
+Prichard1985	all	NA	8	smoking	NA	N	8	NA	NA	NA	NA	NA	NA	NA
+Prichard1985	am	all	8	circadian status (time of day)	NA	morning	8	NA	NA	NA	NA	NA	NA	NA
+Prichard1985	pm	all	8	circadian status (time of day)	NA	evening	8	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	se	sd	unit	comments
+Qadir2017	all	8.0	OME20	recovery	omeprazole	urine	ome_recovery	0.0	min	0.0	NA	NA	percent	very small error bars
+Qadir2017	all	8.0	OME20	recovery	omeprazole	urine	ome_recovery	165.0	min	4.908616	0.25	0.7071	percent	SE of the bars of Fig5 (6.71 +- 0.358 % at 8 h in the text)
+Qadir2017	all	8.0	OME20	recovery	omeprazole	urine	ome_recovery	240.0	min	5.7023497	0.29	0.8202	percent	SE of the bars of Fig5 (6.71 +- 0.358 % at 8 h in the text)
+Qadir2017	all	8.0	OME20	recovery	omeprazole	urine	ome_recovery	360.0	min	6.1827674	0.33	0.9334	percent	SE of the bars of Fig5 (6.71 +- 0.358 % at 8 h in the text)
+Qadir2017	all	8.0	OME20	recovery	omeprazole	urine	ome_recovery	480.0	min	6.7467365	0.358	1.0126	percent	SE of the bars of Fig5 (6.71 +- 0.358 % at 8 h in the text)
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	0.0	min	0.0	NA	NA	µmole	amount calculated from recovery
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	165.0	min	2.84214743960905	0.144753	0.409423	µmole	amount calculated from recovery
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	240.0	min	3.30172875605068	0.167913	0.474931	µmole	amount calculated from recovery
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	360.0	min	3.57989635685666	0.191074	0.540439	µmole	amount calculated from recovery
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	480.0	min	3.9064412187044	0.207286	0.586294	µmole	amount calculated from recovery

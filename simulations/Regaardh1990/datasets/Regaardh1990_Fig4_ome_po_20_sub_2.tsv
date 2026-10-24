@@ -1,0 +1,14 @@
+study	individual	measurement_type	interventions	substance	tissue	method	label	time	time_unit	value	comment	count	value_unit	count_unit
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	0.43689635	hr	4718.893	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	0.5704368	hr	3925.9421	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	1.1161586	hr	2932.6228	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	1.5275427	hr	2553.651	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	2.0	hr	2257.573	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	3.0	hr	1819.4658	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	4.0	hr	1239.0193	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	5.030088	hr	983.56995	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	6.0	hr	817.3548	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	8.0	hr	499.39786	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	10.0	hr	324.40628	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	12.043949	hr	204.37537	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless
+Regaardh1990	adult2	concentration	OME_po20	omeprazole	plasma	HPLC	Fig4_ome_po_20_sub_2	24.0	hr	39.690357	circles omeprazole, triangles omeprazole sulfone (legend of Fig 4)	1	nmol/l	dimensionless

@@ -1,0 +1,12 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	pm	mean_sd	mean_unit	count_unit
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.08540968	hr	260.7238				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.18169983	hr	1071.5751				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.2283304	hr	1179.8556				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.321472	hr	1363.0485				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.46028763	hr	1179.123				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.6761832	hr	926.09784				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	1.0004052	hr	750.9001	68.9982	68.9982	195.15638043866255	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	1.4948487	hr	638.6159				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	2.004756	hr	543.09937				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	3.997436	hr	226.89128	27.363129999999984	27.363129999999984	77.39461910995618	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	6.0064564	hr	134.96643	27.18301	27.18301	76.88516281624693	nmol/l	dimensionless

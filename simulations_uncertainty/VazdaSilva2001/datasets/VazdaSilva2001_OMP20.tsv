@@ -1,0 +1,14 @@
+study	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	0.0	hr	1.2610060622553674e-05					mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	0.333333333333333	hr	3.773067258030896e-05					mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	0.666666666666667	hr	0.00010382204066980105					mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	1.0	hr	0.0004757153403432383	215.50212	0.00014817619913379807	0.0007259121598056718		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	1.5	hr	0.0011312832642379042	494.213	0.0002994929592143965	0.0014672098632628886		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	2.0	hr	0.0013801688398916087	568.2038	0.0002648151793779095	0.0012973241312389523		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	2.5	hr	0.001030084362044607	414.6098	0.00017023583157699699	0.0008339818466040367		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	3.0	hr	0.0008376256455983508	378.6229	0.00025851031799337603	0.0012664367446567847		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	4.0	hr	0.0005661949070106769	234.77286	0.00011348657850244342	0.0005559684199705861		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	5.0	hr	0.0003546579776269773	147.55128	7.251181184426893e-05	0.0003552338786863202		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	6.0	hr	0.0002975982583319822	130.01842	7.881285174977418e-05	0.0003861025439211269		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	8.0	hr	0.00010780647103782103	47.03844	2.8372628945966626e-05	0.00013899692715787658		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	OMP20	concentration	omeprazole	plasma	HPLC	OMP20	10.0	hr	3.1521173020358056e-05					mole/meter^3	dimensionless

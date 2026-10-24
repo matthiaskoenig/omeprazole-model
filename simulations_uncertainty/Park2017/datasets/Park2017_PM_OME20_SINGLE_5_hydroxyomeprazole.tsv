@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	0.0	hr	2.517881106207545e-06					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	0.5	hr	7.60898136491291e-06					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	1.0	hr	4.1254513509400544e-05	32.54	4.878048780487803e-05	1.7237801419420885e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	2.0	hr	7.976979372743243e-05	53.56	6.842549423792592e-05	2.4182726228850483e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	3.0	hr	7.340591840405073e-05	42.34	4.374472559246295e-05	1.5466983938132062e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	4.0	hr	8.746178216178076e-05	45.58	3.8653625333757585e-05	1.36684974336981e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	6.0	hr	5.533804629027571e-05	27.74	2.1443492937481836e-05	7.581312341767773e-06		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	8.0	hr	3.320282777416542e-05					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	10.0	hr	3.320282777416542e-05					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	12.0	hr	2.722631877481565e-05					mole/meter^3	dimensionless

@@ -1,0 +1,12 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit
+Landahl1992	all	NA	14	species	NA	homo sapiens	14	NA	NA	NA	NA	NA	NA
+Landahl1992	all	NA	14	healthy	NA	Y	14	NA	NA	NA	NA	NA	NA
+Landahl1992	all	NA	14	sex	NA	M	6	NA	NA	NA	NA	NA	NA
+Landahl1992	all	NA	14	sex	NA	F	8	NA	NA	NA	NA	NA	NA
+Landahl1992	all	NA	14	age 	NA	NA	14	NA	76.0	75.0	79.0	NA	yr
+Landahl1992	all	NA	14	age (categorial)	NA	elder	14	NA	NA	NA	NA	NA	NA
+Landahl1992	all	NA	14	overnight fast	NA	Y	14	NA	NA	NA	NA	NA	NA
+Landahl1992	all	NA	14	fasting	NA	Y	14	NA	NA	NA	NA	NA	NA
+Landahl1992	all	NA	14	smoking	NA	N	14	NA	NA	NA	NA	NA	NA
+Landahl1992	all	NA	14	weight	NA	NA	14	NA	71.0	58.0	88.0	NA	kg
+Landahl1992	metabolites	all	8	species	NA	homo sapiens	8	NA	NA	NA	NA	NA	NA

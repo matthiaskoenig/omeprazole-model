@@ -1,0 +1,59 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	se	sd	unit	comments
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	0.5	hr	48.21	80.26	32.05	90.6511	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	1	hr	120	155.4	35.4	100.126	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	1.5	hr	131.6	158.8	27.2	76.9332	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	2	hr	121.1	141.4	20.3	57.4171	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	3	hr	105.6	121.2	15.6	44.1235	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	4	hr	60.24	70.24	10	28.2843	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	6	hr	15.58	12.47	3.11	8.79641	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	8	hr	8.002	9.652	1.65	4.6669	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	EM_5-hydroxyomeprazole	10	hr	4.379	5.367	0.988	2.79449	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	0.5	hr	111.4	177.2	65.8	186.111	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	1	hr	207.9	273.7	65.8	186.111	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	1.5	hr	221.3	264.8	43.5	123.037	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	2	hr	176.5	206.7	30.2	85.4185	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	3	hr	162.4	209.8	47.4	134.067	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	4	hr	76.28	103.7	27.42	77.5555	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	6	hr	24.33	31.1	6.77	19.1485	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	8	hr	13.2	17.03	3.83	10.8329	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole	plasma	HPLC	EM_omeprazole	10	hr	2.515	4.038	1.523	4.30769	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	0.5	hr	26.08	44.22	18.14	51.3077	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	1.5	hr	67.59	83.42	15.83	44.774	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	2	hr	74.58	90.4	15.82	44.7457	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	3	hr	88.87	100.8	11.93	33.7431	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	4	hr	74.37	85.55	11.18	31.6218	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	6	hr	44.26	54.25	9.99	28.256	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	8	hr	30.41	39.39	8.98	25.3993	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	10	hr	20.28	29.01	8.73	24.6922	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	EM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	EM_omeprazole sulfone	12	hr	14	20.89	6.89	19.4879	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	1	hr	14.61	21.25	6.64	17.5678	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	1.5	hr	26.59	37.47	10.88	28.7858	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	2	hr	31.49	39.13	7.64	20.2135	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	3	hr	34.44	39.2	4.76	12.5938	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	4	hr	30.24	36.12	5.88	15.557	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	6	hr	19.17	22.61	3.44	9.10138	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	8	hr	12.84	15.66	2.82	7.46102	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	10	hr	8.185	11.02	2.835	7.5007	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	7.0	concentration	OME20	5-hydroxyomeprazole	plasma	HPLC	PM_5-hydroxyomeprazole	12	hr	4.632	6.217	1.585	4.19352	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	0.5	hr	72.17	NA	NA	NA	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	1	hr	425.7	609.6	183.9	520.148	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	1.5	hr	733.6	NA	NA	NA	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	2	hr	890.2	NA	NA	NA	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	3	hr	841.1	975.8	134.7	380.989	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	4	hr	615.1	714.7	99.6	281.711	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	6	hr	387	447	60	169.706	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	8	hr	225.6	261.1	35.5	100.409	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	10	hr	157.2	177.9	20.7	58.5484	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	12	hr	93.58	105.5	11.92	33.7149	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole	plasma	HPLC	PM_omeprazole	24	hr	12.3	15.08	2.78	7.86303	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	0.5	hr	4.339	8.22	3.881	10.9771	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	1	hr	51.27	72.41	21.14	59.7929	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	1.5	hr	120.8	145.1	24.3	68.7308	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	2	hr	168.7	189.3	20.6	58.2656	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	3	hr	225.2	244.3	19.1	54.023	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	4	hr	250.3	272.5	22.2	62.7911	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	6	hr	265.2	290.6	25.4	71.842	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	8	hr	256.7	278.2	21.5	60.8112	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	10	hr	239.1	271	31.9	90.2268	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	12	hr	199.6	217.6	18	50.9117	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars
+Sohn1992	PM	8.0	concentration	OME20	omeprazole sulfone	plasma	HPLC	PM_omeprazole sulfone	24	hr	85.42	96.79	11.37	32.1592	ng/ml	pkdb_data re-digitization 2026-10 (log axis, nominal times), SE error bars

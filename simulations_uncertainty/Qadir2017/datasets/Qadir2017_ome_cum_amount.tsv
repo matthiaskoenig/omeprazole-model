@@ -1,0 +1,6 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	0.0	min	0.0			amount calculated from recovery	µmole	dimensionless
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	165.0	min	2.84214743960905	0.144753	0.409423	amount calculated from recovery	µmole	dimensionless
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	240.0	min	3.30172875605068	0.167913	0.474931	amount calculated from recovery	µmole	dimensionless
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	360.0	min	3.57989635685666	0.191074	0.540439	amount calculated from recovery	µmole	dimensionless
+Qadir2017	all	8.0	OME20	cumulative amount	omeprazole	urine	ome_cum_amount	480.0	min	3.9064412187044	0.207286	0.586294	amount calculated from recovery	µmole	dimensionless

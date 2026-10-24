@@ -1,0 +1,12 @@
+study	name	parent	group_count	measurement_type	count	substance	choice	mean	sd	min	max	unit	comments
+Qadir2017	all	NA	8	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA
+Qadir2017	all	NA	8	age	8	NA	NA	NA	NA	24.0	28.0	yr	NA
+Qadir2017	all	NA	8	height	8	NA	NA	NA	NA	162.0	170.0	cm	NA
+Qadir2017	all	NA	8	weight	8	NA	NA	NA	NA	53.0	64.0	kg	NA
+Qadir2017	all	NA	8	sex	8	NA	F	NA	NA	NA	NA	NA	NA
+Qadir2017	all	NA	8	abstinence	8	caffeine	NA	NA	NA	NA	NA	NA	NA
+Qadir2017	all	NA	8	abstinence	8	chocolate	NA	NA	NA	NA	NA	NA	NA
+Qadir2017	all	NA	8	abstinence	8	grapefruit juice	NA	NA	NA	NA	NA	NA	NA
+Qadir2017	all	NA	8	smoking	8	NA	N	NA	NA	NA	NA	NA	NA
+Qadir2017	all	NA	8	fasting	8	NA	Y	NA	NA	NA	NA	NA	NA
+Qadir2017	all	NA	8	healthy	8	NA	Y	NA	NA	NA	NA	NA	NA

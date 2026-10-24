@@ -1,0 +1,8 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	0.11492608	hr	0.9030142					µmol/l	dimensionless
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	0.29044074	hr	2.8432922					µmol/l	dimensionless
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	0.38479093	hr	2.3884158					µmol/l	dimensionless
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	0.453083	hr	2.0262594					µmol/l	dimensionless
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	1.0132889	hr	0.98573					µmol/l	dimensionless
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	1.4462516	hr	0.71622944					µmol/l	dimensionless
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	2.0189312	hr	0.53770894					µmol/l	dimensionless

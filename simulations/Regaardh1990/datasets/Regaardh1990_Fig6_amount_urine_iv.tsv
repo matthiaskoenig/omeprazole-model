@@ -1,0 +1,9 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_sd	mean_unit	count_unit
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	2.0	hr	6.9710991963313806e-06	1.4233051	2.8505457187854648e-06	mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	6.0	hr	1.761864534358571e-05	7.223788	3.2946534034323833e-06	mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	9.0	hr	1.8636305208791724e-05	7.422140000000001	2.851234453528498e-06	mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	12.0	hr	1.9780655788961716e-05	7.489089	1.9007052365842918e-06	mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	24.0	hr	2.1633508580957456e-05	7.779005999999999	8.871795168724044e-07	mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	48.0	hr	2.242567223290178e-05	8.030633	8.234910947958381e-07	mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	72.0	hr	2.2773727910693195e-05	8.128857400000001	7.598009356833528e-07	mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	96.0	hr	2.2931746068508697e-05	8.183558999999999	7.601471848437794e-07	mole	dimensionless

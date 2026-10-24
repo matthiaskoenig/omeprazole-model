@@ -1,0 +1,18 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	0.1609756	hr	0.12696259	0.119997054	0.019701510960796	0.0069655359999999		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	0.4390244	hr	0.171666	0.13907884	0.0921704072624441	0.03258716		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	0.5121951	hr	0.2184251	0.15136269	0.18968113949485	0.06706241		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	0.6292683	hr	0.27852446	0.1840113	0.267323585389477	0.09451316		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	0.7902439	hr	0.31451672					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	0.8780488	hr	0.3598149	0.26843598	0.258458615958012	0.09137892		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	1.4341463	hr	0.43932894	0.3207202	0.335476177447968	0.11860874		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	1.8731707	hr	0.4982591	0.42341593	0.21168845212999	0.07484317		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	2.9268293	hr	0.5901614	0.5203618	0.197423081936434	0.0697996000000001		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	3.9512196	hr	0.5541637	0.4886216	0.185381053452827	0.0655421		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	5.0487804	hr	0.58633155	0.51251644	0.208780659340124	0.07381511		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	5.9560976	hr	0.61101365	0.55536765	0.157390655783627	0.0556460000000001		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	6.9512196	hr	0.5850605	0.53409123	0.144162865796513	0.0509692700000001		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	7.873171	hr	0.5422668	0.50151366	0.115267286594579	0.0407531400000001		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	9.8341465	hr	0.48968315	0.44123995	0.137018060889505	0.0484432		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	11.897561	hr	0.48334822	0.44219857	0.116388786233812	0.04114965		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole sulfone	plasma	OME20_IV_omesul_cirrhosis	23.956097	hr	0.24665104	0.21188852	0.0983232544925319	0.03476252		µmol/l	dimensionless

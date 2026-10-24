@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	0.0	hr	0.0					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	0.5	hr	0.0001603573661903328	173.06	0.00034063274428515174	0.00012043449058526529		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	1.0	hr	0.0009360886583134537	709.96	0.0011192880468768093	0.00039572573360817094		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	2.0	hr	0.0018359601176552328	1094.91	0.0013338698844292099	0.00047160525279662776		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	3.0	hr	0.00162302846422864	815.8	0.0007387613775852883	0.0002611923014567941		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	4.0	hr	0.0017016872408921414	863.91	0.0007993839312596983	0.0002826157444935961		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	6.0	hr	0.0009610151237927599	435.18	0.00029888598096208623	0.00010566968524909093		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	8.0	hr	0.00060532806818445	275.95	0.0001935347522986775	6.843921532297287e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	10.0	hr	0.000420796952080969	184.67	0.0001138337540820344	4.02413321907497e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	12.0	hr	0.0002139159737823378	93.74	5.7466938416286445e-05	2.0323320286263516e-05		mole/meter^3	dimensionless

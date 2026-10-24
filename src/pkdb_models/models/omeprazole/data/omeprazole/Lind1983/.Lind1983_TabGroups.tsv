@@ -1,0 +1,10 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit
+Lind1983	all	NA	11	species	NA	homo sapiens	11	NA	NA	NA	NA	NA	NA
+Lind1983	all	NA	11	healthy	NA	Y	11	NA	NA	NA	NA	NA	NA
+Lind1983	all	NA	11	sex	NA	M	11	NA	NA	NA	NA	NA	NA
+Lind1983	all	NA	11	age 	NA	NA	11	NA	29.0	22.0	38.0	NA	yr
+Lind1983	all	NA	11	weight	NA	NA	11	NA	74.0	63.0	88.0	NA	kg
+Lind1983	all	NA	11	fasting	NA	Y	11	NA	NA	NA	NA	NA	NA
+Lind1983	group1	all	6	species	NA	homo sapiens	6	NA	NA	NA	NA	NA	NA
+Lind1983	group2	all	6	species	NA	homo sapiens	6	NA	NA	NA	NA	NA	NA
+Lind1983	group3	all	6	species	NA	homo sapiens	6	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,17 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	se	sd	unit	comments
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.09790540333333334	hr	4061.0195	NA	NA	nmol/l	NA
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.18307893333333333	hr	2582.235	334.56	1158.94983636049	nmol/l	NA
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.3334724533333333	hr	1764.6998	NA	NA	nmol/l	NA
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.5010789333333333	hr	1274.5564	NA	NA	nmol/l	NA
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.6628111833333333	hr	995.4985	NA	NA	nmol/l	NA
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.9939714333333334	hr	602.66644	103.5	358.534517166758	nmol/l	NA
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	1.5039772333333332	hr	323.18793	58.26	201.818560097926	nmol/l	NA
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	2.0022235333333334	hr	204.27968	46.2	160.041494619364	nmol/l	NA
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.08361777	hr	1133.1069	306.85	1062.95958060502	nmol/l	NA
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.18226714	hr	2754.7456	NA	NA	nmol/l	NA
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.33009726	hr	2966.4685	515.05	1784.1855368767	nmol/l	NA
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.49190703	hr	2193.233	369.71	1280.71300813258	nmol/l	NA
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.6652659	hr	1596.7506	425.8	1475.01446772566	nmol/l	NA
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	1.0001799	hr	1029.3297	205.07	710.383318216299	nmol/l	NA
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	1.4983598	hr	681.9552	146.49	507.45624560153	nmol/l	NA
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	2.0023918	hr	424.39896	105.01	363.765310605616	nmol/l	NA

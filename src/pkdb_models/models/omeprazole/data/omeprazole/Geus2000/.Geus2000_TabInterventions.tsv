@@ -1,0 +1,7 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Geus2000	OME20_D6	0.0	hr	oral	single dose	dosing	capsule	omeprazole	20.0	mg	OME and PAN were only given on days 1 and 6, respectively, i.e., two separate single doses
+Geus2000	OME20_D1	0.0	hr	oral	single dose	dosing	capsule	omeprazole	20.0	mg	NA
+Geus2000	OME20	0.0	hr	oral	single dose	dosing	capsule	omeprazole	20.0	mg	NA
+Geus2000	PAN40_D1	0.0	hr	oral	single dose	dosing	tablet	pantoprazole	40.0	mg	NA
+Geus2000	PAN40_D6	0.0	hr	oral	single dose	dosing	tablet	pantoprazole	40.0	mg	NA
+Geus2000	PAN40	0.0	hr	oral	single dose	dosing	tablet	pantoprazole	40.0	mg	NA

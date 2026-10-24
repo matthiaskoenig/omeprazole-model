@@ -1,0 +1,9 @@
+study	name	group_count	parent	measurement_type	count	choice	mean	sd	min	max	unit	comments
+Elkoshi2002	all	40	NA	species	40	homo sapiens	NA	NA	NA	NA	NA	NA
+Elkoshi2002	all	40	NA	sex	40	M	NA	NA	NA	NA	NA	NA
+Elkoshi2002	all	40	NA	age	40	NA	NA	NA	18.0	50.0	yr	NA
+Elkoshi2002	all	40	NA	weight	40	NA	NA	NA	NA	NA	kg	NA
+Elkoshi2002	all	40	NA	height	40	NA	NA	NA	NA	NA	cm	NA
+Elkoshi2002	all	40	NA	healthy	40	Y	NA	NA	NA	NA	NA	NA
+Elkoshi2002	all	40	NA	overnight fast	40	Y	NA	NA	NA	NA	NA	NA
+Elkoshi2002	all	40	NA	smoking	40	N	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,7 @@
+study	group	measurement_type	interventions	substance	tissue	method	mean	time	time_unit	se	unit	comments
+Landahl1992	all	thalf	OME20_IV	omeprazole	plasma	HPLC	1.03	NA	NA	0.14	hr	elderly
+Landahl1992	all	vd	OME20_IV	omeprazole	plasma	HPLC	0.25	NA	NA	0.01	l/kg	elderly
+Landahl1992	all	clearance	OME20_IV	omeprazole	plasma	HPLC	0.25	NA	NA	0.034	l/min	elderly
+Landahl1992	all	cmax	OME40_PO	omeprazole	plasma	HPLC	5.74	NA	NA	0.66	µmol/l	elderly
+Landahl1992	all	auc_inf	OME40_PO	omeprazole	plasma	HPLC	8.76	NA	NA	2.0	µmol/l*hr	elderly
+Landahl1992	all	bioavailability	OME40_PO	omeprazole	plasma	HPLC	0.76	NA	NA	0.07	dimensionless	elderly

@@ -1,0 +1,9 @@
+study	individual	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	value	comments	value_unit	count_unit
+Regaardh1990	adult7	1	concentration	OME_po20	omeprazole	plasma	HPLC	Fig2_po_adult7	4.6602316	min	172.98058		nmol/l	dimensionless
+Regaardh1990	adult7	1	concentration	OME_po20	omeprazole	plasma	HPLC	Fig2_po_adult7	10.672227	min	448.01535		nmol/l	dimensionless
+Regaardh1990	adult7	1	concentration	OME_po20	omeprazole	plasma	HPLC	Fig2_po_adult7	14.011652	min	882.1897		nmol/l	dimensionless
+Regaardh1990	adult7	1	concentration	OME_po20	omeprazole	plasma	HPLC	Fig2_po_adult7	20.044285	min	567.9574		nmol/l	dimensionless
+Regaardh1990	adult7	1	concentration	OME_po20	omeprazole	plasma	HPLC	Fig2_po_adult7	40.44457	min	184.3536		nmol/l	dimensionless
+Regaardh1990	adult7	1	concentration	OME_po20	omeprazole	plasma	HPLC	Fig2_po_adult7	50.029453	min	114.2766		nmol/l	dimensionless
+Regaardh1990	adult7	1	concentration	OME_po20	omeprazole	plasma	HPLC	Fig2_po_adult7	60.728767	min	88.40353		nmol/l	dimensionless
+Regaardh1990	adult7	1	concentration	OME_po20	omeprazole	plasma	HPLC	Fig2_po_adult7	90.682976	min	19.738146		nmol/l	dimensionless

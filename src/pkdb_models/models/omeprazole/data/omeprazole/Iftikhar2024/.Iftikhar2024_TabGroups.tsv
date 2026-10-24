@@ -1,0 +1,21 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	min	max	unit	comments
+Iftikhar2024	all	12.0	NA	species	12.0	NA	homo sapiens	NA	NA	NA	NA	Units are strange in the study. Sometimes it's cm, sometimes it's inches. 
+Iftikhar2024	all	12.0	NA	sex	12.0	NA	M	NA	NA	NA	NA	NA
+Iftikhar2024	all	12.0	NA	age	12.0	NA	NA	25.8	22.0	30.0	yr	NA
+Iftikhar2024	all	12.0	NA	height	12.0	NA	NA	173.2	162.0	183.0	cm	NA
+Iftikhar2024	all	12.0	NA	weight	12.0	NA	NA	67.21386228910168	60.191518467852255	72.2298221614227	kg	1lbs = 0,454kg
+Iftikhar2024	all	12.0	NA	bmi	12.0	NA	NA	16382.230000000001	15426.014000000001	17542.345	kg/m^2	1 lbs/in^2 = 703,1 kg/m^2 
+Iftikhar2024	all	12.0	NA	healthy	12.0	NA	Y	NA	NA	NA	NA	NA
+Iftikhar2024	all	12.0	NA	fasting	12.0	NA	Y	NA	NA	NA	NA	NA
+Iftikhar2024	all	12.0	NA	smoking	12.0	NA	N	NA	NA	NA	NA	NA
+Iftikhar2024	all	12.0	NA	no alcohol	12.0	NA	N	NA	NA	NA	NA	NA
+Iftikhar2024	GroupA	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA
+Iftikhar2024	GroupA	6.0	all	sex	6.0	NA	M	NA	NA	NA	NA	NA
+Iftikhar2024	GroupA	6.0	all	healthy	6.0	NA	Y	NA	NA	NA	NA	NA
+Iftikhar2024	GroupA	6.0	all	fasting	6.0	NA	Y	NA	NA	NA	NA	NA
+Iftikhar2024	GroupA	6.0	all	no alcohol	6.0	NA	N	NA	NA	NA	NA	NA
+Iftikhar2024	GroupB	6.0	all	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA
+Iftikhar2024	GroupB	6.0	all	sex	6.0	NA	M	NA	NA	NA	NA	NA
+Iftikhar2024	GroupB	6.0	all	healthy	6.0	NA	Y	NA	NA	NA	NA	NA
+Iftikhar2024	GroupB	6.0	all	fasting	6.0	NA	Y	NA	NA	NA	NA	NA
+Iftikhar2024	GroupB	6.0	all	no alcohol	6.0	NA	N	NA	NA	NA	NA	NA

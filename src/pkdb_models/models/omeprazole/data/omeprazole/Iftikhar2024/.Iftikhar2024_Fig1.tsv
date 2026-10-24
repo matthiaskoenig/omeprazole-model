@@ -1,0 +1,33 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	sd	se	unit	comments
+Iftikhar2024	GroupA	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P1	0.5	hr	0.022415062	0.01098371	0.011431351999999999	0.004666829911690661	µg/ml	2 periods total. Period 1: GroupA received OME40 (no Grapefruit juice) and Group B received OME with Grapefruit juice. Period 2: they switched.
+Iftikhar2024	GroupA	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P1	1.0	hr	0.049158707	0.024980607	0.024178100000000004	0.009870667991664328	µg/ml	Logarithmic Y axis
+Iftikhar2024	GroupA	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P1	1.5	hr	0.20757489	0.064770274	0.142804616	0.058299740352348424	µg/ml	period 1
+Iftikhar2024	GroupA	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P1	2.0	hr	0.99190193	0.4421626	0.54973933	0.22443014167324946	µg/ml	period 1
+Iftikhar2024	GroupA	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P1	3.0	hr	0.68320155	0.21010675	0.47309480000000004	0.19314014332734322	µg/ml	period 1
+Iftikhar2024	GroupA	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P1	4.0	hr	0.4705705	0.011244086	0.459326414	0.1875192232803966	µg/ml	period 1
+Iftikhar2024	GroupA	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P1	6.0	hr	0.1888344	0.019488052	0.169346348	0.06913535706729844	µg/ml	period 1
+Iftikhar2024	GroupA	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P1	8.0	hr	0.04720989	0.011335443	0.035874447	0.01464568165908646	µg/ml	period 1
+Iftikhar2024	GroupB	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P1	0.5	hr	0.032021973	0.019951195	0.012070778	0.0049278744830688085	µg/ml	period 1
+Iftikhar2024	GroupB	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P1	1.0	hr	0.26222125	0.17700063	0.08522062000000002	0.034791172427270506	µg/ml	period 1
+Iftikhar2024	GroupB	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P1	1.5	hr	1.5818111	0.9999757	0.5818353999999999	0.2375333073813579	µg/ml	period 1
+Iftikhar2024	GroupB	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P1	2.0	hr	1.9661797	1.3864014	0.5797783000000001	0.23669349982304477	µg/ml	period 1
+Iftikhar2024	GroupB	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P1	3.0	hr	1.555114	1.0573679	0.4977461000000001	0.20320399441005504	µg/ml	period 1
+Iftikhar2024	GroupB	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P1	4.0	hr	0.8242111	0.5061105	0.31810059999999996	0.1298640261455291	µg/ml	period 1
+Iftikhar2024	GroupB	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P1	6.0	hr	0.29869598	0.15972352	0.13897246000000002	0.056735269216557596	µg/ml	period 1
+Iftikhar2024	GroupB	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P1	8.0	hr	0.07744392	0.050405707	0.027038213	0.011038304234447797	µg/ml	period 1
+Iftikhar2024	GroupA	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P2	0.5	hr	0.032898612	0.019642679	0.013255933000000001	0.005411711985753508	µg/ml	period 2
+Iftikhar2024	GroupA	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P2	1.0	hr	0.27225614	0.17228268	0.09997345999999999	0.04081399413675739	µg/ml	period 2
+Iftikhar2024	GroupA	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P2	1.5	hr	1.5898652	0.95619494	0.6336702599999999	0.2586948003627916	µg/ml	period 2
+Iftikhar2024	GroupA	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P2	2.0	hr	1.9618613	1.3643867	0.5974746	0.24391798404558038	µg/ml	period 2
+Iftikhar2024	GroupA	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P2	3.0	hr	1.5313259	1.0195471	0.5117787999999999	0.2089328201956472	µg/ml	period 2
+Iftikhar2024	GroupA	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P2	4.0	hr	0.83124655	0.5035751	0.32767145	0.13377130929631517	µg/ml	period 2
+Iftikhar2024	GroupA	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P2	6.0	hr	0.29585832	0.16190271	0.13395561	0.05468714878054396	µg/ml	period 2
+Iftikhar2024	GroupA	6.0	OME_GRAPEFRUIT	concentration	omeprazole	plasma	Fig1_OMEGRAPE_P2	8.0	hr	0.078179285	0.05019477	0.027984515	0.011424630408210333	µg/ml	period 2
+Iftikhar2024	GroupB	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P2	0.5	hr	0.022223782	0.010906369	0.011317413	0.0046203145097235	µg/ml	period 2
+Iftikhar2024	GroupB	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P2	1.0	hr	0.049391802	0.024952881	0.024438921	0.009977147719031403	µg/ml	period 2
+Iftikhar2024	GroupB	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P2	1.5	hr	0.2080098	0.06366285	0.14434694999999997	0.05892939557117271	µg/ml	period 2
+Iftikhar2024	GroupB	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P2	2.0	hr	0.9697878	0.4330289	0.5367588999999999	0.2191309033162636	µg/ml	period 2
+Iftikhar2024	GroupB	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P2	3.0	hr	0.6837632	0.20775795	0.47600525000000005	0.19432832956432378	µg/ml	period 2
+Iftikhar2024	GroupB	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P2	4.0	hr	0.46829164	0.011277792	0.457013848	0.18657512216431177	µg/ml	period 2
+Iftikhar2024	GroupB	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P2	6.0	hr	0.18721713	0.019273274	0.167943856	0.0685627921059092	µg/ml	period 2
+Iftikhar2024	GroupB	6.0	OME40	concentration	omeprazole	plasma	Fig1_OME40_P2	8.0	hr	0.048054863	0.011489162	0.036565701000000006	0.01492788492286277	µg/ml	period 2

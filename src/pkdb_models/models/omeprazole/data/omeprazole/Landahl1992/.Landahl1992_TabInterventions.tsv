@@ -1,0 +1,4 @@
+study	name	measurement_type	substance	value	route	form	time	time_unit	application	unit	comments
+Landahl1992	OME20_PO	dosing	omeprazole	20	iv	solution	0	day	single dose	mg	NA
+Landahl1992	OME40_PO	dosing	omeprazole	40	oral	capsule	0	day	single dose	mg	NA
+Landahl1992	OME20_IV	dosing	omeprazole	20	iv	solution	0	day	single dose	mg	NA

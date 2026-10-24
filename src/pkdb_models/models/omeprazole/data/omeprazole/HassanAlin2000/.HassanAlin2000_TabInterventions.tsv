@@ -1,0 +1,7 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+HassanAlin2000	SOME20_IV	0	hr	iv	single dose	dosing	solution	S-omeprazole	20	mg	NA
+HassanAlin2000	SOME20_PO	0	hr	oral	single dose	dosing	capsule	S-omeprazole	20	mg	NA
+HassanAlin2000	SOME40_IV	0	hr	iv	single dose	dosing	solution	S-omeprazole	40	mg	NA
+HassanAlin2000	SOME40_PO	0	hr	oral	single dose	dosing	capsule	S-omeprazole	40	mg	NA
+HassanAlin2000	SOME20_PO_MULTI	S-120T24R5	hr	oral	multiple dose	dosing	solution	S-omeprazole	20	mg	once daily for 5 days
+HassanAlin2000	SOME40_PO_MULTI	S-120T24R5	hr	oral	multiple dose	dosing	capsule	S-omeprazole	40	mg	once daily for 5 days

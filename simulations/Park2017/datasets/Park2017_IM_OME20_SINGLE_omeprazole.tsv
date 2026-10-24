@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	0.0	hr	0.0				before the dose, symbol hidden behind the other symbols	mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	0.5	hr	6.4270329110406e-06					mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	1.0	hr	0.0010396739004562613	728.25	0.0010686534497533406	0.0003778342636125714		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	2.0	hr	0.0007764550570905804	475.23	0.0005993352942538851	0.00021188943187345108		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	3.0	hr	0.0004488211316210019	293.89	0.00040197906292702124	0.00014211848901035274		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	4.0	hr	0.00048816499525210173	327.09	0.00045878013757324495	0.00016221020450702918		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	6.0	hr	0.00013624151747458136	84.47	0.00010827523913194523	3.8272691479259785e-05		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	8.0	hr	5.2863793223243856e-05					mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	10.0	hr	3.158510317993376e-05					mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	12.0	hr	1.3548880190842344e-05					mole/meter^3	dimensionless

@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	0.0	hr	4.565388818947745e-06					mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	0.5	hr	5.558706749858195e-05	41.61	5.9543737808336666e-05	2.1056126613449908e-05		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	1.0	hr	0.00016147641907502452	96.52	0.00010558499232184604	3.732551222279096e-05		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	2.0	hr	0.00020787737088942069	124.86	0.00013762572112391568	4.864214268915234e-05		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	3.0	hr	0.00015616396663115805					mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	4.0	hr	0.00011449441777458045	48.15	1.873192866925833e-05	6.6128965316879475e-06		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	6.0	hr	5.323520053124523e-05					mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	8.0	hr	4.056278793077209e-05	22.45	2.1554169030062388e-05	7.60898136491291e-06	symbol hidden behind the EM symbol, value of the previous digitization	mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	10.0	hr	4.3191345129560185e-05				symbol hidden behind the EM symbol, value of the previous digitization	mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	12.0	hr	1.0403552702571832e-05					mole/meter^3	dimensionless

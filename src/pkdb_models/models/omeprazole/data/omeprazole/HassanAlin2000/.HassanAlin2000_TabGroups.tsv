@@ -1,0 +1,18 @@
+study	name	parent	group_count	measurement_type	count	substance	choice	mean	min	max	unit	comments
+HassanAlin2000	all	NA	32	species	32	NA	homo sapiens	NA	NA	NA	NA	NA
+HassanAlin2000	all	NA	32	sex	24	NA	M	NA	NA	NA	NA	NA
+HassanAlin2000	all	NA	32	sex	8	NA	F	NA	NA	NA	NA	NA
+HassanAlin2000	all	NA	32	alcohol	32	NA	N	NA	NA	NA	NA	NA
+HassanAlin2000	all	NA	32	medication	32	oral contraceptives	N	NA	NA	NA	NA	NA
+HassanAlin2000	all	NA	32	healthy	32	NA	Y	NA	NA	NA	NA	NA
+HassanAlin2000	studyA	all	16	species	16	NA	homo sapiens	NA	NA	NA	NA	NA
+HassanAlin2000	studyA	all	16	age	16	NA	NA	28.0	NA	NA	yr	NA
+HassanAlin2000	studyA	all	16	sex	16	NA	M	16.0	NA	NA	NA	NA
+HassanAlin2000	studyA	all	16	sex	16	NA	F	0.0	NA	NA	NA	NA
+HassanAlin2000	studyA	all	16	weight	16	NA	NA	76.0	NA	NA	kg	NA
+HassanAlin2000	studyA	all	16	healthy	16	NA	Y	NA	NA	NA	NA	NA
+HassanAlin2000	studyB	all	16	age	16	NA	NA	27.0	NA	NA	yr	NA
+HassanAlin2000	studyB	all	16	sex	16	NA	M	8.0	NA	NA	NA	NA
+HassanAlin2000	studyB	all	16	sex	16	NA	F	8.0	NA	NA	NA	NA
+HassanAlin2000	studyB	all	16	weight	16	NA	NA	72.0	NA	NA	kg	NA
+HassanAlin2000	studyB	all	16	healthy	16	NA	Y	NA	NA	NA	NA	NA

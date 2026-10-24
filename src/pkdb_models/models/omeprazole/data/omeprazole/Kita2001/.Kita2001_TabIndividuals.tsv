@@ -1,0 +1,13 @@
+study	name	group	count	substance	measurement_type	choice	value	unit	comment
+Kita2001	S1_EM	EM_IM	1.0	NA	cyp2c19 phenotype	em	NA	NA	6 subjects were classified to either extensive metabolizers [CYP2C19*1/ CYP2C19*1 (subject no.1) and CYP2C19*1/CYP2C19*2 (subjects no. 2, 3)] or poor metabolizers [CYP2C19*2/ CYP2C19*2 (subjects no. 4, 5) and CYP2C19*3/CYP2C19*3 (subject no. 6)].
+Kita2001	S2_IM	EM_IM	1.0	NA	cyp2c19 phenotype	im	NA	NA	NA
+Kita2001	S3_IM	EM_IM	1.0	NA	cyp2c19 phenotype	im	NA	NA	NA
+Kita2001	S4_PM	PM	1.0	NA	cyp2c19 phenotype	pm	NA	NA	NA
+Kita2001	S5_PM	PM	1.0	NA	cyp2c19 phenotype	pm	NA	NA	NA
+Kita2001	S6_PM	PM	1.0	NA	cyp2c19 phenotype	pm	NA	NA	NA
+Kita2001	S1_EM	EM_IM	1.0	NA	cyp2c19 genotype	*1/*1	NA	NA	NA
+Kita2001	S2_IM	EM_IM	1.0	NA	cyp2c19 genotype	*1/*2	NA	NA	NA
+Kita2001	S3_IM	EM_IM	1.0	NA	cyp2c19 genotype	*1/*2	NA	NA	NA
+Kita2001	S4_PM	PM	1.0	NA	cyp2c19 genotype	*2/*2	NA	NA	NA
+Kita2001	S5_PM	PM	1.0	NA	cyp2c19 genotype	*2/*2	NA	NA	NA
+Kita2001	S6_PM	PM	1.0	NA	cyp2c19 genotype	*3/*3	NA	NA	NA

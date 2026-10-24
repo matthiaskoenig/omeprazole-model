@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	0.0	hr	0.0			calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	1.0	hr	1.9862104245315795e-06			calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	2.0	hr	5.823551891053107e-06	6.140421983926628e-06	2.1712949023785816e-06	calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	4.0	hr	1.2530528985339417e-05	4.414966301503115e-06	1.5604372698427407e-06	calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	6.0	hr	1.8734619125923527e-05	6.314125576116915e-06	2.2320911596451816e-06	calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	9.0	hr	2.5319758204599673e-05	5.240058364406977e-06	1.8528383166963896e-06	calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	12.0	hr	3.0515276651921164e-05	6.435718090650115e-06	2.275517057692753e-06	calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	24.0	hr	3.818881580471084e-05	4.0530838177733515e-06	1.4330546355698636e-06	calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	48.0	hr	4.287788058457049e-05	4.1109850151701135e-06	1.4533200546587304e-06	calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	72.0	hr	4.3816432359821206e-05	3.398800287189939e-06	1.201449845982815e-06	calculated form recovery	mole	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	96.0	hr	4.416475785719249e-05	4.1109850151701135e-06	1.4533200546587304e-06	calculated form recovery	mole	dimensionless

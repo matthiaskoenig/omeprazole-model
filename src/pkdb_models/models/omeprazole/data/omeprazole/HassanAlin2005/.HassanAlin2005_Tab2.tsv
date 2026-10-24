@@ -1,0 +1,25 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	geo_mean	min	max	unit	comments
+HassanAlin2005	all	11.0	SOME20_D1, ROME20_D1	auc_end	omeprazole	plasma	24.0	hr	2.43	2.08	2.83	µmol*hr/l	first dose ratio, E/RO
+HassanAlin2005	all	12.0	SOME40_D1, ROME40_D1	auc_end	omeprazole	plasma	24.0	hr	2.8	2.5	3.14	µmol*hr/l	first dose ratio, E/RO
+HassanAlin2005	all	11.0	SOME20_D1, OME20_D1	auc_end	omeprazole	plasma	24.0	hr	1.45	1.24	1.7	µmol*hr/l	first dose ratio, E/O
+HassanAlin2005	all	12.0	SOME40_D1, OME40_D1	auc_end	omeprazole	plasma	24.0	hr	1.59	1.42	1.78	µmol*hr/l	first dose ratio, E/O
+HassanAlin2005	all	11.0	SOME20_D1, ROME20_D1	cmax	omeprazole	plasma	NA	NA	1.8	1.55	2.09	µM	first dose ratio, E/RO
+HassanAlin2005	all	12.0	SOME40_D1, ROME40_D1	cmax	omeprazole	plasma	NA	NA	1.9	1.66	2.17	µM	first dose ratio, E/RO
+HassanAlin2005	all	11.0	SOME20_D1, OME20_D1	cmax	omeprazole	plasma	NA	NA	1.25	1.08	1.45	µM	first dose ratio, E/O
+HassanAlin2005	all	12.0	SOME40_D1, OME40_D1	cmax	omeprazole	plasma	NA	NA	1.32	1.16	1.51	µM	first dose ratio, E/O
+HassanAlin2005	all	11.0	SOME20_D1, ROME20_D1	thalf	omeprazole	plasma	NA	NA	1.44	1.29	1.6	hr	first dose ratio, E/RO
+HassanAlin2005	all	12.0	SOME40_D1, ROME40_D1	thalf	omeprazole	plasma	NA	NA	1.52	1.4	1.65	hr	first dose ratio, E/RO
+HassanAlin2005	all	11.0	SOME20_D1, OME20_D1	thalf	omeprazole	plasma	NA	NA	1.14	1.03	1.28	hr	first dose ratio, E/O
+HassanAlin2005	all	12.0	SOME40_D1, OME40_D1	thalf	omeprazole	plasma	NA	NA	1.19	1.09	1.29	hr	first dose ratio, E/O
+HassanAlin2005	all	11.0	SOME20_D5, ROME20_D5	auc_end	omeprazole	plasma	24.0	hr	4.17	3.49	4.98	µmol*hr/l	second dose ratio, E/RO
+HassanAlin2005	all	12.0	SOME40_D5, ROME40_D5	auc_end	omeprazole	plasma	24.0	hr	5.18	4.31	6.23	µmol*hr/l	second dose ratio, E/RO
+HassanAlin2005	all	11.0	SOME20_D5, OME20_D5	auc_end	omeprazole	plasma	24.0	hr	1.74	1.45	2.07	µmol*hr/l	second dose ratio, E/O
+HassanAlin2005	all	12.0	SOME40_D5, OME40_D5	auc_end	omeprazole	plasma	24.0	hr	1.61	1.34	1.93	µmol*hr/l	second dose ratio, E/O
+HassanAlin2005	all	11.0	SOME20_D5, ROME20_D5	cmax	omeprazole	plasma	NA	NA	2.51	2.16	2.91	µM	second dose ratio, E/RO
+HassanAlin2005	all	12.0	SOME40_D5, ROME40_D5	cmax	omeprazole	plasma	NA	NA	2.45	2.05	2.92	µM	second dose ratio, E/RO
+HassanAlin2005	all	11.0	SOME20_D5, OME20_D5	cmax	omeprazole	plasma	NA	NA	1.28	1.1	1.49	µM	second dose ratio, E/O
+HassanAlin2005	all	12.0	SOME40_D5, OME40_D5	cmax	omeprazole	plasma	NA	NA	1.25	1.05	1.5	µM	second dose ratio, E/O
+HassanAlin2005	all	11.0	SOME20_D5, ROME20_D5	thalf	omeprazole	plasma	NA	NA	1.83	1.72	1.94	hr	second dose ratio, E/RO
+HassanAlin2005	all	12.0	SOME40_D5, ROME40_D5	thalf	omeprazole	plasma	NA	NA	2.0	1.8	2.23	hr	second dose ratio, E/RO
+HassanAlin2005	all	11.0	SOME20_D5, OME20_D5	thalf	omeprazole	plasma	NA	NA	1.22	1.15	1.29	hr	second dose ratio, E/O
+HassanAlin2005	all	12.0	SOME40_D5, OME40_D5	thalf	omeprazole	plasma	NA	NA	1.2	1.07	1.33	hr	second dose ratio, E/O

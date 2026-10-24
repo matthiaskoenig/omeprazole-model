@@ -1,0 +1,10 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	comments	mean_unit	count_unit
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	0.0	hr	0.0				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	1.0	hr	518.475				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	1.5	hr	775.8217				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	2.0	hr	661.9396				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	2.5	hr	754.5165				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	3.0	hr	629.25793				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	4.0	hr	454.54004				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	6.0	hr	101.31322				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	8.0	hr	39.804695				nM	dimensionless

@@ -1,0 +1,21 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit	comments
+Regaardh1986	all	NA	43.0	species	NA	homo sapiens	43.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	all	NA	43.0	healthy	NA	Y	31.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	all	NA	43.0	healthy	NA	N	12.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	all	NA	43.0	sex	NA	NR	43.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	young8	all	8.0	healthy	NA	Y	8.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	young8	all	8.0	age (categorial)	NA	young	8.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	young5	all	5.0	healthy	NA	Y	5.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	young5	all	5.0	age (categorial)	NA	young	5.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	young10	all	10.0	healthy	NA	Y	10.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	young10	all	10.0	age (categorial)	NA	young	10.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	young10	all	10.0	sex	NA	M	10.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	renal12	all	12.0	healthy	NA	N	12.0	NA	NA	NA	NA	NA	NA	varying degrees of renal impairment
+Regaardh1986	renal12	all	12.0	disease	NA	renal disease	12.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	renal12	all	12.0	liver function test	NA	normal	12.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	renal12	all	12.0	clearance	creatinine	NA	12.0	28.76	NA	10.01	63.93	16.2	ml/min	from Fig6
+Regaardh1986	renal12	all	12.0	gfr	NA	NA	12.0	28.76	NA	10.01	63.93	16.2	ml/min	from Fig6
+Regaardh1986	elderly8	all	8.0	healthy 	NA	Y	8.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	elderly8	all	8.0	age (categorial)	NA	elder	8.0	NA	NA	NA	NA	NA	NA	NA
+Regaardh1986	elderly8	all	8.0	age	NA	NA	8.0	NA	NA	75.0	80.0	NA	yr	NA
+Regaardh1986	elderly8	all	8.0	smoking	NA	N	8.0	NA	NA	NA	NA	NA	NA	NA

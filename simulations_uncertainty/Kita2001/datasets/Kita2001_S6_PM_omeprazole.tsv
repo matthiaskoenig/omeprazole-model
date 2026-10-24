@@ -1,0 +1,8 @@
+study	individual	count	intervention	measurement_type	substance	tissue	label	time	time_unit	value	comments	value_unit	count_unit
+Kita2001	S6_PM	1.0	OME20	concentration	omeprazole	plasma	S6_PM_omeprazole	0.0	hr	0.0		mole/meter^3	dimensionless
+Kita2001	S6_PM	1.0	OME20	concentration	omeprazole	plasma	S6_PM_omeprazole	1.0	hr	1.0527490620006023e-05		mole/meter^3	dimensionless
+Kita2001	S6_PM	1.0	OME20	concentration	omeprazole	plasma	S6_PM_omeprazole	2.0	hr	2.6318725826250087e-05		mole/meter^3	dimensionless
+Kita2001	S6_PM	1.0	OME20	concentration	omeprazole	plasma	S6_PM_omeprazole	3.0	hr	0.0017844096683419415		mole/meter^3	dimensionless
+Kita2001	S6_PM	1.0	OME20	concentration	omeprazole	plasma	S6_PM_omeprazole	4.0	hr	0.0017949371192996274		mole/meter^3	dimensionless
+Kita2001	S6_PM	1.0	OME20	concentration	omeprazole	plasma	S6_PM_omeprazole	6.0	hr	0.000647440680223267		mole/meter^3	dimensionless
+Kita2001	S6_PM	1.0	OME20	concentration	omeprazole	plasma	S6_PM_omeprazole	12.0	hr	7.895618037381013e-05		mole/meter^3	dimensionless

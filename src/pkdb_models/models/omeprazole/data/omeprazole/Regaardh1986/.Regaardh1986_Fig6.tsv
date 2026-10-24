@@ -1,0 +1,13 @@
+study	individual	group	interventions	tissue	time	time_unit	x_label	x_measurement_type	x_substance	x_value	x_units	y_label	y_measurement_type	y_substance	y_value	y_units	comments
+Regaardh1986	renal1_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	10.011105	ml/min	amount	cumulative amount	omeprazole metabolites	5.5337432	mg	NA
+Regaardh1986	renal2_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	10.681322	ml/min	amount	cumulative amount	omeprazole metabolites	3.8971688	mg	NA
+Regaardh1986	renal3_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	14.839806	ml/min	amount	cumulative amount	omeprazole metabolites	8.443084	mg	NA
+Regaardh1986	renal4_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	16.324862	ml/min	amount	cumulative amount	omeprazole metabolites	4.102993	mg	NA
+Regaardh1986	renal5_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	18.363195	ml/min	amount	cumulative amount	omeprazole metabolites	5.2025818	mg	NA
+Regaardh1986	renal6_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	24.604229	ml/min	amount	cumulative amount	omeprazole metabolites	6.9010574	mg	NA
+Regaardh1986	renal7_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	29.878363	ml/min	amount	cumulative amount	omeprazole metabolites	12.1566514	mg	NA
+Regaardh1986	renal8_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	33.91495	ml/min	amount	cumulative amount	omeprazole metabolites	7.9909492	mg	NA
+Regaardh1986	renal9_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	36.39872	ml/min	amount	cumulative amount	omeprazole metabolites	11.4367912	mg	NA
+Regaardh1986	renal10_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	42.617027	ml/min	amount	cumulative amount	omeprazole metabolites	7.26818	mg	NA
+Regaardh1986	renal11_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	43.53021	ml/min	amount	cumulative amount	omeprazole metabolites	12.600705	mg	NA
+Regaardh1986	renal12_amount	renal12	OME_iv20	urine	24	hr	creatine_clearance	clearance	creatinine	63.92761	ml/min	amount	cumulative amount	omeprazole metabolites	13.569139	mg	NA

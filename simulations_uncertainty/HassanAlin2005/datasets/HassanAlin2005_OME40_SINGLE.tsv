@@ -1,0 +1,21 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	0.0	hr	0.0		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	0.5173823	hr	2.6864583		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	0.77455276	hr	1.9698367		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	1.0201459	hr	1.4274637		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	1.260359	hr	1.0310664		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	1.5210943	hr	0.8276298		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	1.7819276	hr	0.6383176		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	2.0241358	hr	0.5291157		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	2.2729013	hr	0.4434303		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	2.5023875	hr	0.3436928		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	2.7449553	hr	0.2862802		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	3.0004416	hr	0.24765196		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	3.5115447	hr	0.18922792		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	3.997073	hr	0.1309002		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	4.4763713	hr	0.09613717		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	5.0068517	hr	0.065889604		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	5.9785295	hr	0.03868847		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	7.0014224	hr	0.020710913		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	7.998872	hr	0.021662172		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40	concentration	omeprazole	plasma	OME40_SINGLE	10.000098	hr	0.014124362		µM	dimensionless

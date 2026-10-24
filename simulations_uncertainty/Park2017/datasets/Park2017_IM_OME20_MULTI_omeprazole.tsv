@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	0.0	hr	2.4000046320957914e-05					mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	0.5	hr	0.0003718125390833082	273.61	0.0004203047919030965	0.00014860342311879006	symbol hidden behind the PM symbol, value of the previous digitization	mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	1.0	hr	0.0015217303193830046	834.14	0.0008931549204437546	0.0003157641800032424		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	2.0	hr	0.001348084628390115	726.62	0.000755523774231651	0.0002671271741899622		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	3.0	hr	0.0009928897329596774	655.72	0.0009054589248905666	0.000320135720406698		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	4.0	hr	0.0008128459596544455	450.99	0.0004927970910438427	0.0001742247029668573		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	6.0	hr	0.00034578595085346355	223.49	0.0003012309794566551	0.00010650925261134399		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	8.0	hr	0.0002174189962248419	131.81	0.00016420779581721747	5.804595039025407e-05		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	10.0	hr	0.00013175417467633228	79.96	9.973481251592282e-05	3.526182921462815e-05		mole/meter^3	dimensionless
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	12.0	hr	7.26949533316349e-05					mole/meter^3	dimensionless

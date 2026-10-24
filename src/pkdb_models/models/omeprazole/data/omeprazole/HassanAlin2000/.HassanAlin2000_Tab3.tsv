@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	geo_mean	min	max	unit	comments
+HassanAlin2000	studyB	6.0	SOME40_IV	cmax	omeprazole sulfone	plasma	NA	NA	0.76	0.52	1.11	µM	first dose
+HassanAlin2000	studyB	6.0	SOME40_IV	thalf	omeprazole sulfone	plasma	NA	NA	2.55	2.01	3.24	hr	first dose
+HassanAlin2000	studyB	6.0	SOME40_IV	auc_end	omeprazole sulfone	plasma	24.0	hr	4.06	2.24	7.37	µmol*hr/l	first dose
+HassanAlin2000	studyB	6.0	SOME40_PO_MULTI, SOME40_IV	cmax	omeprazole sulfone	plasma	NA	NA	1.71	1.3	2.25	µM	second dose
+HassanAlin2000	studyB	6.0	SOME40_PO_MULTI, SOME40_IV	thalf	omeprazole sulfone	plasma	NA	NA	3.84	3.26	4.51	hr	second dose
+HassanAlin2000	studyB	6.0	SOME40_PO_MULTI, SOME40_IV	auc_end	omeprazole sulfone	plasma	24.0	hr	16.17	10.89	24.01	µmol*hr/l	second dose
+HassanAlin2000	studyB	15.0	SOME40_PO	cmax	5-hydroxyomeprazole	plasma	NA	NA	0.29	0.24	0.34	µM	first dose
+HassanAlin2000	studyB	15.0	SOME40_PO	thalf	5-hydroxyomeprazole	plasma	NA	NA	1.27	1.07	1.52	hr	first dose
+HassanAlin2000	studyB	15.0	SOME40_PO	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	0.71	0.58	0.87	µmol*hr/l	first dose
+HassanAlin2000	studyB	15.0	SOME40_PO_MULTI	cmax	5-hydroxyomeprazole	plasma	NA	NA	0.28	0.25	0.31	µM	second dose
+HassanAlin2000	studyB	15.0	SOME40_PO_MULTI	thalf	5-hydroxyomeprazole	plasma	NA	NA	2.15	1.71	2.7	hr	second dose
+HassanAlin2000	studyB	15.0	SOME40_PO_MULTI	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	0.97	0.8	1.18	µmol*hr/l	second dose

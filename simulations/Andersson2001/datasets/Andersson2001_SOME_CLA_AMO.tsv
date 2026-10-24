@@ -1,0 +1,20 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	0.0	hr	0.0		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	0.25	hr	0.01566331		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	0.5	hr	0.047081873		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	0.78087157	hr	0.5723314		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	1.0298293	hr	1.5126817		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	1.5105088	hr	4.0711436		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	1.9982898	hr	5.205775		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	2.5228395	hr	4.685408		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	3.0246503	hr	4.2543683		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	3.5342987	hr	3.8968773		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	4.0666437	hr	3.4605768		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	4.5463905	hr	3.0715718		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	5.056081	hr	2.425117		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	6.023299	hr	1.8520173		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	7.005541	hr	1.4260048		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	7.972839	hr	1.0788113		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	8.9702635	hr	0.79467165		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	9.990155	hr	0.60508317		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40, AMO, CLA	concentration	S-omeprazole	plasma	SOME_CLA_AMO	11.977571	hr	0.29420424		µmol/l	dimensionless

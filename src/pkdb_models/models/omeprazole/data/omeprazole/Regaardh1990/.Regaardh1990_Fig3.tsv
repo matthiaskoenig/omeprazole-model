@@ -1,0 +1,44 @@
+study	individual	measurement_type	interventions	substance	tissue	method	label	value	unit	time	time_unit
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	114.57286	nmol/l	4.0	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	340.70352	nmol/l	14.634147	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	518.59296	nmol/l	19.512196	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	596.9849	nmol/l	25.0	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	762.8141	nmol/l	29.756098	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	741.70856	nmol/l	40.0	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	681.40704	nmol/l	50.0	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	669.34674	nmol/l	59.512196	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	711.5578	nmol/l	90.0	min
+Regaardh1990	adult2	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_2	711.5578	nmol/l	120.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	45.22613	nmol/l	7.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	69.34673	nmol/l	10.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	96.482414	nmol/l	15.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	81.407036	nmol/l	20.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	96.482414	nmol/l	25.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	63.31658	nmol/l	30.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	57.28643	nmol/l	40.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	54.27136	nmol/l	50.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	45.22613	nmol/l	60.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	36.180904	nmol/l	90.0	min
+Regaardh1990	adult8	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20_sub_8	30.0	nmol/l	120.0	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	39.01322	nmol/l	7.2833104	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	75.10866	nmol/l	10.693765	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	84.05653	nmol/l	14.570522	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	108.031	nmol/l	20.392488	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	95.861404	nmol/l	24.739452	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	74.634514	nmol/l	29.564426	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	77.39426	nmol/l	39.7275	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	68.10597	nmol/l	49.39891	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	64.82346	nmol/l	60.041946	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	67.09691	nmol/l	89.55955	min
+Regaardh1990	adult2	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_2	42.21063	nmol/l	120.02731	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	20.19951	nmol/l	5.097248	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	543.0953	nmol/l	8.86597	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	966.4094	nmol/l	11.450737	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	1149.6278	nmol/l	16.340984	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	836.9971	nmol/l	20.751518	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	562.8433	nmol/l	25.561813	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	374.72723	nmol/l	30.455347	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	304.1418	nmol/l	40.900654	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	253.97481	nmol/l	50.2781	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	148.30531	nmol/l	90.41756	min
+Regaardh1990	adult5	concentration	OME_po20	5-hydroxyomeprazole	plasma	HPLC	Fig3_5home_po_20_sub_5	113.20755	nmol/l	120.0	min

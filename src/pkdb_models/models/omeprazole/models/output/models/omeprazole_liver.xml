@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level3/version2/core" xmlns:comp="http://www.sbml.org/sbml/level3/version1/comp/version1" xmlns:distrib="http://www.sbml.org/sbml/level3/version1/distrib/version1" level="3" version="2" comp:required="true" distrib:required="true">
+  <notes>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Created with <a href="https://github.com/matthiaskoenig/sbmlutils">https://github.com/matthiaskoenig/sbmlutils</a>.
+<a href="https://doi.org/10.5281/zenodo.5525390">
+        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5525390.svg" alt="DOI"/></a></p>
+      </body>
+    </notes>
+  <model metaid="meta_omeprazole_liver" id="omeprazole_liver" name="Model for omeprazole metabolism in the liver" substanceUnits="mmole" timeUnits="min" volumeUnits="litre" areaUnits="m2" lengthUnits="metre" extentUnits="mmole">
+    <notes>
+      <body xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Model for omeprazole metabolism in the liver</h1>
+        <p>S-omeprazole and R-omeprazole exchange fast between the plasma and the
+liver and are metabolized by CYP2C19 and CYP3A4, which act on the liver
+concentration (apparent Michaelis constants of the total concentration).</p>
+        <ul>
+          <li>R-omeprazole: CYP2C19 to 5-hydroxyomeprazole, CYP3A4 to omeprazole sulfone.</li>
+          <li>S-omeprazole: CYP2C19 to 5-O-desmethylomeprazole (other metabolites) and
+a fraction to 5-hydroxyomeprazole, CYP3A4 to omeprazole sulfone.</li>
+          <li>5-hydroxyomeprazole is released into the plasma or oxidized in the liver
+to the other metabolites; omeprazole sulfone exchanges with the plasma and
+is metabolized by CYP2C19 and a CYP2C19 independent route to the other
+metabolites; the other metabolites are excreted into the bile.</li>
+          <li>CYP2C19 activity: genotype and interactions <code>f_cyp2c19</code>,
+mechanism-based inactivation by omeprazole <code>cyp2c19_active</code>; CYP3A4
+activity: interactions <code>f_cyp3a4</code>.</li>
+        </ul>
+        <p>The content of this model has been carefully created in a manual research effort.</p>
+        <h2>Terms of use</h2>
+        <p>Copyright © 2026 <a href="https://livermetabolism.com" title="Matthias König" target="_blank">Matthias König</a>.</p>
+        <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png"/>
+        </a>
+        <br/>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<p>Redistribution and use of any part of this model, with or without modification, are permitted provided
+that the following conditions are met:</p>
+        <ul>
+          <li>Redistributions of this SBML file must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+          <li>Redistributions in a different form must reproduce the above copyright notice, this list of conditions
+and the following disclaimer in the documentation and/or other materials provided
+with the distribution.</li>
+        </ul>
+        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</p></body>
+      </notes>
+    <annotation>
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+        <rdf:Description rdf:about="#meta_omeprazole_liver">
+          <dcterms:creator>
+            <rdf:Bag>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Leal Pujol</vCard4:family-name>
+                  <vCard4:given-name>Helen</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>lepujolh@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Balci</vCard4:family-name>
+                  <vCard4:given-name>Sükrü</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>balcisue@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>König</vCard4:family-name>
+                  <vCard4:given-name>Matthias</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>koenigmx@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+            </rdf:Bag>
+          </dcterms:creator>
+          <dcterms:created rdf:parseType="Resource">
+            <dcterms:W3CDTF>2026-10-24T18:40:15Z</dcterms:W3CDTF>
+          </dcterms:created>
+          <dcterms:modified rdf:parseType="Resource">
+            <dcterms:W3CDTF>2026-10-24T18:40:15Z</dcterms:W3CDTF>
+          </dcterms:modified>
+          <bqbiol:occursIn>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/FMA:7197"/>
+              <rdf:li rdf:resource="https://identifiers.org/BTO:0000759"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C12392"/>
+            </rdf:Bag>
+          </bqbiol:occursIn>
+          <bqbiol:hasProperty>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C79371"/>
+            </rdf:Bag>
+          </bqbiol:hasProperty>
+        </rdf:Description>
+      </rdf:RDF>
+    </annotation>
+    <listOfUnitDefinitions>
+      <unitDefinition id="g_per_mole" name="g/mole">
+        <listOfUnits>
+          <unit kind="gram" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="mole" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="l_per_min" name="l/min">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="l_per_min_mmole" name="l/min/mmole">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+          <unit kind="mole" exponent="-1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="m2" name="meter^2">
+        <listOfUnits>
+          <unit kind="metre" exponent="2" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mM" name="mmole/liter">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mg" name="mg">
+        <listOfUnits>
+          <unit kind="gram" exponent="1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="min" name="min">
+        <listOfUnits>
+          <unit kind="second" exponent="1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole" name="mmole">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole_per_min" name="mmole/min">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole_per_min_l" name="mmole/min/liter">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="per_min" name="1/min">
+        <listOfUnits>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+    </listOfUnitDefinitions>
+    <listOfCompartments>
+      <compartment metaid="meta_Vext" sboTerm="SBO:0000290" id="Vext" name="plasma" size="1.5" units="litre" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C13356"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000131"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vli" sboTerm="SBO:0000290" id="Vli" name="liver" size="1.5" units="litre" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vli">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:7197"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000759"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C12392"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vlumen" sboTerm="SBO:0000290" id="Vlumen" name="intestinal lumen (inner part of intestine)" size="1" units="litre" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vlumen">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:14586"/>
+                  <rdf:li rdf:resource="https://identifiers.org/UBERON:0018543"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species metaid="meta_some_ext" sboTerm="SBO:0000247" id="some_ext" name="S-omeprazole (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_some_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9568614"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:50275"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-DEOSSOPVSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_some" sboTerm="SBO:0000247" id="some" name="S-omeprazole (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_some">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9568614"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:50275"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-DEOSSOPVSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_rome_ext" sboTerm="SBO:0000247" id="rome_ext" name="R-omeprazole (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_rome_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9579578"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:77262"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-XMMPIXPASA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_rome" sboTerm="SBO:0000247" id="rome" name="R-omeprazole (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_rome">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:9579578"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:77262"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:SUBDBMMJDZJVOS-XMMPIXPASA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+              <bqbiol:isVersionOf>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C29723"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:49200"/>
+                </rdf:Bag>
+              </bqbiol:isVersionOf>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_omeoh_ext" sboTerm="SBO:0000247" id="omeoh_ext" name="5-hydroxyomeprazole (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_omeoh_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:119560"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:CMZHQFXXAAIBKE-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:63840"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_omeoh" sboTerm="SBO:0000247" id="omeoh" name="5-hydroxyomeprazole (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_omeoh">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:119560"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:CMZHQFXXAAIBKE-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:63840"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_omesul_ext" sboTerm="SBO:0000247" id="omesul_ext" name="omeprazole sulfone (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_omesul_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:145900"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:IXEQEYRTSRFZEO-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:166518"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_omesul" sboTerm="SBO:0000247" id="omesul" name="omeprazole sulfone (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_omesul">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:145900"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:IXEQEYRTSRFZEO-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:166518"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species sboTerm="SBO:0000247" id="omeoth_ext" name="other omeprazole metabolites (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species sboTerm="SBO:0000247" id="omeoth" name="other omeprazole metabolites (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species sboTerm="SBO:0000247" id="omeoth_lumen" name="other omeprazole metabolites (intestinal lumen)" compartment="Vlumen" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+    </listOfSpecies>
+    <listOfParameters>
+      <parameter sboTerm="SBO:0000002" id="f_cyp2c19" name="activity of CYP2C19 (genotype, interactions)" value="1" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Activity of CYP2C19 relative to the extensive metabolizer (*1/*1):
+the mean activity of the two alleles of the genotype (*1 1.0, *2 and
+*3 0 (no function), *17 1.5 (increased function)), i.e. extensive
+metabolizers 1.0, intermediate metabolizers 0.5 and poor metabolizers
+0; multiplied by the factors of inhibiting drugs. Set by the
+experiments, never fitted.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="f_cyp3a4" name="activity of CYP3A4 (interactions)" value="1" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Activity of CYP3A4 relative to the reference; inhibitors &lt; 1, inducers</p>
+            <blockquote>
+              <ol>
+                <li>Set by the experiments, never fitted.</li>
+              </ol>
+            </blockquote>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMEIM_k" name="rate of the omeprazole exchange between plasma and liver" value="10" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Fast exchange (not fitted): the liver is in equilibrium with its plasma,
+the uptake does not limit the metabolism.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000322" id="CYP2C19_Km" name="Km CYP2C19 omeprazole (apparent, total concentration)" value="0.1" units="mM" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Apparent Michaelis constant of CYP2C19 for S- and R-omeprazole of the
+total concentration in the liver: the Km of the high affinity
+5-hydroxylation of liver microsomes (2.5-6 µM unbound, Andersson et
+al. 1993, Br J Clin Pharmacol 36:521) over the unbound fraction of
+omeprazole (0.05, 95 % bound), about 100 µM. Not fitted: the fits ran
+the Km to the upper bound of 50 µM with a lower cost (265 vs 270), it
+is not identifiable above it. The dose dependence of the
+bioavailability (Andersson1990a: 0.40 at 10 mg, 0.58 at 40 mg) comes
+from the mechanism-based inactivation of CYP2C19 during the first pass
+and the saturation of CYP2C19 at the portal concentrations of the
+larger doses.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000322" id="CYP3A4_Km" name="Km CYP3A4 omeprazole (apparent, total concentration)" value="0.1" units="mM" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Michaelis constant of the CYP3A4 sulfoxidation, high (about 100 µM in
+vitro): linear at clinical doses. Not fitted.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="f_some_omeoh" name="fraction 5-hydroxyomeprazole of the CYP2C19 metabolism of S-omeprazole" value="0.1" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>CYP2C19 converts S-omeprazole mainly to 5-O-desmethylomeprazole; the
+5-hydroxyomeprazole from S-omeprazole is 7 % of the one from
+R-omeprazole (HassanAlin2005 Tab4: AUC 0.11 vs 1.59 µmol*h/l). Not
+fitted.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="f_rome_cyp3a4_omeoh" name="fraction 5-hydroxyomeprazole of the CYP3A4 metabolism of R-omeprazole" value="0.464385319357792" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>CYP3A4 forms 5-hydroxyomeprazole besides the sulfone (the low
+affinity 5-hydroxylation of liver microsomes, Andersson et al. 1993,
+Br J Clin Pharmacol 36:521), the route
+of 5-hydroxyomeprazole in CYP2C19 poor metabolizers: their plasma and
+urine contain 5-hydroxyomeprazole (Sohn1992: Cmax 46 ng/ml, urine 5.6 %
+of the dose against 13.5 % of extensive metabolizers; Uno2007: PO AUC
+364 vs 656 ng*h/ml). The 5-hydroxyomeprazole comes from R-omeprazole
+(HassanAlin2005 Tab4), the fraction is fitted.</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__f_rome_cyp3a4_omeoh</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.464385 dimensionless |
+| bounds | [0.01, 0.9] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.351009, 0.583366] |
+| Fisher confidence interval | [0.395064, 0.545871] |
+| distribution of the draws | <code>lognormal(-0.7670406417213967, 0.12959462079583045, 0.01, 0.9)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="dimensionless" distrib:type="confidenceInterval" distrib:valueLower="0.351009381476482" distrib:valueUpper="0.583365855897126"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.0382684260820158" distrib:units="dimensionless" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 0.767040641721397 </cn>
+                  </apply>
+                  <cn> 0.12959462079583 </cn>
+                  <cn> 0.01 </cn>
+                  <cn> 0.9 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="cyp2c19_active" name="fraction of active CYP2C19" value="1" units="dimensionless" constant="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Fraction of CYP2C19 which is not inactivated by omeprazole, 1 without
+omeprazole.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="CYP2C19_kdeg" name="degradation rate of CYP2C19" value="0.000444230769230769" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Turnover of hepatic CYP2C19, half-life 26 hr (the turnover of the
+hepatic CYPs in the models of mechanism-based inhibition [Ohno2007]);
+the active enzyme is resynthesized with this rate. Not fitted.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="CYP2C19_kinact" name="maximal inactivation rate of CYP2C19 by omeprazole" value="0.0185056804400849" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Maximal rate of the mechanism-based inactivation of CYP2C19 by S- and
+R-omeprazole (in vitro kinact of the order of 0.01-0.05 1/min
+[Ogilvie2011, Boulenc2012]); fitted on the repeated doses.</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CYP2C19_kinact</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.0185057 1/(min) |
+| bounds | [0.0001, 1] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.0144896, 0.0228264] |
+| Fisher confidence interval | [0.0160668, 0.0213148] |
+| distribution of the draws | <code>lognormal(-3.989677543212912, 0.11594325302895586, 0.0001, 1.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_min" distrib:type="confidenceInterval" distrib:valueLower="0.014489583800084" distrib:valueUpper="0.0228264336047914"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.00133307896566647" distrib:units="per_min" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 3.98967754321291 </cn>
+                  </apply>
+                  <cn> 0.115943253028956 </cn>
+                  <cn> 0.0001 </cn>
+                  <cn> 1 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="CYP2C19_KI" name="concentration of half-maximal inactivation of CYP2C19" value="0.002" units="mM" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Apparent inactivation constant of the total liver concentration (in
+vitro KI of a few µM [Ogilvie2011, Boulenc2012]): the inactivation is
+saturated at the liver concentrations of a dose. Not fitted: not
+identifiable together with the inactivation rate; a KI of 0.1 mM (the
+in vitro KI over the unbound fraction) gave a higher cost (279.6 vs
+265-270).</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000186" id="CYP2C19_Vmax_some" name="Vmax CYP2C19 S-omeprazole" value="0.0429809444865293" units="mmole_per_min_l" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>The intrinsic clearance of S-omeprazole is about a third of the one of
+R-omeprazole [Abelo2000]: S AUC 2.5 fold R after a single oral dose
+(HassanAlin2005).</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CYP2C19_Vmax_some</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.0429809 (mmol)/(min)/l |
+| bounds | [0.0001, 1] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.0374059, 0.0500731] |
+| Fisher confidence interval | [0.0391797, 0.0471509] |
+| distribution of the draws | <code>lognormal(-3.1469984129852704, 0.07440321927045931, 0.0001, 1.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="mmole_per_min_l" distrib:type="confidenceInterval" distrib:valueLower="0.0374058791617459" distrib:valueUpper="0.0500730605106517"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.00202866774162511" distrib:units="mmole_per_min_l" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 3.14699841298527 </cn>
+                  </apply>
+                  <cn> 0.0744032192704593 </cn>
+                  <cn> 0.0001 </cn>
+                  <cn> 1 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000186" id="CYP2C19_Vmax_rome" name="Vmax CYP2C19 R-omeprazole" value="0.0879250267535046" units="mmole_per_min_l" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CYP2C19_Vmax_rome</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.087925 (mmol)/(min)/l |
+| bounds | [0.0001, 1] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.0723932, 0.103221] |
+| Fisher confidence interval | [0.0791502, 0.0976727] |
+| distribution of the draws | <code>lognormal(-2.431270796345713, 0.09050169279981736, 0.0001, 1.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="mmole_per_min_l" distrib:type="confidenceInterval" distrib:valueLower="0.0723932457026539" distrib:valueUpper="0.103221082553757"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.00471202157907574" distrib:units="mmole_per_min_l" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 2.43127079634571 </cn>
+                  </apply>
+                  <cn> 0.0905016927998174 </cn>
+                  <cn> 0.0001 </cn>
+                  <cn> 1 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000186" id="CYP3A4_Vmax_some" name="Vmax CYP3A4 S-omeprazole" value="0.00347040955371226" units="mmole_per_min_l" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>The clearance of poor metabolizers of CYP2C19 (IV 50-150 ml/min
+[Regaardh1990, Uno2007]) is the one of CYP3A4; the sulfone comes from
+S-omeprazole.</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CYP3A4_Vmax_some</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.00347041 (mmol)/(min)/l |
+| bounds | [0.0001, 0.5] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.00235996, 0.00471124] |
+| Fisher confidence interval | [0.00276968, 0.00434842] |
+| distribution of the draws | <code>lognormal(-5.663482664981592, 0.17635715540592567, 0.0001, 0.5)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="mmole_per_min_l" distrib:type="confidenceInterval" distrib:valueLower="0.00235995916678057" distrib:valueUpper="0.00471124244834389"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.000398973033758517" distrib:units="mmole_per_min_l" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 5.66348266498159 </cn>
+                  </apply>
+                  <cn> 0.176357155405926 </cn>
+                  <cn> 0.0001 </cn>
+                  <cn> 0.5 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000186" id="CYP3A4_Vmax_rome" name="Vmax CYP3A4 R-omeprazole" value="0.00812409201505695" units="mmole_per_min_l" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CYP3A4_Vmax_rome</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.00812409 (mmol)/(min)/l |
+| bounds | [1e-05, 0.5] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.00538652, 0.0131686] |
+| Fisher confidence interval | [0.00621178, 0.0106251] |
+| distribution of the draws | <code>lognormal(-4.812921309004046, 0.2280499163101549, 1e-05, 0.5)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="mmole_per_min_l" distrib:type="confidenceInterval" distrib:valueLower="0.005386518045779" distrib:valueUpper="0.0131686422833983"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.00111140538917548" distrib:units="mmole_per_min_l" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 4.81292130900405 </cn>
+                  </apply>
+                  <cn> 0.228049916310155 </cn>
+                  <cn type="e-notation"> 1 <sep/> -5 </cn>
+                  <cn> 0.5 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMEOHEX_k" name="rate of the 5-hydroxyomeprazole release from the liver" value="0.274485257726021" units="per_min" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__OMEOHEX_k</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.274485 1/(min) |
+| bounds | [0.001, 10] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.213681, 0.361225] |
+| Fisher confidence interval | [0.232973, 0.323394] |
+| distribution of the draws | <code>lognormal(-1.2928577253909002, 0.13393540834289908, 0.001, 10.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_min" distrib:type="confidenceInterval" distrib:valueLower="0.213680649901421" distrib:valueUpper="0.361224541461789"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.0229421808047168" distrib:units="per_min" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 1.2928577253909 </cn>
+                  </apply>
+                  <cn> 0.133935408342899 </cn>
+                  <cn> 0.001 </cn>
+                  <cn> 10 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMEOHM_k" name="rate of the 5-hydroxyomeprazole oxidation in the liver" value="0.6" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>The 5-hydroxyomeprazole of the liver is released into the plasma
+(<code>OMEOHEX_k</code>) or oxidized to the secondary metabolites
+(5-hydroxyomeprazole sulfone, carboxyomeprazole); the fraction released
+is OMEOHEX_k/(OMEOHEX_k + OMEOHM_k). In the plasma 5-hydroxyomeprazole
+is excreted by the kidneys.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMEMEX_k" name="rate of the metabolite exchange between plasma and liver" value="10" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Fast exchange of omeprazole sulfone and the other metabolites between
+the liver and its plasma (not fitted).</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMESUL2C19_k" name="rate of the CYP2C19 metabolism of omeprazole sulfone" value="0.0562470024857024" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Omeprazole sulfone is hydroxylated by CYP2C19 to 5-hydroxyomeprazole
+sulfone: half-life 2-2.6 hr in extensive metabolizers
+[Andersson1990a, HassanAlin2000, Palovaara2003].</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__OMESUL2C19_k</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.056247 1/(min) |
+| bounds | [0.001, 10] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | non_identifiable_lower |
+| 95 % confidence interval | [0.001, 0.136001] (open sides at the bounds) |
+| Fisher confidence interval | [0.0277076, 0.114183] |
+| distribution of the draws | <code>lognormal(-2.878002528460592, 0.45047400971420776, 0.001, 10.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_min" distrib:type="confidenceInterval" distrib:valueLower="0.001" distrib:valueUpper="0.136001455180134"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.0203001438193349" distrib:units="per_min" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 2.87800252846059 </cn>
+                  </apply>
+                  <cn> 0.450474009714208 </cn>
+                  <cn> 0.001 </cn>
+                  <cn> 10 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMESULM_k" name="rate of the CYP2C19 independent metabolism of omeprazole sulfone" value="0.0629735593807952" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>The sulfone of poor metabolizers has a half-life of 7.5-11 hr
+(Regaardh1990 Tab3): a slow CYP2C19 independent clearance.</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__OMESULM_k</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.0629736 1/(min) |
+| bounds | [0.0001, 1] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.0494401, 0.0814427] |
+| Fisher confidence interval | [0.0547272, 0.0724625] |
+| distribution of the draws | <code>lognormal(-2.7650403330544258, 0.12733328407633857, 0.0001, 1.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_min" distrib:type="confidenceInterval" distrib:valueLower="0.0494401357034566" distrib:valueUpper="0.0814427125509757"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.00450528446034677" distrib:units="per_min" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 2.76504033305443 </cn>
+                  </apply>
+                  <cn> 0.127333284076339 </cn>
+                  <cn> 0.0001 </cn>
+                  <cn> 1 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000009" id="OMEOTHBIL_k" name="rate of the biliary excretion of the other metabolites" value="0.00492138159856471" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Feces 17-19 % of the radioactivity of an IV or oral dose
+[Regaardh1986, Regaardh1990], no unchanged omeprazole.</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_090631__aa2cf">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__OMEOTHBIL_k</code> is the result of the fit <code>PK_20261020_090631__aa2cf</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_090631__aa2cf</code> |
+| record | <code>PK_20261020_090631__aa2cf/</code> |
+| cost | 265.141 |
+| data points | 1285 |
+| value | 0.00492138 1/(min) |
+| bounds | [0.0001, 1] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.00243631, 0.0197111] |
+| Fisher confidence interval | [0.00311787, 0.00776812] |
+| distribution of the draws | <code>lognormal(-5.314165975182028, 0.5333508882459561, 0.0001, 1.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_min" distrib:type="confidenceInterval" distrib:valueLower="0.00243631327519207" distrib:valueUpper="0.0197111212722795"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.0011450041331849" distrib:units="per_min" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 5.31416597518203 </cn>
+                  </apply>
+                  <cn> 0.533350888245956 </cn>
+                  <cn> 0.0001 </cn>
+                  <cn> 1 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter id="cyp2c19_activity" name="activity of CYP2C19" units="dimensionless" constant="false"/>
+      <parameter id="SOMECYP2C19_rate" name="rate of the CYP2C19 metabolism of S-omeprazole" units="mmole_per_min" constant="false"/>
+      <parameter id="ROMECYP3A4_rate" name="rate of the CYP3A4 metabolism of R-omeprazole" units="mmole_per_min" constant="false"/>
+    </listOfParameters>
+    <listOfRules>
+      <assignmentRule name="activity of CYP2C19" variable="cyp2c19_activity">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Genotype and interactions times the fraction not inactivated.</p>
+          </body>
+        </notes>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <ci> f_cyp2c19 </ci>
+            <ci> cyp2c19_active </ci>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="rate of the CYP2C19 metabolism of S-omeprazole" variable="SOMECYP2C19_rate">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <divide/>
+            <apply>
+              <times/>
+              <ci> cyp2c19_activity </ci>
+              <ci> CYP2C19_Vmax_some </ci>
+              <ci> Vli </ci>
+              <ci> some </ci>
+            </apply>
+            <apply>
+              <plus/>
+              <ci> CYP2C19_Km </ci>
+              <ci> some </ci>
+            </apply>
+          </apply>
+        </math>
+      </assignmentRule>
+      <assignmentRule name="rate of the CYP3A4 metabolism of R-omeprazole" variable="ROMECYP3A4_rate">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <divide/>
+            <apply>
+              <times/>
+              <ci> f_cyp3a4 </ci>
+              <ci> CYP3A4_Vmax_rome </ci>
+              <ci> Vli </ci>
+              <ci> rome </ci>
+            </apply>
+            <apply>
+              <plus/>
+              <ci> CYP3A4_Km </ci>
+              <ci> rome </ci>
+            </apply>
+          </apply>
+        </math>
+      </assignmentRule>
+      <rateRule variable="cyp2c19_active">
+        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+          <apply>
+            <minus/>
+            <apply>
+              <times/>
+              <ci> CYP2C19_kdeg </ci>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> cyp2c19_active </ci>
+              </apply>
+            </apply>
+            <apply>
+              <divide/>
+              <apply>
+                <times/>
+                <ci> CYP2C19_kinact </ci>
+                <ci> cyp2c19_active </ci>
+                <apply>
+                  <plus/>
+                  <ci> some </ci>
+                  <ci> rome </ci>
+                </apply>
+              </apply>
+              <apply>
+                <plus/>
+                <ci> CYP2C19_KI </ci>
+                <ci> some </ci>
+                <ci> rome </ci>
+              </apply>
+            </apply>
+          </apply>
+        </math>
+      </rateRule>
+    </listOfRules>
+    <listOfReactions>
+      <reaction sboTerm="SBO:0000655" id="SOMEIM" name="S-omeprazole exchange plasma and liver" reversible="true" compartment="Vli">
+        <listOfReactants>
+          <speciesReference species="some_ext" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="some" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> OMEIM_k </ci>
+              <ci> Vli </ci>
+              <apply>
+                <minus/>
+                <ci> some_ext </ci>
+                <ci> some </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="ROMEIM" name="R-omeprazole exchange plasma and liver" reversible="true" compartment="Vli">
+        <listOfReactants>
+          <speciesReference species="rome_ext" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="rome" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> OMEIM_k </ci>
+              <ci> Vli </ci>
+              <apply>
+                <minus/>
+                <ci> rome_ext </ci>
+                <ci> rome </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction metaid="meta_SOMECYP2C19" sboTerm="SBO:0000176" id="SOMECYP2C19" name="S-omeprazole to 5-O-desmethylomeprazole (CYP2C19)" reversible="false" compartment="Vli">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_SOMECYP2C19">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot:P33261"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="some" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoth" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> f_some_omeoh </ci>
+              </apply>
+              <ci> SOMECYP2C19_rate </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction metaid="meta_SOMECYP2C19OH" sboTerm="SBO:0000176" id="SOMECYP2C19OH" name="S-omeprazole to 5-hydroxyomeprazole (CYP2C19)" reversible="false" compartment="Vli">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_SOMECYP2C19OH">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot:P33261"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="some" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoh" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> f_some_omeoh </ci>
+              <ci> SOMECYP2C19_rate </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction metaid="meta_ROMECYP2C19" sboTerm="SBO:0000176" id="ROMECYP2C19" name="R-omeprazole to 5-hydroxyomeprazole (CYP2C19)" reversible="false" compartment="Vli">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_ROMECYP2C19">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot:P33261"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="rome" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoh" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <divide/>
+              <apply>
+                <times/>
+                <ci> cyp2c19_activity </ci>
+                <ci> CYP2C19_Vmax_rome </ci>
+                <ci> Vli </ci>
+                <ci> rome </ci>
+              </apply>
+              <apply>
+                <plus/>
+                <ci> CYP2C19_Km </ci>
+                <ci> rome </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction metaid="meta_SOMECYP3A4" sboTerm="SBO:0000176" id="SOMECYP3A4" name="S-omeprazole to omeprazole sulfone (CYP3A4)" reversible="false" compartment="Vli">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_SOMECYP3A4">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot:P08684"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="some" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omesul" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <divide/>
+              <apply>
+                <times/>
+                <ci> f_cyp3a4 </ci>
+                <ci> CYP3A4_Vmax_some </ci>
+                <ci> Vli </ci>
+                <ci> some </ci>
+              </apply>
+              <apply>
+                <plus/>
+                <ci> CYP3A4_Km </ci>
+                <ci> some </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction metaid="meta_ROMECYP3A4" sboTerm="SBO:0000176" id="ROMECYP3A4" name="R-omeprazole to omeprazole sulfone (CYP3A4)" reversible="false" compartment="Vli">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_ROMECYP3A4">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot:P08684"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="rome" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omesul" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <apply>
+                <minus/>
+                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
+                <ci> f_rome_cyp3a4_omeoh </ci>
+              </apply>
+              <ci> ROMECYP3A4_rate </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction metaid="meta_ROMECYP3A4OH" sboTerm="SBO:0000176" id="ROMECYP3A4OH" name="R-omeprazole to 5-hydroxyomeprazole (CYP3A4)" reversible="false" compartment="Vli">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_ROMECYP3A4OH">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot:P08684"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="rome" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoh" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> f_rome_cyp3a4_omeoh </ci>
+              <ci> ROMECYP3A4_rate </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="OMEOHEX" name="5-hydroxyomeprazole release" reversible="false" compartment="Vli">
+        <listOfReactants>
+          <speciesReference species="omeoh" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoh_ext" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> OMEOHEX_k </ci>
+              <ci> Vli </ci>
+              <ci> omeoh </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000176" id="OMEOHM" name="5-hydroxyomeprazole oxidation" reversible="false" compartment="Vli">
+        <listOfReactants>
+          <speciesReference species="omeoh" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoth" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> OMEOHM_k </ci>
+              <ci> Vli </ci>
+              <ci> omeoh </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="OMESULEX" name="omeprazole sulfone exchange liver and plasma" reversible="true" compartment="Vli">
+        <listOfReactants>
+          <speciesReference species="omesul" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omesul_ext" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> OMEMEX_k </ci>
+              <ci> Vli </ci>
+              <apply>
+                <minus/>
+                <ci> omesul </ci>
+                <ci> omesul_ext </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction metaid="meta_OMESULM" sboTerm="SBO:0000176" id="OMESULM" name="omeprazole sulfone metabolism" reversible="false" compartment="Vli">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_OMESULM">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/uniprot:P33261"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+        <listOfReactants>
+          <speciesReference species="omesul" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoth" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <apply>
+                <plus/>
+                <apply>
+                  <times/>
+                  <ci> cyp2c19_activity </ci>
+                  <ci> OMESUL2C19_k </ci>
+                </apply>
+                <ci> OMESULM_k </ci>
+              </apply>
+              <ci> Vli </ci>
+              <ci> omesul </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="OMEOTHEX" name="other metabolites exchange liver and plasma" reversible="true" compartment="Vli">
+        <listOfReactants>
+          <speciesReference species="omeoth" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoth_ext" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> OMEMEX_k </ci>
+              <ci> Vli </ci>
+              <apply>
+                <minus/>
+                <ci> omeoth </ci>
+                <ci> omeoth_ext </ci>
+              </apply>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="OMEOTHBIL" name="other metabolites biliary excretion" reversible="false" compartment="Vli">
+        <listOfReactants>
+          <speciesReference species="omeoth" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="omeoth_lumen" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> OMEOTHBIL_k </ci>
+              <ci> Vli </ci>
+              <ci> omeoth </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+    </listOfReactions>
+    <comp:listOfPorts>
+      <comp:port metaid="Vext_port" sboTerm="SBO:0000599" comp:idRef="Vext" comp:id="Vext_port" comp:name="Port of Vext"/>
+      <comp:port metaid="Vli_port" sboTerm="SBO:0000599" comp:idRef="Vli" comp:id="Vli_port" comp:name="Port of Vli"/>
+      <comp:port metaid="Vlumen_port" sboTerm="SBO:0000599" comp:idRef="Vlumen" comp:id="Vlumen_port" comp:name="Port of Vlumen"/>
+      <comp:port metaid="some_ext_port" sboTerm="SBO:0000599" comp:idRef="some_ext" comp:id="some_ext_port" comp:name="Port of some_ext"/>
+      <comp:port metaid="some_port" sboTerm="SBO:0000599" comp:idRef="some" comp:id="some_port" comp:name="Port of some"/>
+      <comp:port metaid="rome_ext_port" sboTerm="SBO:0000599" comp:idRef="rome_ext" comp:id="rome_ext_port" comp:name="Port of rome_ext"/>
+      <comp:port metaid="rome_port" sboTerm="SBO:0000599" comp:idRef="rome" comp:id="rome_port" comp:name="Port of rome"/>
+      <comp:port metaid="omeoh_ext_port" sboTerm="SBO:0000599" comp:idRef="omeoh_ext" comp:id="omeoh_ext_port" comp:name="Port of omeoh_ext"/>
+      <comp:port metaid="omeoh_port" sboTerm="SBO:0000599" comp:idRef="omeoh" comp:id="omeoh_port" comp:name="Port of omeoh"/>
+      <comp:port metaid="omesul_ext_port" sboTerm="SBO:0000599" comp:idRef="omesul_ext" comp:id="omesul_ext_port" comp:name="Port of omesul_ext"/>
+      <comp:port metaid="omesul_port" sboTerm="SBO:0000599" comp:idRef="omesul" comp:id="omesul_port" comp:name="Port of omesul"/>
+      <comp:port metaid="omeoth_ext_port" sboTerm="SBO:0000599" comp:idRef="omeoth_ext" comp:id="omeoth_ext_port" comp:name="Port of omeoth_ext"/>
+      <comp:port metaid="omeoth_port" sboTerm="SBO:0000599" comp:idRef="omeoth" comp:id="omeoth_port" comp:name="Port of omeoth"/>
+      <comp:port metaid="omeoth_lumen_port" sboTerm="SBO:0000599" comp:idRef="omeoth_lumen" comp:id="omeoth_lumen_port" comp:name="Port of omeoth_lumen"/>
+    </comp:listOfPorts>
+  </model>
+</sbml>

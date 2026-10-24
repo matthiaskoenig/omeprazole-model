@@ -1,0 +1,7 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	se	unit	comments
+Andersson1993	cirrhosis	8.0	OME20	thalf	omeprazole	plasma	NA	NA	2.75	0.2	hr	NA
+Andersson1993	cirrhosis	8.0	OME20	vd	omeprazole	plasma	NA	NA	0.21	0.01	l/kg	NA
+Andersson1993	cirrhosis	8.0	OME20	clearance	omeprazole	plasma	NA	NA	67.0	5.0	ml/min	NA
+Andersson1993	young_healthy	18.0	OME20	thalf	omeprazole	plasma	NA	NA	0.68	0.12	hr	NA
+Andersson1993	young_healthy	18.0	OME20	vd	omeprazole	plasma	NA	NA	0.34	0.02	l/kg	NA
+Andersson1993	young_healthy	18.0	OME20	clearance	omeprazole	plasma	NA	NA	594.0	50.0	ml/min	NA

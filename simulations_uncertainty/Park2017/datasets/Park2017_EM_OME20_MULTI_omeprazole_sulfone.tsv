@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	0.0	hr	0.00010599856123070111	51.69	3.70206408057108e-05	1.3087266891704941e-05	trough 24 h after the dose of day 7 at time 0	mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	0.5	hr	0.0001367937579547341	92.27	0.00011850478667478277	4.189032150960101e-05		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	1.0	hr	0.0006067732831608654	584.58	0.0010106800951801226	0.00035734049028830723		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	2.0	hr	0.0009173537712356813	661.23	0.000912179735487798	0.0003225056720712744		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	3.0	hr	0.0007386696917713463	432.87	0.00045902274362237837	0.00016227657572906863		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	4.0	hr	0.0008367273532178628	587.89	0.0007898843450832825	0.0002792595871838858		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	6.0	hr	0.0006275801007138509	442.41	0.0005965082175861877	0.0002108903768468817		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	8.0	hr	0.00042642908527474953	288.06	0.0003705937690221902	0.0001310386807592275		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	10.0	hr	0.00040562226772176404	269.07	0.0003388578385258148	0.00011980521277184437		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	12.0	hr	0.0003012561562724807	185.42	0.0002117481046981351	7.487134082231198e-05		mole/meter^3	dimensionless

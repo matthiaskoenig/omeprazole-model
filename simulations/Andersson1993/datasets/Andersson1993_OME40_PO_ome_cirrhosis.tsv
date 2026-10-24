@@ -1,0 +1,21 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.11971051	hr	4.2890267					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.13135833	hr	6.017165					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.14124046	hr	6.8852053					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.19421098	hr	7.449895					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.28161234	hr	7.672757					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.47261944	hr	7.0657787					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.5241945	hr	6.5079355					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.6278857	hr	5.876695					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.81940544	hr	5.7416625					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	1.0107827	hr	5.5182886					µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	1.5327986	hr	4.9968686	4.6025143	1.1154023988803	0.3943543		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	1.9934998	hr	4.364365	4.0201006	0.973726767044472	0.3442644		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	2.9756756	hr	3.2427557	2.9868686	0.723758014512641	0.2558871		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	3.939682	hr	2.2120779	2.0508728	0.455956877487422	0.1612051		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	4.9748855	hr	1.790119	1.6381263	0.42990027544341	0.1519927		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	5.9842014	hr	1.4921944	1.3256643	0.471018251926695	0.1665301		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	6.975918	hr	1.2195874	1.0799016	0.395091105661871	0.1396858		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	8.01938	hr	0.9363732	0.8210159	0.326279716357484	0.1153573		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	10.003098	hr	0.64639723	0.544849	0.287221768201965	0.10154823		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	12.004557	hr	0.46264064	0.38485005	0.22002501480601	0.07779059		µmol/l	dimensionless

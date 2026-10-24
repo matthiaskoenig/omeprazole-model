@@ -1,0 +1,5 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Palovaara2003	OME40	0	hr	oral	single dose	dosing	tablet	omeprazole	40	mg	NA
+Palovaara2003	EE40	S-10T1R10	day	oral	multiple dose	dosing	capsule	ethinylestradiol	40	µg	10 days, for ethinylestradiool and levonorgestrel, EE as pill
+Palovaara2003	LNG75	S-10T1R10	day	oral	multiple dose	dosing	capsule	 levonorgestrel	75	µg	10 days, for ethinylestradiool and levonorgestrel, EE as pill
+Palovaara2003	LNG60	S-10T1R10	day	oral	multiple dose	dosing	tablet	 levonorgestrel	60	µg	microluton = levonorgestrel

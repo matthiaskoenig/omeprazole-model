@@ -1,0 +1,7 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit
+Regaardh1990	all	NA	8	species	NA	homo sapiens	8	NA	NA	NA	NA	NA	NA
+Regaardh1990	all	NA	8	healthy	NA	Y	8	NA	NA	NA	NA	NA	NA
+Regaardh1990	all	NA	8	sex	NA	M	8	NA	NA	NA	NA	NA	NA
+Regaardh1990	all	NA	8	age (categorial)	NA	adult	8	NA	NA	NA	NA	NA	NA
+Regaardh1990	all	NA	8	age	NA	NA	8	27.1	NA	NA	NA	2.2	yr
+Regaardh1990	all	NA	8	weight	NA	NA	8	74.1	NA	NA	NA	5.1	kg

@@ -1,0 +1,6 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Walt1983	OME0	0	hr	oral	single dose	dosing	NR	omeprazole	0	mg	NA
+Walt1983	OME30	S-7T1R7	day	oral	multiple dose	dosing	capsule	omeprazole	30	mg	Once daily over the course of one week
+Walt1983	PLACEBO	0	hr	oral	single dose	dosing	NR	placebo	0	mg	NA
+Walt1983	CIM1	0	hr	oral	single dose	dosing	NR	cimetidine	1	g	NA
+Walt1983	RAN300	0	hr	oral	single dose	dosing	NR	ranitidine	300	mg	NA

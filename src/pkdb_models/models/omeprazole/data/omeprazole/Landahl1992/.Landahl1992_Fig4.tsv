@@ -1,0 +1,72 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	se	pm	sd	unit
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.08540968	hr	260.7238	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.18169983	hr	1071.5751	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.2283304	hr	1179.8556	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.321472	hr	1363.0485	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.46028763	hr	1179.123	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	0.6761832	hr	926.09784	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	1.0004052	hr	750.9001	68.9982	68.9982	195.15638043866258	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	1.4948487	hr	638.6159	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	2.004756	hr	543.09937	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	3.997436	hr	226.89128	27.363129999999984	27.363129999999984	77.39461910995618	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	5-hydroxyomeprazole	plasma	HPLC	OME40_PO_5-hydroxyomeprazole	6.0064564	hr	134.96643	27.183009999999996	27.183009999999996	76.88516281624693	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	5-hydroxyomeprazole	plasma	HPLC	OME20_IV_5-hydroxyomeprazole	0.08544953	hr	264.946	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	5-hydroxyomeprazole	plasma	HPLC	OME20_IV_5-hydroxyomeprazole	0.33450463	hr	511.5811	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	5-hydroxyomeprazole	plasma	HPLC	OME20_IV_5-hydroxyomeprazole	0.4890232	hr	487.30914	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	5-hydroxyomeprazole	plasma	HPLC	OME20_IV_5-hydroxyomeprazole	0.65904546	hr	471.6864	43.377399999999966	43.377399999999966	122.6898147609653	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	5-hydroxyomeprazole	plasma	HPLC	OME20_IV_5-hydroxyomeprazole	0.99912983	hr	449.08408	34.64362	34.64362	97.9869545073996	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	5-hydroxyomeprazole	plasma	HPLC	OME20_IV_5-hydroxyomeprazole	1.4935733	hr	381.9313	29.492459999999994	29.492459999999994	83.41727383949201	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	5-hydroxyomeprazole	plasma	HPLC	OME20_IV_5-hydroxyomeprazole	1.9877777	hr	294.97324	13.901919999999961	13.901919999999961	39.32056761405145	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	5-hydroxyomeprazole	plasma	HPLC	OME20_IV_5-hydroxyomeprazole	4.011306	hr	119.32508	12.691299999999998	12.691299999999998	35.89641716829132	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.12686275	hr	487.94638	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.16764706	hr	815.88306	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.3529412	hr	781.6697	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.627451	hr	748.891	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.98039216	hr	740.9134	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	1.5	hr	756.95447	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	2.0	hr	756.95447	105.39587000000006	105.39587000000006	298.10453754422343	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	3.9607842	hr	644.61786	124.2876	124.2876	351.5384191096046	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	6.0	hr	687.39966	178.09606000000002	178.09606000000002	503.73172691442505	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	8.0	hr	543.1049	149.23860000000002	149.23860000000002	422.11050429914684	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.12986325	hr	88.51639	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.17225976	hr	101.77568	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.296903	hr	138.94746	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.37838584	hr	159.7499	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.38067755	hr	175.96631	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.53905976	hr	191.70413	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.77561456	hr	208.82027	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	1.0510011	hr	225.01837	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	1.5	hr	232.242	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	2.0	hr	229.55153	38.356540000000024	38.356540000000024	108.4886781474123	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	4.020031	hr	209.85312	51.13959	51.13959	144.64460350439902	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	5.9771466	hr	235.35074	72.01148	72.01148	203.67922332511782	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	7.965709	hr	191.21507	66.79968	66.79968	188.93802683636557	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.16322546	hr	579.0824	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.29621804	hr	2355.1138	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.29807326	hr	2855.8267	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.34053737	hr	3462.9001	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.42340422	hr	4109.927	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.6661298	hr	3731.6707	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.9092678	hr	3536.5266	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	1.1530241	hr	3574.022	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	1.4371831	hr	3535.277	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	1.9645832	hr	3349.7659	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	3.9916258	hr	2349.2957	261.0227	261.0227	738.2836848544873	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	5.938069	hr	1757.0782	276.69759999999997	276.69759999999997	782.6189971921714	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	7.884512	hr	1314.1489	275.8834999999999	275.8834999999999	780.3163746699154	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	11.9419985	hr	920.4019	223.71619999999996	223.71619999999996	632.7649683251435	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	23.953876	hr	383.48074	111.26822000000004	111.26822000000004	314.7140515702267	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	0.12790765	hr	1279.2222	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	0.16934107	hr	1393.6157	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	0.2107745	hr	1518.2388	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	0.293126	hr	1707.9637	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	0.49689186	hr	1840.6761	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	0.6189246	hr	1880.3738	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	0.9438987	hr	1900.2068	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	1.3900809	hr	1800.5927	NA	NA	NA	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	1.8364694	hr	1743.1401	193.84310000000005	193.84310000000005	548.2710819848884	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	3.9419467	hr	915.4866	75.16969999999992	75.16969999999992	212.61201843903348	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	5.969711	hr	692.0427	121.35149999999999	121.35149999999999	343.23387422863726	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	7.9560413	hr	480.1941	108.8383	108.8383	307.8411999312633	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	11.892114	hr	351.06668	73.70053000000001	73.70053000000001	208.45657816017038	nmol/l
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole metabolites	plasma	HPLC	OME20_IV_omeprazole metabolites	23.983458	hr	121.9167	29.631	29.631	83.80912413335436	nmol/l

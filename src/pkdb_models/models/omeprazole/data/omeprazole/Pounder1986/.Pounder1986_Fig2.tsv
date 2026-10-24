@@ -1,0 +1,49 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	sd	se	unit	comments
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	0.0	hr	30.398535	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	1.0	hr	30.263111	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	2.0	hr	30.501251	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	3.0	hr	37.22002	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	4.0	hr	46.929203	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	5.0	hr	15.017486	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	6.0	hr	9.522671	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	7.0	hr	26.833176	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	8.0	hr	35.91903	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	9.0	hr	65.31743	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	10.0	hr	71.66182	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	11.0	hr	5.6051006	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	12.0	hr	12.946928	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	13.0	hr	23.527853	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	14.0	hr	24.01549	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	15.0	hr	49.6758	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	16.0	hr	56.893288	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	17.0	hr	64.73302	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	18.0	hr	74.44193	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	19.0	hr	57.73178	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	20.0	hr	51.615257	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	21.0	hr	49.859337	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	22.0	hr	42.496696	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME0	concentration	hydron	stomach	Fig2_beforeome	23.0	hr	43.73173	NA	NA	mM	Before 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	0.0	hr	28.279593	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	1.0	hr	17.552431	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	2.0	hr	34.48883	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	3.0	hr	31.363804	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	4.0	hr	37.583313	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	5.0	hr	1.9313486	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	6.0	hr	8.1516695	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	7.0	hr	23.344044	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	8.0	hr	16.852875	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	9.0	hr	47.49793	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	10.0	hr	50.602413	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	11.0	hr	8.595785	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	12.0	hr	10.079504	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	13.0	hr	32.62506	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	14.0	hr	24.140371	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	15.0	hr	40.703747	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	16.0	hr	54.898956	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	17.0	hr	74.32894	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	18.0	hr	26.338512	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	19.0	hr	27.201876	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	20.0	hr	23.202673	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	21.0	hr	26.308239	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	22.0	hr	17.82328	NA	NA	mM	1 week after 14 days treatment omeprazole
+Pounder1986	all	9.0	OME30	concentration	hydron	stomach	Fig2_afterome	23.0	hr	32.392326	NA	NA	mM	1 week after 14 days treatment omeprazole

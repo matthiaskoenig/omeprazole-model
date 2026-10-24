@@ -1,0 +1,13 @@
+study	name	parent	group_count	measurement_type	count	substance	choice	mean	sd	min	max	unit	comments
+Naesdal1986	all	NA	12.0	species	12.0	NA	homo sapiens	NA	NA	NA	NA	NA	See TabIndividuals for individual information
+Naesdal1986	all	NA	12.0	sex	8.0	NA	M	NA	NA	NA	NA	NA	NA
+Naesdal1986	all	NA	12.0	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA
+Naesdal1986	all	NA	12.0	age	12.0	NA	NA	56.08	NA	33.0	68.0	yr	NA
+Naesdal1986	all	NA	12.0	weight	12.0	NA	NA	72.83	NA	49.0	95.0	kg	NA
+Naesdal1986	all	NA	12.0	fasting	12.0	NA	Y	NA	NA	NA	NA	NA	NA
+Naesdal1986	all	NA	12.0	smoking	12.0	NA	Y	NA	NA	NA	NA	NA	NA
+Naesdal1986	all	NA	12.0	healthy	12.0	NA	N	NA	NA	NA	NA	NA	3/12 subjects smoke
+Naesdal1986	all	NA	12.0	disease	12.0	NA	renal disease	NA	NA	NA	NA	NA	renal impairment of all subjects; chronic renal insufficiency
+Naesdal1986	all	NA	12.0	clearance	12.0	creatinine	NA	NA	NA	10.0	62.0	ml/min/(1.73 m^2)	renal impairment of all subjects; chronic renal insufficiency
+Naesdal1986	MRI	all	6.0	gfr	6.0	NA	NA	NA	NA	25.0	NA	ml/min	mild renal impairment
+Naesdal1986	SRI	all	6.0	gfr	6.0	NA	NA	NA	NA	NA	25.0	ml/min	severe renal impairment

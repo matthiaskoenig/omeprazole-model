@@ -1,0 +1,7 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit
+Cederberg1992	all	NA	9.0	species	NA	homo sapiens	9.0	NA	NA	NA	NA	NA	NA
+Cederberg1992	all	NA	9.0	healthy	NA	N	9.0	NA	NA	NA	NA	NA	NA
+Cederberg1992	all	NA	9.0	sex	NA	M	7.0	NA	NA	NA	NA	NA	NA
+Cederberg1992	all	NA	9.0	sex	NA	F	2.0	NA	NA	NA	NA	NA	NA
+Cederberg1992	all	NA	9.0	age 	NA	NA	9.0	37.0	NA	26.0	63.0	NA	yr
+Cederberg1992	all	NA	9.0	fasting	NA	Y	9.0	NA	NA	NA	NA	NA	NA

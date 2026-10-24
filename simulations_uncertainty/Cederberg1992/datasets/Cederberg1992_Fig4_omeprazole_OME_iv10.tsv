@@ -1,0 +1,9 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	mean_unit	count_unit
+Cederberg1992	all	9.0	concentration	OME_iv10	omeprazole	plasma	HPLC	Fig4_concentration_iv_10_day_1	3.501278e-05	hr	0.000112827554				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_iv10	omeprazole	plasma	HPLC	Fig4_concentration_iv_10_day_1	0.1	hr	2.4259052				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_iv10	omeprazole	plasma	HPLC	Fig4_concentration_iv_10_day_1	0.25	hr	0.9406433				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_iv10	omeprazole	plasma	HPLC	Fig4_concentration_iv_10_day_1	0.4	hr	0.6956947				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_iv10	omeprazole	plasma	HPLC	Fig4_concentration_iv_10_day_1	0.6	hr	0.50467765				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_iv10	omeprazole	plasma	HPLC	Fig4_concentration_iv_10_day_1	0.85	hr	0.2854537				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_iv10	omeprazole	plasma	HPLC	Fig4_concentration_iv_10_day_1	1.1	hr	0.20128435				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_iv10	omeprazole	plasma	HPLC	Fig4_concentration_iv_10_day_1	1.6	hr	0.08676439				µmol/l	dimensionless

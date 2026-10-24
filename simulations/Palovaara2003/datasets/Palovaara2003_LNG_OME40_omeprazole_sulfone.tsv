@@ -1,0 +1,10 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	comments	mean_unit	count_unit
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	0.0	hr	0.0				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	1.0	hr	141.29243				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	1.5	hr	330.11887				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	2.0	hr	370.45517				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	2.5	hr	435.0399				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	3.0	hr	471.34006				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	4.0	hr	406.56653				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	6.0	hr	244.6953				nM	dimensionless
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	8.0	hr	147.46976				nM	dimensionless

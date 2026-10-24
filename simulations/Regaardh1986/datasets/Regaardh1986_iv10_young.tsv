@@ -1,0 +1,13 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	0.4074703	min	2915.3225					nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	3.2597623	min	1935.4839	1681.4517	254.0322	718.511565038949		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	5.908319	min	1360.8871	1185.4839	175.4032	496.115168647281		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	10.797962	min	1028.2258	846.7742	181.4516	513.222627268596		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	15.280136	min	889.1129	653.2258	235.8871	667.189472017717		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	20.169779	min	786.29034	574.5968	211.69354	598.759750669543		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	25.466892	min	689.5161	483.87097	205.64513	581.652263763957		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	35.449917	min	586.69354	393.14517	193.54837	547.437459658412		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	45.432938	min	502.01614	290.32257	211.69357	598.759835522356		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	55.619694	min	447.58066	260.08066	187.5	530.330085889911		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	84.95756	min	320.5645	175.40323	145.16127	410.578073530605		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_iv10	omeprazole	plasma	HPLC	iv10_young	114.906624	min	260.08066	108.870964	151.209696	427.685605691026		nmol/l	dimensionless

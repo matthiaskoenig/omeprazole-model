@@ -1,0 +1,9 @@
+study	name	group_count	parent	measurement_type	count	choice	mean	min	max	unit	comments
+Pounder1986	all	9	NA	species	9	homo sapiens	NA	NA	NA	NA	NA
+Pounder1986	all	9	NA	sex	9	M	NA	NA	NA	NA	NA
+Pounder1986	all	9	NA	age	9	NA	47.4	22.0	66.0	yr	NA
+Pounder1986	all	9	NA	weight	9	NA	69.2	56.8	85.0	kg	NA
+Pounder1986	all	9	NA	healthy	9	N	NA	NA	NA	NA	NA
+Pounder1986	all	9	NA	disease	9	duodenal ulcer	NA	NA	NA	NA	disease: ulceration
+Pounder1986	all	9	NA	smoking	5	Y	NA	NA	NA	NA	NA
+Pounder1986	all	9	NA	smoking	4	N	NA	NA	NA	NA	NA

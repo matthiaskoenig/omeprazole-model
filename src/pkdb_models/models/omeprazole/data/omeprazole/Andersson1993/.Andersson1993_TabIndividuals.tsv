@@ -1,0 +1,81 @@
+study	name	group	count	substance	measurement_type	choice	value	unit	comment
+Andersson1993	T1_S1	cirrhosis	1.0	NA	species	homo sapiens	NA	NA	NA
+Andersson1993	T1_S1	cirrhosis	1.0	NA	sex	M	NA	NA	NA
+Andersson1993	T1_S1	cirrhosis	1.0	NA	age	NA	48.0	yr	NA
+Andersson1993	T1_S1	cirrhosis	1.0	NA	weight	NA	78.0	kg	NA
+Andersson1993	T1_S1	cirrhosis	1.0	NA	disease	liver disease (mild)	NA	NA	CTP score: A
+Andersson1993	T1_S1	cirrhosis	1.0	NA	smoking	Y	NA	NA	NA
+Andersson1993	T1_S1	cirrhosis	1.0	creatinine	concentration	NA	96.0	µmol/l	NA
+Andersson1993	T1_S1	cirrhosis	1.0	bilirubin	concentration	NA	26.0	µmol/l	NA
+Andersson1993	T1_S2	cirrhosis	1.0	NA	species	homo sapiens	NA	NA	NA
+Andersson1993	T1_S2	cirrhosis	1.0	NA	sex	F	NA	NA	NA
+Andersson1993	T1_S2	cirrhosis	1.0	NA	age	NA	65.0	yr	NA
+Andersson1993	T1_S2	cirrhosis	1.0	NA	weight	NA	63.0	kg	NA
+Andersson1993	T1_S2	cirrhosis	1.0	NA	disease	liver disease (moderate)	NA	NA	B
+Andersson1993	T1_S2	cirrhosis	1.0	NA	smoking	N	NA	NA	NA
+Andersson1993	T1_S2	cirrhosis	1.0	creatinine	concentration	NA	58.0	µmol/l	NA
+Andersson1993	T1_S2	cirrhosis	1.0	bilirubin	concentration	NA	20.0	µmol/l	NA
+Andersson1993	T1_S3	cirrhosis	1.0	NA	species	homo sapiens	NA	NA	NA
+Andersson1993	T1_S3	cirrhosis	1.0	NA	sex	M	NA	NA	NA
+Andersson1993	T1_S3	cirrhosis	1.0	NA	age	NA	80.0	yr	NA
+Andersson1993	T1_S3	cirrhosis	1.0	NA	weight	NA	89.0	kg	NA
+Andersson1993	T1_S3	cirrhosis	1.0	NA	disease	liver disease (severe)	NA	NA	C
+Andersson1993	T1_S3	cirrhosis	1.0	NA	smoking	Y	NA	NA	NA
+Andersson1993	T1_S3	cirrhosis	1.0	creatinine	concentration	NA	92.0	µmol/l	NA
+Andersson1993	T1_S3	cirrhosis	1.0	bilirubin	concentration	NA	14.0	µmol/l	NA
+Andersson1993	T1_S4	cirrhosis	1.0	NA	species	homo sapiens	NA	NA	NA
+Andersson1993	T1_S4	cirrhosis	1.0	NA	sex	M	NA	NA	NA
+Andersson1993	T1_S4	cirrhosis	1.0	NA	age	NA	63.0	yr	NA
+Andersson1993	T1_S4	cirrhosis	1.0	NA	weight	NA	56.0	kg	NA
+Andersson1993	T1_S4	cirrhosis	1.0	NA	disease	liver disease (moderate)	NA	NA	B
+Andersson1993	T1_S4	cirrhosis	1.0	NA	smoking	Y	NA	NA	NA
+Andersson1993	T1_S4	cirrhosis	1.0	creatinine	concentration	NA	126.0	µmol/l	NA
+Andersson1993	T1_S4	cirrhosis	1.0	bilirubin	concentration	NA	14.0	µmol/l	NA
+Andersson1993	T1_S5	cirrhosis	1.0	NA	species	homo sapiens	NA	NA	NA
+Andersson1993	T1_S5	cirrhosis	1.0	NA	sex	F	NA	NA	NA
+Andersson1993	T1_S5	cirrhosis	1.0	NA	age	NA	40.0	yr	NA
+Andersson1993	T1_S5	cirrhosis	1.0	NA	weight	NA	59.0	kg	NA
+Andersson1993	T1_S5	cirrhosis	1.0	NA	disease	liver disease (moderate)	NA	NA	B
+Andersson1993	T1_S5	cirrhosis	1.0	NA	smoking	Y	NA	NA	NA
+Andersson1993	T1_S5	cirrhosis	1.0	creatinine	concentration	NA	69.0	µmol/l	NA
+Andersson1993	T1_S5	cirrhosis	1.0	bilirubin	concentration	NA	34.0	µmol/l	NA
+Andersson1993	T1_S6	cirrhosis	1.0	NA	species	homo sapiens	NA	NA	NA
+Andersson1993	T1_S6	cirrhosis	1.0	NA	sex	M	NA	NA	NA
+Andersson1993	T1_S6	cirrhosis	1.0	NA	age	NA	50.0	yr	NA
+Andersson1993	T1_S6	cirrhosis	1.0	NA	weight	NA	119.0	kg	NA
+Andersson1993	T1_S6	cirrhosis	1.0	NA	disease	liver disease (moderate)	NA	NA	B
+Andersson1993	T1_S6	cirrhosis	1.0	NA	smoking	N	NA	NA	NA
+Andersson1993	T1_S6	cirrhosis	1.0	creatinine	concentration	NA	67.0	µmol/l	NA
+Andersson1993	T1_S6	cirrhosis	1.0	bilirubin	concentration	NA	96.0	µmol/l	NA
+Andersson1993	T1_S7	cirrhosis	1.0	NA	species	homo sapiens	NA	NA	NA
+Andersson1993	T1_S7	cirrhosis	1.0	NA	sex	F	NA	NA	NA
+Andersson1993	T1_S7	cirrhosis	1.0	NA	age	NA	62.0	yr	NA
+Andersson1993	T1_S7	cirrhosis	1.0	NA	weight	NA	67.0	kg	NA
+Andersson1993	T1_S7	cirrhosis	1.0	NA	disease	liver disease (mild)	NA	NA	A
+Andersson1993	T1_S7	cirrhosis	1.0	NA	smoking	Y	NA	NA	NA
+Andersson1993	T1_S7	cirrhosis	1.0	creatinine	concentration	NA	91.0	µmol/l	NA
+Andersson1993	T1_S7	cirrhosis	1.0	bilirubin	concentration	NA	14.0	µmol/l	NA
+Andersson1993	T1_S8	cirrhosis	1.0	NA	species	homo sapiens	NA	NA	NA
+Andersson1993	T1_S8	cirrhosis	1.0	NA	sex	F	NA	NA	NA
+Andersson1993	T1_S8	cirrhosis	1.0	NA	age	NA	76.0	yr	NA
+Andersson1993	T1_S8	cirrhosis	1.0	NA	weight	NA	72.0	kg	NA
+Andersson1993	T1_S8	cirrhosis	1.0	NA	disease	liver disease (mild)	NA	NA	A
+Andersson1993	T1_S8	cirrhosis	1.0	NA	smoking	N	NA	NA	NA
+Andersson1993	T1_S8	cirrhosis	1.0	creatinine	concentration	NA	84.0	µmol/l	NA
+Andersson1993	T1_S8	cirrhosis	1.0	bilirubin	concentration	NA	5.0	µmol/l	NA
+Andersson1993	T2_S1	all	1.0	NA	species	homo sapiens	NA	NA	Tab2
+Andersson1993	T2_S2	all	1.0	NA	species	homo sapiens	NA	NA	Tab2
+Andersson1993	T2_S3	all	1.0	NA	species	homo sapiens	NA	NA	Tab2
+Andersson1993	T2_S4	all	1.0	NA	species	homo sapiens	NA	NA	Tab2
+Andersson1993	T2_S5	all	1.0	NA	species	homo sapiens	NA	NA	Tab2
+Andersson1993	T2_S6	all	1.0	NA	species	homo sapiens	NA	NA	Tab2
+Andersson1993	T2_S7	all	1.0	NA	species	homo sapiens	NA	NA	Tab2
+Andersson1993	T2_S8	all	1.0	NA	species	homo sapiens	NA	NA	Tab2
+Andersson1993	T3_S1	all	1.0	NA	species	homo sapiens	NA	NA	Tab3
+Andersson1993	T3_S2	all	1.0	NA	species	homo sapiens	NA	NA	Tab3
+Andersson1993	T3_S3	all	1.0	NA	species	homo sapiens	NA	NA	Tab3
+Andersson1993	T3_S4	all	1.0	NA	species	homo sapiens	NA	NA	Tab3
+Andersson1993	T3_S5	all	1.0	NA	species	homo sapiens	NA	NA	Tab3
+Andersson1993	T3_S6	all	1.0	NA	species	homo sapiens	NA	NA	Tab3
+Andersson1993	T3_S7	all	1.0	NA	species	homo sapiens	NA	NA	Tab3
+Andersson1993	T3_S8	all	1.0	NA	species	homo sapiens	NA	NA	Tab3

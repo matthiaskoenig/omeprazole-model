@@ -1,0 +1,13 @@
+study	group	measurement_type	interventions	substance	tissue	method	time	time_unit	mean	median	sd	se	min	max	unit
+VazdaSilva2005	fasting	cmax	OMP20	omeprazole	plasma	HPLC	NA	NA	797.0	NA	471.0	NA	NA	NA	µg/l
+VazdaSilva2005	fasting	tmax	OMP20	omeprazole	plasma	HPLC	NA	NA	NA	1.5	NA	NA	1.0	3.0	hr
+VazdaSilva2005	fasting	auc_end	OMP20	omeprazole	plasma	HPLC	12.0	hr	1932.0	NA	1611.0	NA	NA	NA	µg/l*hr
+VazdaSilva2005	fasting	cmax	MOP20	omeprazole	plasma	HPLC	NA	NA	747.0	NA	313.0	NA	NA	NA	µg/l
+VazdaSilva2005	fasting	tmax	MOP20	omeprazole	plasma	HPLC	NA	NA	NA	1.0	NA	NA	0.7	2.5	hr
+VazdaSilva2005	fasting	auc_end	MOP20	omeprazole	plasma	HPLC	12.0	hr	1765.0	NA	1327.0	NA	NA	NA	µg/l*hr
+VazdaSilva2005	fed	cmax	OMP20	omeprazole	plasma	HPLC	NA	NA	331.0	NA	227.0	NA	NA	NA	µg/l
+VazdaSilva2005	fed	tmax	OMP20	omeprazole	plasma	HPLC	NA	NA	NA	3.0	NA	NA	1.0	10.0	hr
+VazdaSilva2005	fed	auc_end	OMP20	omeprazole	plasma	HPLC	12.0	hr	1250.0	NA	966.0	NA	NA	NA	µg/l*hr
+VazdaSilva2005	fed	cmax	MOP20	omeprazole	plasma	HPLC	NA	NA	275.0	NA	162.0	NA	NA	NA	µg/l
+VazdaSilva2005	fed	tmax	MOP20	omeprazole	plasma	HPLC	NA	NA	NA	4.0	NA	NA	1.5	12.0	hr
+VazdaSilva2005	fed	auc_end	MOP20	omeprazole	plasma	HPLC	12.0	hr	1087.0	NA	861.0	NA	NA	NA	µg/l*hr

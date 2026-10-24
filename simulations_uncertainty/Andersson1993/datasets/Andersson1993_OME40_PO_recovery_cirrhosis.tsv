@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	0.0	hr	0.0			 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	1.0	hr	3.3553653			 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	2.0	hr	10.055542	10.61	3.75	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	4.0	hr	22.297129	7.623	2.695	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	6.0	hr	30.242483	10.9	3.855	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	9.0	hr	43.000126	9.051	3.2	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	12.0	hr	49.425453	11.12	3.93	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	24.0	hr	65.811775	7.0	2.475	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	48.0	hr	73.76285	7.099	2.51	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	72.0	hr	75.52804	5.869	2.075	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	96.0	hr	76.27475	7.099	2.51	 po and iv data almost identical, indistinguishable from each other	percent	dimensionless

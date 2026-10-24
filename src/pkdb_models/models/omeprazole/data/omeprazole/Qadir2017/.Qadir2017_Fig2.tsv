@@ -1,0 +1,7 @@
+study	group	count	intervention	x_measurement_type	x_substance	tissue	x_label	x_time	x_time_units	x_mean	x_units	y_measurement_type	y_substance	y_label	y_time	y_time_units	y_mean	y_units	comments
+Qadir2017	all	8	OME20	concentration	omeprazole	plasma	ome20_conc_plasma	24	hr	0.05674892	µg/ml	relative-peak-area	omeprazole	ome20_peak_plasma	24	hr	7.8459105	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	plasma	ome20_conc_plasma	24	hr	0.10729465	µg/ml	relative-peak-area	omeprazole	ome20_peak_plasma	24	hr	45.40311	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	plasma	ome20_conc_plasma	24	hr	0.756756	µg/ml	relative-peak-area	omeprazole	ome20_peak_plasma	24	hr	135.63524	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	plasma	ome20_conc_plasma	24	hr	1.2521042	µg/ml	relative-peak-area	omeprazole	ome20_peak_plasma	24	hr	315.18015	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	plasma	ome20_conc_plasma	24	hr	1.9993799	µg/ml	relative-peak-area	omeprazole	ome20_peak_plasma	24	hr	442.90707	dimensionless	NA
+Qadir2017	all	8	OME20	concentration	omeprazole	plasma	ome20_conc_plasma	24	hr	2.5039766	µg/ml	relative-peak-area	omeprazole	ome20_peak_plasma	24	hr	561.05334	dimensionless	NA

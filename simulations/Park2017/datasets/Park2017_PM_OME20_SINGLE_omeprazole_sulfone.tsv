@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	0.0	hr	3.320236843561507e-07					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	0.5	hr	9.241325881246194e-06					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	1.0	hr	0.00015358862265508268	126.98	0.00019777544131481376	6.991865419733273e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	2.0	hr	0.00046898345415306283					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	3.0	hr	0.0004646118089757068	296.83	0.00035670411155995784	0.00012611366277461122		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	4.0	hr	0.0007313928393558738	410.94	0.0004055945990814011	0.00014340656300149406		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	6.0	hr	0.0006506004094958773	301.4	0.0001833324110453212	6.482762437053842e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	8.0	hr	0.0006716839134524927	387.51	0.0004005312378949697	0.00014160810137789825		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	10.0	hr	0.0005812351281058048	367.01	0.0004342316418571191	0.00015353328537435668		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	12.0	hr	0.0006506004094958773	344.89	0.0003036633279840628	0.0001073543246084887		mole/meter^3	dimensionless

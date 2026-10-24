@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	0.15486269	hr	1448.2014			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	0.2130244	hr	2362.4617			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	0.2547054	hr	1876.6677			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	0.45705327	hr	2565.7773			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	0.95886266	hr	2833.762			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	1.3498467	hr	2082.8433	315.12	771.883207745835	total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	1.9560783	hr	2093.0942	171.73	420.650873528155	total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	3.870236	hr	1425.6844	218.86	536.095325105526	total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	5.9779954	hr	963.379	153.23	375.335313286666	total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	8.033624	hr	678.2637	136.3	333.865451941347	total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	11.988912	hr	367.9581	52.73	129.161594136957	total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	MRI	6.0	OME20_IV	concentration	omeprazole metabolites	plasma	OME20_IV_MRI_omeprazole metabolites	24.020622	hr	183.54451	49.83	122.058073882886	total pool of radioactive metabolites	nmol/l	dimensionless

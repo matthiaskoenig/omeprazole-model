@@ -1,0 +1,18 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	0.0	hr	0.0		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	0.45629817	hr	0.049173888		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	0.7694728	hr	0.9576516		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	0.98211396	hr	3.0398679		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	1.4950888	hr	3.6899471		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	1.9585934	hr	3.6133611		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	2.4865189	hr	3.1245866		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	2.9931474	hr	2.4820879		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	3.4996827	hr	1.9933006		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	3.9847682	hr	1.6023173		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	4.491206	hr	1.2742285		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	4.997652	hr	0.93216586		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	5.967565	hr	0.5763993		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	6.965909	hr	0.36737397		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	7.9856014	hr	0.22822994		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	9.982086	hr	0.14554973		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI	concentration	S-omeprazole	plasma	PO40_SECOND	11.964307	hr	0.06984809		µM	dimensionless

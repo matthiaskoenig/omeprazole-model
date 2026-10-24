@@ -1,0 +1,10 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	se	min	max	cilow	ciup	unit	comments
+Uno2007	EM	14.0	OME20IV	cmax	omeprazole sulfone	plasma	NA	NA	37.0	29.589637497447	NA	NA	NA	21.0	52.0	ng/ml	NA
+Uno2007	EM	14.0	OME20IV	auc_inf	omeprazole sulfone	plasma	NA	NA	143.0	143.175665310227	NA	NA	NA	68.0	218.0	ng*hr/ml	NA
+Uno2007	EM	14.0	OME40PO	cmax	omeprazole sulfone	plasma	NA	NA	137.0	41.0436907222652	NA	NA	NA	115.0	158.0	ng/ml	NA
+Uno2007	IM	14.0	OME20IV	cmax	omeprazole sulfone	plasma	NA	NA	159.0	0.0	NA	NA	NA	94.0	224.0	ng/ml	NA
+Uno2007	IM	14.0	OME20IV	auc_inf	omeprazole sulfone	plasma	NA	NA	612.0	260.579710864614	NA	NA	NA	475.0	748.0	ng*hr/ml	NA
+Uno2007	IM	14.0	OME40PO	cmax	omeprazole sulfone	plasma	NA	NA	303.0	188.037373774099	NA	NA	NA	204.0	401.0	ng/ml	NA
+Uno2007	PM	6.0	OME20IV	cmax	omeprazole sulfone	plasma	NA	NA	939.0	733.597183170268	NA	NA	NA	352.0	1526.0	ng/ml	NA
+Uno2007	PM	6.0	OME20IV	auc_inf	omeprazole sulfone	plasma	NA	NA	5390.0	2650.07295896517	NA	NA	NA	3269.0	7510.0	ng*hr/ml	NA
+Uno2007	PM	6.0	OME40PO	cmax	omeprazole sulfone	plasma	NA	NA	1136.0	729.847964176212	NA	NA	NA	552.0	1720.0	ng/ml	NA

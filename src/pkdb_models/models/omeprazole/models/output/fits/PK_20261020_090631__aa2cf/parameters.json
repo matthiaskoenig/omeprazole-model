@@ -1,0 +1,43 @@
+{
+  "sets": [
+    {
+      "sid": "PK_20261020_090631__aa2cf_0",
+      "values": {
+        "LI__CYP2C19_Vmax_some": 0.042980944486529345,
+        "LI__CYP2C19_Vmax_rome": 0.08792502675350461,
+        "LI__CYP3A4_Vmax_some": 0.0034704095537122647,
+        "LI__CYP3A4_Vmax_rome": 0.008124092015056952,
+        "LI__CYP2C19_kinact": 0.018505680440084903,
+        "Kp_ome": 0.16601834524131948,
+        "GU__Ka_ec_ome": 1.454742295131946,
+        "GU__OMEABS_k": 0.09092833490178122,
+        "LI__f_rome_cyp3a4_omeoh": 0.4643853193577922,
+        "LI__OMEOHEX_k": 0.27448525772602117,
+        "KI__OMEOHEX_f": 1.8391525934478548,
+        "LI__OMESUL2C19_k": 0.056247002485702434,
+        "LI__OMESULM_k": 0.06297355938079521,
+        "KI__OMEOTHEX_f": 0.2566930394661683,
+        "LI__OMEOTHBIL_k": 0.004921381598564706
+      },
+      "units": {
+        "LI__CYP2C19_Vmax_some": "(mmol)/(min)/l",
+        "LI__CYP2C19_Vmax_rome": "(mmol)/(min)/l",
+        "LI__CYP3A4_Vmax_some": "(mmol)/(min)/l",
+        "LI__CYP3A4_Vmax_rome": "(mmol)/(min)/l",
+        "LI__CYP2C19_kinact": "1/(min)",
+        "Kp_ome": "dimensionless",
+        "GU__Ka_ec_ome": "1/(hr)",
+        "GU__OMEABS_k": "1/(min)",
+        "LI__f_rome_cyp3a4_omeoh": "dimensionless",
+        "LI__OMEOHEX_k": "1/(min)",
+        "KI__OMEOHEX_f": "dimensionless",
+        "LI__OMESUL2C19_k": "1/(min)",
+        "LI__OMESULM_k": "1/(min)",
+        "KI__OMEOTHEX_f": "dimensionless",
+        "LI__OMEOTHBIL_k": "1/(min)"
+      },
+      "cost": 265.1413225125592,
+      "provenance": "optimization 'PK_20261020_090631__aa2cf', run '0'"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	mean	min	max	time	time_unit	se	sd	unit
+Andersson1990a	all	10	tmax	OME_IV_40	omeprazole sulfone	plasma	HPLC	0.47	NA	NA	NA	NA	NA	0.24	hr
+Andersson1990a	all	10	cmax	OME_IV_40	omeprazole sulfone	plasma	HPLC	0.232	NA	NA	NA	NA	NA	0.108	micromol/l
+Andersson1990a	all	10	thalf	OME_IV_40	omeprazole sulfone	plasma	HPLC	1.85	NA	NA	NA	NA	NA	0.74	hr
+Andersson1990a	all	10	auc_inf	OME_IV_40	omeprazole sulfone	plasma	HPLC	0.744	NA	NA	NA	NA	NA	0.74	micromol/l*hr
+Andersson1990a	all	10	tmax	OME_PO_10	omeprazole sulfone	plasma	HPLC	0.38	NA	NA	NA	NA	NA	0.16	hr
+Andersson1990a	all	10	cmax	OME_PO_10	omeprazole sulfone	plasma	HPLC	0.122	NA	NA	NA	NA	NA	0.006	micromol/l
+Andersson1990a	all	10	thalf	OME_PO_10	omeprazole sulfone	plasma	HPLC	1.84	NA	NA	NA	NA	NA	0.76	hr
+Andersson1990a	all	10	auc_inf	OME_PO_10	omeprazole sulfone	plasma	HPLC	0.248	NA	NA	NA	NA	NA	0.093	micromol/l*hr
+Andersson1990a	all	10	tmax	OME_PO_40	omeprazole sulfone	plasma	HPLC	0.4	NA	NA	NA	NA	NA	0.09	hr
+Andersson1990a	all	10	cmax	OME_PO_40	omeprazole sulfone	plasma	HPLC	0.541	NA	NA	NA	NA	NA	0.179	micromol/l
+Andersson1990a	all	10	thalf	OME_PO_40	omeprazole sulfone	plasma	HPLC	1.33	NA	NA	NA	NA	NA	0.72	hr
+Andersson1990a	all	10	auc_inf	OME_PO_40	omeprazole sulfone	plasma	HPLC	1.195	NA	NA	NA	NA	NA	1.132	micromol/l*hr
+Andersson1990a	all	10	tmax	OME_PO_90	omeprazole sulfone	plasma	HPLC	0.58	NA	NA	NA	NA	NA	0.38	hr
+Andersson1990a	all	10	cmax	OME_PO_90	omeprazole sulfone	plasma	HPLC	1.797	NA	NA	NA	NA	NA	1.06	micromol/l
+Andersson1990a	all	10	thalf	OME_PO_90	omeprazole sulfone	plasma	HPLC	2.21	NA	NA	NA	NA	NA	1.11	hr
+Andersson1990a	all	10	auc_inf	OME_PO_90	omeprazole sulfone	plasma	HPLC	6.602	NA	NA	NA	NA	NA	6.03	micromol/l*hr
+Andersson1990a	all	5	tmax	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	0.17	NA	NA	NA	NA	NA	0.047	hr
+Andersson1990a	all	5	cmax	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	1.234	NA	NA	NA	NA	NA	0.156	micromol/l
+Andersson1990a	all	5	thalf	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	0.91	NA	NA	NA	NA	NA	0.008	hr
+Andersson1990a	all	5	auc_inf	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	1.239	NA	NA	NA	NA	NA	0.182	micromol/l*hr
+Andersson1990a	all	5	tmax	OME_PO_40	5-hydroxyomeprazole	plasma	HPLC	0.32	NA	NA	NA	NA	NA	0.038	hr
+Andersson1990a	all	5	cmax	OME_PO_40	5-hydroxyomeprazole	plasma	HPLC	1.396	NA	NA	NA	NA	NA	0.433	micromol/l
+Andersson1990a	all	5	thalf	OME_PO_40	5-hydroxyomeprazole	plasma	HPLC	0.99	NA	NA	NA	NA	NA	0.078	hr
+Andersson1990a	all	5	auc_inf	OME_PO_40	5-hydroxyomeprazole	plasma	HPLC	1.406	NA	NA	NA	NA	NA	0.266	micromol/l*hr
+Andersson1990a	all	5	tmax	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	0.25	NA	NA	NA	NA	NA	0.103	hr
+Andersson1990a	all	5	cmax	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	3.13	NA	NA	NA	NA	NA	0.361	micromol/l
+Andersson1990a	all	5	thalf	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	1.03	NA	NA	NA	NA	NA	0.192	hr
+Andersson1990a	all	5	auc_inf	OME_PO_90	5-hydroxyomeprazole	plasma	HPLC	3.111	NA	NA	NA	NA	NA	1.815	micromol/l*hr

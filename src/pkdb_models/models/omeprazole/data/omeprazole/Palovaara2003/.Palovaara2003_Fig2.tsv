@@ -1,0 +1,81 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	sd	se	unit	comments
+Palovaara2003	all	10.0	OME40	concentration	omeprazole	plasma	OME40_omeprazole	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole	plasma	OME40_omeprazole	1.0	hr	1339.7408	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole	plasma	OME40_omeprazole	1.5	hr	2203.388	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole	plasma	OME40_omeprazole	2.0	hr	1574.0072	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole	plasma	OME40_omeprazole	3.0	hr	642.46466	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole	plasma	OME40_omeprazole	4.0	hr	247.80333	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole	plasma	OME40_omeprazole	6.0	hr	61.94679	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole	plasma	OME40_omeprazole	8.0	hr	15.888494	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	1.0	hr	914.08453	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	1.5	hr	1472.7706	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	2.0	hr	1567.6755	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	2.5	hr	1916.6885	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	3.0	hr	1547.8121	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	4.0	hr	717.92694	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	6.0	hr	160.42201	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	8.0	hr	57.162983	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	1.0	hr	1025.2716	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	1.5	hr	1526.7893	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	2.0	hr	1084.84	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	2.5	hr	1036.77	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	3.0	hr	804.4669	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	4.0	hr	409.80557	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	6.0	hr	74.64787	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole	plasma	LNG_OME40_omeprazole	8.0	hr	38.146408	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	1.0	hr	849.9087	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	1.5	hr	1188.6886	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	2.0	hr	997.158	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	2.5	hr	762.0667	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	3.0	hr	555.41327	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	4.0	hr	293.5708	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	6.0	hr	76.71108	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_5-hydroxyomeprazole	8.0	hr	30.322226	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	1.0	hr	408.62625	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	1.5	hr	586.421	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	2.0	hr	622.1572	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	2.5	hr	754.526	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	3.0	hr	686.0826	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	4.0	hr	499.9883	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	6.0	hr	137.32047	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	5-hydroxyomeprazole	plasma	EE_LNG_OME40_5-hydroxyomeprazole	8.0	hr	43.608524	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	1.0	hr	518.475	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	1.5	hr	775.8217	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	2.0	hr	661.9396	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	2.5	hr	754.5165	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	3.0	hr	629.25793	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	4.0	hr	454.54004	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	6.0	hr	101.31322	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	5-hydroxyomeprazole	plasma	LNG_OME40_5-hydroxyomeprazole	8.0	hr	39.804695	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	1.0	hr	262.50296	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	1.5	hr	507.896	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	2.0	hr	557.3266	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	2.5	hr	543.1174	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	3.0	hr	494.57156	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	4.0	hr	373.234	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	6.0	hr	215.40405	NA	NA	nM	NA
+Palovaara2003	all	10.0	OME40	concentration	omeprazole sulfone	plasma	OME40_omeprazole sulfone	8.0	hr	146.46309	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	1.0	hr	182.70833	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	1.5	hr	350.32178	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	2.0	hr	459.34586	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	2.5	hr	629.9879	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	3.0	hr	701.6468	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	4.0	hr	633.8395	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	6.0	hr	462.88165	NA	NA	nM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole sulfone	plasma	EE_LNG_OME40_omeprazole sulfone	8.0	hr	317.17035	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	0.0	hr	0.0	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	1.0	hr	141.29243	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	1.5	hr	330.11887	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	2.0	hr	370.45517	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	2.5	hr	435.0399	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	3.0	hr	471.34006	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	4.0	hr	406.56653	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	6.0	hr	244.6953	NA	NA	nM	NA
+Palovaara2003	all	10.0	LNG60, OME40	concentration	omeprazole sulfone	plasma	LNG_OME40_omeprazole sulfone	8.0	hr	147.46976	NA	NA	nM	NA

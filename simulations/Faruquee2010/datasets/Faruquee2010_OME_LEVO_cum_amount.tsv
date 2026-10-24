@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	0.0	hr	0.0				Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	2.0	hr	1.66109989114575	0.411098501517011	1.25000138962874	0.5103109303933864	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	4.0	hr	3.02557495889015	1.06538203210042	1.96019292678973	0.8002454113412636	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	8.0	hr	8.54279940709174	3.95465178219886	4.58814762489288	1.873103424258352	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	12.0	hr	11.3903988234477	6.97130416657016	4.41909465687751	1.8040878390682349	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	24.0	hr	15.2465236121083	9.03837691363457	6.20814669847373	2.534465276600776	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	36.0	hr	19.1619728095977	10.7522523565787	8.40972045301897	3.4332539982239783	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	48.0	hr	22.4248482988628	11.3428445700257	11.0820037288371	4.524209077211902	Amount calculated from recovery	µmole	dimensionless

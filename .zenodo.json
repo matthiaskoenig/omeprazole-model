@@ -1,29 +1,36 @@
 {
   "upload_type": "software",
-  "title": "Omeprazole physiological based pharmacokinetics model (PBPK)",
+  "title": "Physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) model of omeprazole",
   "creators": [
     {
-      "orcid": "0000-0003-1725-179X",
       "affiliation": "Humboldt-University Berlin, Institute for Theoretical Biology, Berlin",
-      "name": "König, Matthias"
+      "name": "Leal Pujol, Helen"
     },
     {
       "orcid": "0000-0001-8536-2905",
       "affiliation": "Humboldt-University Berlin, Institute for Theoretical Biology, Berlin",
       "name": "Balci, Sükrü"
+    },
+    {
+      "orcid": "0000-0003-1725-179X",
+      "affiliation": "Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver; University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering; University of Southern Denmark, Clinical Pharmacology, Pharmacy and Environmental Medicine, Department of Public Health; University Hospital Schleswig-Holstein, Campus Lübeck, First Department of Medicine, Lübeck, Germany",
+      "name": "König, Matthias"
     }
   ],
-  "description": "<p>This repository provides the omeprazole physiological based pharmacokinetics/pharmacodynamics model (PBPK/PD).</p>\n<p>If you have any questions or problems please <a href=\"https://github.com/matthiaskoenig/omeprazole-model/issues\">open an issue</a></p>\n<h2>Funding</h2><p>Matthias König is supported by the Federal Ministry of Education and Research (BMBF, Germany) within the research network Systems Medicine of the Liver (<strong>LiSyM</strong>, grant number 031L0054) and by the German Research Foundation (DFG) within the Research Unit Programme FOR 5151 <strong><a href=\"https://qualiperf.de\">QuaLiPerF</a></strong> (Quantifying Liver Perfusion-Function Relationship in Complex Resection - A Systems Medicine Approach)\" by grant number 436883643.</p>",
+  "description": "<p>This repository provides the omeprazole physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) model: the absorption of the application forms of omeprazole, the metabolism of S- and R-omeprazole by CYP2C19 and CYP3A4 in the liver with the mechanism-based inactivation of CYP2C19, the renal and biliary excretion of the metabolites, the inhibition of the gastric proton pumps and the effects of the CYP2C19 genotype, of interacting drugs and of impaired renal and hepatic function.</p>\n<p>If you have any questions or problems please <a href=\"https://github.com/matthiaskoenig/omeprazole-model/issues\">open an issue</a></p>\n<h2>Funding</h2><p>Matthias König was supported by the Federal Ministry of Research, Technology and Space (BMFTR, Germany) within ATLAS by grant number 031L0304B and by the German Research Foundation (DFG) within the Research Unit Program FOR 5151 QuaLiPerF (Quantifying Liver Perfusion-Function Relationship in Complex Resection - A Systems Medicine Approach) by grant number 436883643 and by grant number 465194077 (Priority Programme SPP 2311, Subproject SimLivA). This work was supported by the BMBF-funded de.NBI Cloud within the German Network for Bioinformatics Infrastructure (de.NBI) (031A537B, 031A533A, 031A538A, 031A533B, 031A535A, 031A537C, 031A534A, 031A532B).</p>",
   "access_right": "open",
-  "license": "LGPL-3.0",
+  "license": "MIT",
   "keywords": [
-    "SBML",
-    "modeling",
+    "model",
     "omeprazole",
+    "esomeprazole",
+    "proton pump inhibitor",
+    "CYP2C19",
     "pharmacokinetics",
     "pharmacodynamics",
     "PBPK",
-    "proton pump inhibitors"
+    "physiologically based pharmacokinetic model",
+    "SBML"
   ],
   "contributors": [],
   "communities": [],

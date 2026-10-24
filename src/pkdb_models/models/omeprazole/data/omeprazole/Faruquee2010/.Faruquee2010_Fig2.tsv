@@ -1,0 +1,17 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	sd	pm	se	unit	comments
+Faruquee2010	all	6.0	LEVO500	excretion rate	levofloxacin	urine	LEVO_ex_rate	0.0	hr	0.0	NA	NA	NA	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500	excretion rate	levofloxacin	urine	LEVO_ex_rate	1.0	hr	27.983711	17.25	19.423338	7.04228301050164	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500	excretion rate	levofloxacin	urine	LEVO_ex_rate	3.0	hr	30.085144	37.01	11.449669	15.1092692300676	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500	excretion rate	levofloxacin	urine	LEVO_ex_rate	6.0	hr	38.50558	48.01	14.206158	19.6000004251701	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500	excretion rate	levofloxacin	urine	LEVO_ex_rate	10.0	hr	15.511491	17.12	8.070442	6.98921073274134	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500	excretion rate	levofloxacin	urine	LEVO_ex_rate	18.0	hr	7.059288	8.1	3.5032449	3.30681115275729	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500	excretion rate	levofloxacin	urine	LEVO_ex_rate	30.0	hr	1.755814	4.21	0.57034355	1.71872530285286	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500	excretion rate	levofloxacin	urine	LEVO_ex_rate	42.0	hr	0.79881924	1.25	0.05768882	0.510310363079829	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	levofloxacin	urine	LEVO_OME_ex_rate	0.0	hr	0.0	NA	NA	NA	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	levofloxacin	urine	LEVO_OME_ex_rate	1.0	hr	30.55206	19.89	20.740068	8.12005849732624	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	levofloxacin	urine	LEVO_OME_ex_rate	3.0	hr	38.11922	26.54	24.553782	10.8349096289109	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	levofloxacin	urine	LEVO_OME_ex_rate	6.0	hr	21.120985	15.87	12.803858	6.47890036966151	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	levofloxacin	urine	LEVO_OME_ex_rate	10.0	hr	17.81636	15.41	10.17761	6.29110615604813	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	levofloxacin	urine	LEVO_OME_ex_rate	18.0	hr	8.573721	7.51	5.413006	3.06594466138361	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	levofloxacin	urine	LEVO_OME_ex_rate	30.0	hr	3.6655014	2.5	2.0192192	1.02062072615966	mg/hr	no units in figure
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	levofloxacin	urine	LEVO_OME_ex_rate	42.0	hr	1.0625186	1.12	0.53519344	0.457238085319527	mg/hr	no units in figure

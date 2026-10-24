@@ -1,0 +1,14 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	pm	mean_sd	mean_unit	count_unit
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.12986325	hr	88.51639				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.17225976	hr	101.77568				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.296903	hr	138.94746				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.37838584	hr	159.7499				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.38067755	hr	175.96631				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.53905976	hr	191.70413				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	0.77561456	hr	208.82027				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	1.0510011	hr	225.01837				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	1.5	hr	232.242				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	2.0	hr	229.55153	38.35654000000002	38.35654000000002	108.4886781474123	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	4.020031	hr	209.85312	51.13959	51.13959	144.64460350439902	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	5.9771466	hr	235.35074	72.01148	72.01148	203.67922332511785	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME20_IV	omeprazole sulfone	plasma	HPLC	OME20_IV_omeprazole sulfone	7.965709	hr	191.21507	66.79968	66.79968	188.9380268363656	nmol/l	dimensionless

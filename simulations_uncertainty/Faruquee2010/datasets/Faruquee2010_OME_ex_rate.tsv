@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Faruquee2010	all	6.0	OME20	excretion rate	omeprazole metabolites	urine	OME_ex_rate	0.0	hr	0.0				no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	OME20	excretion rate	omeprazole metabolites	urine	OME_ex_rate	1.0	hr	4.4678007420360116e-10	0.018384295	4.31995731234222e-10	1.7636151876405713e-10	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	OME20	excretion rate	omeprazole metabolites	urine	OME_ex_rate	3.0	hr	3.483215649149624e-10	0.13747063	2.3776998041652836e-10	9.706918802867412e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	OME20	excretion rate	omeprazole metabolites	urine	OME_ex_rate	6.0	hr	1.5926829291829754e-10	0.0041859564	1.5590201669870535e-10	6.364673179711508e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	OME20	excretion rate	omeprazole metabolites	urine	OME_ex_rate	10.0	hr	1.783499541937194e-10	0.025747888	1.576439327265288e-10	6.435786603760561e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	OME20	excretion rate	omeprazole metabolites	urine	OME_ex_rate	18.0	hr	9.284140958535023e-11	0.05371577	4.964408455633529e-11	2.026711265176732e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	OME20	excretion rate	omeprazole metabolites	urine	OME_ex_rate	30.0	hr	1.2657784783822662e-10	0.025268417	1.062574089407169e-10	4.3379405549167285e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	OME20	excretion rate	omeprazole metabolites	urine	OME_ex_rate	42.0	hr	9.49908548275445e-11	0.028231006	7.22879513398337e-11	2.951143255562206e-11	no units in figure	mole/second	dimensionless

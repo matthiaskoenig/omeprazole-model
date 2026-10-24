@@ -1,0 +1,17 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit	comment
+Andersson1993	all	NA	26.0	species	NA	homo sapiens	26.0	NA	NA	NA	NA	NA	NA	Demographics listed in TabIndividuals
+Andersson1993	all	NA	26.0	sex	NA	MF	26.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	all	NA	26.0	healthy	NA	Y	18.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	all	NA	26.0	healthy	NA	N	8.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	species	NA	homo sapiens	8.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	age	NA	NA	8.0	NA	63.0	40.0	80.0	NA	yr	NA
+Andersson1993	cirrhosis	all	8.0	sex	NA	M	4.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	sex	NA	F	4.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	weight	NA	NA	8.0	NA	70.0	56.0	119.0	NA	kg	NA
+Andersson1993	cirrhosis	all	8.0	healthy	NA	N	8.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	disease	NA	liver disease	8.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	smoking	NA	Y	5.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	abstinence medication	NA	NA	8.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	alcohol	NA	N	8.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	cirrhosis	all	8.0	fasting	NA	Y	8.0	NA	NA	NA	NA	NA	NA	NA
+Andersson1993	young_healthy	all	18.0	species	NA	homo sapiens	18.0	NA	NA	NA	NA	NA	NA	Demographics from Regaardh1990

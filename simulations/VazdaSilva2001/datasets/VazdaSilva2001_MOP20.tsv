@@ -1,0 +1,14 @@
+study	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	0.0	hr	0.0					mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	0.333333333333333	hr	3.155378442226185e-05					mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	0.666666666666667	hr	0.0006373864557519048	138.22115	0.00023722795122403128	0.0011621748664494664		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	1.0	hr	0.0011990439064779859	322.21582	0.00026620981656900664	0.0013041564302279452		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	1.5	hr	0.0015019602450378673	427.78833	0.0002634874180698059	0.0012908194558288238		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	2.0	hr	0.0012684621731477404	362.3948	0.0002193075306297334	0.0010743830935852797		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	2.5	hr	0.0010160318861894063	288.294	0.00018140349607429878	0.0008886920058780078		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	3.0	hr	0.0006973386583134538	195.68141	0.0001308292609491164	0.0006409298655015286		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	4.0	hr	0.0004512191097111888	122.61315	9.624669963174838e-05	0.00047151060704940127		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	5.0	hr	0.0002555856706116682	63.70236	7.116352456168792e-05	0.0003486286469483057		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	6.0	hr	0.00014830280010190607	36.37051	4.300799615536049e-05	0.0002106952908804276		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	8.0	hr	3.786454593881001e-05	6.7494364	1.8324523473145425e-05	8.977146457771845e-05		mole/meter^3	dimensionless
+VazdaSilva2001	all	24.0	MOP20	concentration	omeprazole	plasma	HPLC	MOP20	10.0	hr	3.155378442226185e-05					mole/meter^3	dimensionless

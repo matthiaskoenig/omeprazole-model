@@ -1,0 +1,16 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	mean_unit	count_unit
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	1.5	hr	4.864858605275957e-05	11.243	1.6099427936169722e-05	4.553350163281377e-05	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	2.0	hr	0.0001625055006137527	38.083	5.2252935590708016e-05	0.0001477957014151053	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	2.5	hr	0.0002604511661301156	58.546	9.09569909905737e-05	0.00025726660027329366	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	3.0	hr	0.00023980070407856035	53.164	8.588774115848718e-05	0.00024292447367811569	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	3.5	hr	0.0002466938416286449	61.954	6.733330245269473e-05	0.00019044572341756028	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	4.0	hr	0.0003442052481645321	93.946	7.222884869259098e-05	0.00020429279477499597	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	4.5	hr	0.0003396657942886259	96.642	5.988431340760127e-05	0.00016937547768487853	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	5.0	hr	0.00039582127058387576	105.071	9.163443500011581e-05	0.0002591831299071265	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	5.5	hr	0.0004244649929360539	87.802	0.00017027294624452836	0.00048160768464691853	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	6.0	hr	0.0003355895499918939	77.552	0.00011107186696620887	0.00031415742177548235	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	6.5	hr	0.00030896947448873246	67.559	0.00011337922968246983	0.00032068578178196726	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	7.0	hr	0.00041933205178683097	80.938	0.000185014591101744	0.0005232994418324572	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	8.0	hr	0.0003317101697663108	65.824	0.00014114574889408712	0.0003992171758111958	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	10.0	hr	7.043101651342151e-05	13.221	3.2152534914422035e-05	9.094541075109434e-05	mole/meter^3	dimensionless
+Prichard1985	pm	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_single_pm	12.0	hr	8.83282766287607e-06	5.851	8.106167635546703e-06	2.2931769228987658e-05	mole/meter^3	dimensionless

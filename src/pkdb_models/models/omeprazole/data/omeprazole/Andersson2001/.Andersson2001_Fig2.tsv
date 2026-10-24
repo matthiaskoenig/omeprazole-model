@@ -1,0 +1,39 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	unit	comments
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	0.0	hr	0.316196	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	0.2	hr	1.9436895	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	0.5	hr	9.986899	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	0.8	hr	18.798042	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	1.0	hr	23.904375	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	1.5	hr	27.746643	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	2.0	hr	26.122087	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	2.5	hr	23.458277	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	3.0	hr	18.806553	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	3.5	hr	14.425741	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	4.0	hr	10.858386	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	4.5	hr	8.556088	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	5.0	hr	6.4345813	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	6.0	hr	3.4565225	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	7.0	hr	1.8337454	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	8.0	hr	1.1145464	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	9.0	hr	0.48584545	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	10.0	hr	0.21852109	µmol/l	NA
+Andersson2001	all	17.0	AMO	concentration	amoxicillin	plasma	AMO	12.0	hr	0.22580057	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	0.0	hr	1.2198426	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	0.2	hr	2.7569747	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	0.5	hr	10.574213	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	0.8	hr	16.629442	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	1.0	hr	22.50388	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	1.5	hr	26.25575	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	2.0	hr	26.121984	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	2.5	hr	24.904125	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	3.0	hr	21.246443	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	3.5	hr	16.278215	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	4.0	hr	11.445973	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	4.5	hr	7.968706	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	5.0	hr	5.711623	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	6.0	hr	2.552876	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	7.0	hr	1.2011483	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	8.0	hr	0.6175596	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	9.0	hr	0.49722606	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	10.0	hr	0.21469338	µmol/l	NA
+Andersson2001	all	17.0	AMO, CLA	concentration	amoxicillin	plasma	CLA_AMO	12.0	hr	0.08291088	µmol/l	NA

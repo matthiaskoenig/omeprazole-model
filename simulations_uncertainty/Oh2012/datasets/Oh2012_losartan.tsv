@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	0.0	hr		0.0					ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	0.25	hr		0.203113	0.45848277	0.25536977	0.0708268307644958		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	0.5	hr		1.5209448	2.690739	1.1697942	0.324442536141567		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	0.75	hr		2.0993965	3.1885414	1.0891449	0.302074444873854		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	1.0	hr		2.3013775	3.45768	1.1563025	0.320700611822861		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	1.5	hr		2.194392	3.18935	0.994958	0.275951698917931		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	2.0	hr		2.0067112	2.6924486	0.6857374	0.190189335169489		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	3.0	hr		1.5775679	1.9271246	0.3495567	0.0969495850409218		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	4.0	hr		1.5383638	1.9417251	0.4033613	0.111872296129832		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	5.0	hr		1.9831933	2.359664	0.3764707	0.104414185581525		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	6.0	hr		1.4868693	1.7692454	0.2823761	0.0783170390396575		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	8.0	hr		0.8705767	1.0857028	0.2151261	0.0596652449415841		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	10.0	hr		0.46947935	0.6173554	0.14787605	0.0410134369760059		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	losartan	plasma	LC MS/MS	losartan	12.0	hr		0.3103988	0.39104795	0.0806491500000001	0.022368049665199		ng/ml	ng/ml	dimensionless

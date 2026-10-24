@@ -1,0 +1,12 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	se	unit
+VazdaSilva2001	all	NA	24	healthy	NA	Y	24	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2001	all	NA	24	species	NA	homo sapiens	24	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2001	all	NA	24	sex	NA	M	15	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2001	all	NA	24	sex	NA	F	9	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2001	all	NA	24	medication	NA	N	24	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2001	all	NA	24	abstinence medication	NA	NA	24	NA	NA	7.0	NA	NA	NA	day
+VazdaSilva2001	all	NA	24	age	NA	NA	24	25.6	NA	18.0	43.0	7.6	NA	yr
+VazdaSilva2001	all	NA	24	weight	NA	NA	24	67.2	NA	52.0	85.0	10.7	NA	kg
+VazdaSilva2001	all	NA	24	height	NA	NA	24	170.3	NA	147.0	182.0	9.7	NA	cm
+VazdaSilva2001	all	NA	24	ethnicity	NA	caucasian	24	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2001	all	NA	24	fasting	NA	Y	24	NA	NA	NA	NA	NA	NA	NA

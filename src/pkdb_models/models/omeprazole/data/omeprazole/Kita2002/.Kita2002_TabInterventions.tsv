@@ -1,0 +1,4 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Kita2002	OME20	0	hr	oral	single dose	dosing	tablet	omeprazole	20	mg	NA
+Kita2002	OME40	0	hr	oral	single dose	dosing	tablet	omeprazole	40	mg	NA
+Kita2002	OME80	0	hr	oral	single dose	dosing	tablet	omeprazole	80	mg	NA

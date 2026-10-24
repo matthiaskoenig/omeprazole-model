@@ -1,0 +1,6 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	unit	comments
+Iftikhar2024	GroupA	6	OME40	cmax	omeprazole	plasma	NA	NA	1.953	0.581	µg/ml	NA
+Iftikhar2024	GroupA	6	OME40	tmax	omeprazole	plasma	NA	NA	2.0	0.0	hr	NA
+Iftikhar2024	GroupA	6	OME40	auc_end	omeprazole	plasma	3.5	hr	5.84	1.56	µg*hr/ml	NA
+Iftikhar2024	GroupA	6	OME40	auc_inf	omeprazole	plasma	NA	NA	6.0	1.54	µg*hr/ml	NA
+Iftikhar2024	GroupA	6	OME40	aumc_inf	omeprazole	plasma	NA	NA	19.6	4.91	µg*hr^2/ml	UNIT?

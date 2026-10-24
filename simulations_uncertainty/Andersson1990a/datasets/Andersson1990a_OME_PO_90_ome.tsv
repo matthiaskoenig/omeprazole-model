@@ -1,0 +1,12 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	mean_sd	comment	mean_unit	count_unit
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	6.983825	min	3.541			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	11.402715	min	6.358			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	16.79133	min	6.903			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	21.738956	min	7.022			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	25.800104	min	6.479			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	30.77473	min	5.424			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	45.682858	min	3.566			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	60.125248	min	2.626			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	90.34874	min	1.545			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	120.090744	min	1.141			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_PO_90	omeprazole 	plasma	HPLC	OME_PO_90_ome	180.0	min	0.457			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless

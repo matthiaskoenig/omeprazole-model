@@ -1,0 +1,13 @@
+study	group	measurement_type	interventions	count	substance	tissue	method	label	time	time_unit	median	comments	median_unit	count_unit
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	4.007567	min	413.50183		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	7.3469915	min	814.2187		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	10.39362	min	1143.0557		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	14.350883	min	1058.5887		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	19.503838	min	931.0149		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	24.464603	min	416.26215		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	29.640776	min	338.61057		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	39.993122	min	224.06172		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	49.5277	min	164.48189		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	59.420856	min	135.75874		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	89.497604	min	75.35692		nmol/l	dimensionless
+Regaardh1990	all	concentration	OME_po20	8	omeprazole	plasma	HPLC	Fig2_po	119.859406	min	60.216343		nmol/l	dimensionless

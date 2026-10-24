@@ -1,0 +1,12 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	0.08748429	hr	2819.0203	2997.5347	178.5144	504.914971117791		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	0.18618551	hr	5836.6675					nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	0.25701907	hr	6729.144	7577.363	848.219	2399.12562732509		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	0.3358481	hr	5564.393	6517.989	953.596	2697.17679244947		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	0.4237593	hr	5140.176	5926.5986	786.4226	2224.33901335342		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	0.50268537	hr	4421.9927	5017.8345	595.8418	1685.2951091776		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	0.6783526	hr	3541.9878	4282.2256	740.2378	2093.70867228245		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	1.0213617	hr	2769.6382	3402.841	633.2028	1790.96797498524		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	1.5141691	hr	2182.2615	2704.0442	521.7827	1475.8243419033		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	2.0158067	hr	1733.083	2200.457	467.374	1321.93329900113		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_elderly	4.0	hr	700.4307	957.34204	256.91134	726.655002710891		nmol/l	dimensionless

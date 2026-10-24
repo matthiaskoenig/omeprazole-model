@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.0979054033333333	hr	4061.0195				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.1830789333333333	hr	2582.235	334.56	1158.94983636049		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.3334724533333333	hr	1764.6998				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.5010789333333333	hr	1274.5564				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.6628111833333333	hr	995.4985				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	0.9939714333333334	hr	602.66644	103.5	358.534517166758		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	1.5039772333333332	hr	323.18793	58.26	201.818560097926		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole	plasma	OME20_IV_omeprazole	2.0022235333333334	hr	204.27968	46.2	160.041494619364		nmol/l	dimensionless

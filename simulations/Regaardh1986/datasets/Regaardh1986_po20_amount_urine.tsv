@@ -1,0 +1,5 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	urine	NR	po20_amount_urine	24.0	hr	4.0568780832387614e-05			calculated from recovery	mole	dimensionless
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	urine	NR	po20_amount_urine	48.0	hr	4.328246520138037e-05			calculated from recovery	mole	dimensionless
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	urine	NR	po20_amount_urine	72.0	hr	4.35654781480881e-05			calculated from recovery	mole	dimensionless
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	urine	NR	po20_amount_urine	96.0	hr	4.403510839104153e-05			calculated from recovery	mole	dimensionless

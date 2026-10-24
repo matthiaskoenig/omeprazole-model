@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	se	unit	comments
+Andersson1993	cirrhosis	8.0	OME40	tmax	omeprazole	plasma	NA	NA	0.27	0.03	hr	mean
+Andersson1993	cirrhosis	8.0	OME40	cmax	omeprazole	plasma	NA	NA	8.42	0.89	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	thalf	omeprazole	plasma	NA	NA	2.96	0.2	hr	NA
+Andersson1993	cirrhosis	8.0	OME40	auc_end	omeprazole	plasma	24.0	hr	29.2	2.2	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	cirrhosis	8.0	OME40	bioavailability	omeprazole	plasma	NA	NA	0.98	0.05	dimensionless	NA
+Andersson1993	young_healthy	18.0	OME40	tmax	omeprazole	plasma	NA	NA	0.25	0.02	hr	NA
+Andersson1993	young_healthy	18.0	OME40	cmax	omeprazole	plasma	NA	NA	3.28	0.51	µmol/l	NA
+Andersson1993	young_healthy	18.0	OME40	thalf	omeprazole	plasma	NA	NA	0.72	0.17	hr	NA
+Andersson1993	young_healthy	18.0	OME40	auc_end	omeprazole	plasma	24.0	hr	4.0	1.7	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	young_healthy	18.0	OME40	bioavailability	omeprazole	plasma	NA	NA	0.56	0.07	dimensionless	NA

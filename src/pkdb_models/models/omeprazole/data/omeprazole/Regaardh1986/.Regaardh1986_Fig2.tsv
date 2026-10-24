@@ -1,0 +1,25 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	se	sd	unit	comments
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	urine	NR	po20_recovery_urine	24.0	hr	70.06553	NA	NA	percent	C14 radioactively labeled omeprazole
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	urine	NR	po20_recovery_urine	48.0	hr	74.75228	NA	NA	percent	respective metabolites displayed are omeprazole with metabolites 
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	urine	NR	po20_recovery_urine	72.0	hr	75.241066	NA	NA	percent	NA
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	urine	NR	po20_recovery_urine	96.0	hr	76.052155	NA	NA	percent	NA
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	feces_urine	NR	po20_recovery_feces_urine	24.0	hr	75.97175	NA	NA	percent	NA
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	feces_urine	NR	po20_recovery_feces_urine	48.0	hr	86.772514	NA	NA	percent	NA
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	feces_urine	NR	po20_recovery_feces_urine	72.0	hr	90.80687	NA	NA	percent	NA
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	feces_urine	NR	po20_recovery_feces_urine	96.0	hr	93.549545	NA	NA	percent	NA
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	feces	NR	po20_recovery_feces	24.0	hr	5.90622000000001	NA	NA	percent	calculated from faeces + urine
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	feces	NR	po20_recovery_feces	48.0	hr	12.020234	NA	NA	percent	calculated from faeces + urine
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	feces	NR	po20_recovery_feces	72.0	hr	15.565804	NA	NA	percent	calculated from faeces + urine
+Regaardh1986	young5	5.0	recovery	OME_po20	omeprazole metabolites	feces	NR	po20_recovery_feces	96.0	hr	17.49739	NA	NA	percent	calculated from faeces + urine
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	urine	NR	po20_amount_urine	24.0	hr	14.013106	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	urine	NR	po20_amount_urine	48.0	hr	14.950456	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	urine	NR	po20_amount_urine	72.0	hr	15.0482132	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	urine	NR	po20_amount_urine	96.0	hr	15.210431	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	feces_urine	NR	po20_amount_feces_urine	24.0	hr	15.19435	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	feces_urine	NR	po20_amount_feces_urine	48.0	hr	17.3545028	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	feces_urine	NR	po20_amount_feces_urine	72.0	hr	18.161374	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	feces_urine	NR	po20_amount_feces_urine	96.0	hr	18.709909	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	feces	NR	po20_amount_feces	24.0	hr	1.181244	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	feces	NR	po20_amount_feces	48.0	hr	2.4040468	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	feces	NR	po20_amount_feces	72.0	hr	3.1131608	NA	NA	mg	calculated from recovery
+Regaardh1986	young5	5.0	cumulative amount	OME_po20	omeprazole metabolites	feces	NR	po20_amount_feces	96.0	hr	3.499478	NA	NA	mg	calculated from recovery

@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	se	sd	unit	comments
+Naesdal1986	all	12	OME20_IV	excretion rate	omeprazole metabolites	urine	OME20_IV_excretion_rate_omemets	1.5	hr	2.973102	1.49	5.16151140655525	µmol/hr	NA
+Naesdal1986	all	12	OME20_IV	excretion rate	omeprazole metabolites	urine	OME20_IV_excretion_rate_omemets	4.5	hr	1.7670335	0.65	2.25166604983954	µmol/hr	NA
+Naesdal1986	all	12	OME20_IV	excretion rate	omeprazole metabolites	urine	OME20_IV_excretion_rate_omemets	7.5	hr	1.1921598	0.24	0.831384387633061	µmol/hr	NA
+Naesdal1986	all	12	OME20_IV	excretion rate	omeprazole metabolites	urine	OME20_IV_excretion_rate_omemets	10.5	hr	0.7805607	0.18	0.623538290724796	µmol/hr	NA
+Naesdal1986	all	12	OME20_IV	excretion rate	omeprazole metabolites	urine	OME20_IV_excretion_rate_omemets	18.0	hr	0.39732933	NA	NA	µmol/hr	NA
+Naesdal1986	all	12	OME20_IV	excretion rate	omeprazole metabolites	urine	OME20_IV_excretion_rate_omemets	36.0	hr	0.14949262	NA	NA	µmol/hr	NA
+Naesdal1986	all	12	OME20_IV	excretion rate	omeprazole metabolites	urine	OME20_IV_excretion_rate_omemets	60.0	hr	0.0668628	0.03	0.103923048454133	µmol/hr	NA
+Naesdal1986	all	12	OME20_IV	excretion rate	omeprazole metabolites	urine	OME20_IV_excretion_rate_omemets	84.0	hr	0.029460115	0.01	0.0346410161513775	µmol/hr	NA

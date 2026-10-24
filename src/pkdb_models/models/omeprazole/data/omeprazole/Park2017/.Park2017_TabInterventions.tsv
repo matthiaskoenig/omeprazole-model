@@ -1,0 +1,3 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Park2017	OME20_SINGLE	0	hr	oral	single dose	dosing	granules	omeprazole	20	mg	NA
+Park2017	OME20_MULTI	S0T12R16	hr	oral	multiple dose	dosing	granules	omeprazole	20	mg	twice daily for 8 days

@@ -1,0 +1,12 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	pm	mean_sd	comments	mean_unit	count_unit
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	0.07696121	hr	6083.7715					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	0.18092369	hr	4036.7722					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	0.23259982	hr	3288.3242					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	0.3282865	hr	2761.1633					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	0.40662065	hr	2415.8184					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	0.4849548	hr	2201.783					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	0.65931886	hr	1847.7325	1719.9272	127.8053	478.2036448138596		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	0.9904275	hr	1397.7808	1162.9463	234.83449999999996	878.6702415943648		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	1.496129	hr	983.37915	818.0197	165.35945000000004	618.7184075653763		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	2.0017161	hr	663.9696					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME20_IV	omeprazole	plasma	HPLC	OME20_IV_omeprazole	3.9903893	hr	239.85161	169.40128	70.45032999999998	263.6009976451617		nmol/l	dimensionless

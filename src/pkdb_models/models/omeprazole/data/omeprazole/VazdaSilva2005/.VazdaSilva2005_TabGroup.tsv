@@ -1,0 +1,17 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	se	unit
+VazdaSilva2005	all	NA	23.0	healthy	NA	Y	23.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	all	NA	23.0	species	NA	homo sapiens	23.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	all	NA	23.0	sex	NA	M	12.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	all	NA	23.0	sex	NA	F	11.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	all	NA	23.0	medication	NA	N	23.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	all	NA	23.0	oral contraceptives	NA	Y	7.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	all	NA	23.0	oral contraceptives	NA	N	16.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	all	NA	23.0	abstinence medication	NA	NA	23.0	NA	NA	7.0	NA	NA	NA	day
+VazdaSilva2005	all	NA	23.0	bmi	NA	NA	23.0	NA	NA	19.0	28.0	NA	NA	kg/m^2
+VazdaSilva2005	all	NA	23.0	age	NA	NA	23.0	26.0	22.5	19.0	44.0	8.0	NA	yr
+VazdaSilva2005	all	NA	23.0	weight	NA	NA	23.0	66.1	63.5	49.0	88.0	10.5	NA	kg
+VazdaSilva2005	all	NA	23.0	height	NA	NA	23.0	169.0	169.5	146.0	195.0	12.1	NA	cm
+VazdaSilva2005	all	NA	23.0	abstinence	grapefruit	NA	23.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	all	NA	23.0	ethnicity	NA	caucasian	22.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	fasting	all	23.0	fasting	NA	Y	23.0	NA	NA	NA	NA	NA	NA	NA
+VazdaSilva2005	fed	all	23.0	fasting	NA	N	23.0	NA	NA	NA	NA	NA	NA	NA

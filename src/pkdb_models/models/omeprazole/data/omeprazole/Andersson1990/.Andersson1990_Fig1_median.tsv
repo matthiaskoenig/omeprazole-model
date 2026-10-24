@@ -1,0 +1,17 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	median	unit	comments
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D1	8.321775	min	20.673923	nM	concentration scale is logarithmic
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D1	12.649098	min	16.744823	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D1	17.642164	min	11.984142	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D1	22.63523	min	9.574024	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D1	27.628294	min	7.578827	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D1	32.62136	min	6.3969088	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D1	45.60333	min	4.4336987	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D1	62.91262	min	3.0449636	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D8	1.8433583	min	20.654123	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D8	7.040543	min	20.660957	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D8	15.3150215	min	11.328673	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D8	20.04251	min	9.876586	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D8	25.305971	min	8.234667	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D8	29.788605	min	6.889	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D8	45.019257	min	4.4567733	nM	NA
+Andersson1990	all	10.0	OME20_IV	concentration	omeprazole	plasma	F1_OME20IV_MEDIAN_D8	60.498516	min	2.97389	nM	NA

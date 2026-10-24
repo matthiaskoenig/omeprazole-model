@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	0.26453677	hr	949.8465			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	0.30003417	hr	2822.897			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	0.46090925	hr	4420.846			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	0.5158954	hr	5562.9766			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	1.0425097	hr	5147.844			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	1.6216043	hr	5170.852			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	2.1136029	hr	4630.664			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	4.031993	hr	3251.1816			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	5.9699187	hr	2646.12			total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	7.958283	hr	2072.5208	272.28	666.947067165004	total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	11.903922	hr	1514.8602	93.96	230.154056231907	total pool of radioactive metabolites	nmol/l	dimensionless
+Naesdal1986	SRI	6.0	OME40_PO	concentration	omeprazole metabolites	plasma	OME40_PO_SRI_omeprazole metabolites	23.829607	hr	732.2139	107.24	262.683280016068	total pool of radioactive metabolites	nmol/l	dimensionless

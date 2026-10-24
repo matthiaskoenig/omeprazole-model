@@ -1,0 +1,8 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	0.0	hr	3.9049643074539323e-05					mole/meter^3	dimensionless
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	1.0	hr	7.706498533562062e-05					mole/meter^3	dimensionless
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	2.0	hr	0.0003416879807426263	189.8305	0.00018354720270045933	0.00036709440540091866		mole/meter^3	dimensionless
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	3.0	hr	0.0007154631730396768	298.98306	0.00011178230313762382	0.0002235646062752479		mole/meter^3	dimensionless
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	4.0	hr	0.0007270942393890764	308.47458	0.00012641298212605833	0.00025282596425211666		mole/meter^3	dimensionless
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	6.0	hr	0.0006543867799236346	302.14688	0.00018161255602899674	0.0003632251120579935		mole/meter^3	dimensionless
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	12.0	hr	0.0003228454872447568	159.77402	0.00011922750262852084	0.00023845500525704168		mole/meter^3	dimensionless

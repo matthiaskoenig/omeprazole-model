@@ -1,0 +1,16 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.028571378	hr	0.0		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.1744179	hr	2.5564334		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.3477062	hr	4.178712		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.5137455	hr	5.7096906		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.7473912	hr	4.115031		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	1.0031322	hr	3.082243		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	1.5157778	hr	1.9789174		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	2.0359867	hr	1.2267693		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	2.506684	hr	0.85396063		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	3.0275128	hr	0.61454415		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	4.0051527	hr	0.3254268		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	5.018621	hr	0.14864714		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	6.025104	hr	0.09830283		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	7.024431	hr	0.033919428		µM	dimensionless
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	8.002428	hr	0.039798293		µM	dimensionless

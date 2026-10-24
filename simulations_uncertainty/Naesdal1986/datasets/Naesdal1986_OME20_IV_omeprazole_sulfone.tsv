@@ -1,0 +1,8 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole sulfone	plasma	OME20_IV_omeprazole sulfone	0.0986114463333333	hr	65.18066	12.81	44.3751416899146		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole sulfone	plasma	OME20_IV_omeprazole sulfone	0.1870373233333333	hr	86.892815	19.34	66.9957252367642		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole sulfone	plasma	OME20_IV_omeprazole sulfone	0.3305309333333333	hr	114.029175	13.68	47.3889100950845		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole sulfone	plasma	OME20_IV_omeprazole sulfone	0.4996246933333333	hr	129.63922	20.53	71.1180061587781		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole sulfone	plasma	OME20_IV_omeprazole sulfone	0.6667751333333334	hr	133.93153	23.34	80.8521316973152		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole sulfone	plasma	OME20_IV_omeprazole sulfone	1.0089634833333334	hr	130.94318	21.26	73.6468003378287		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	omeprazole sulfone	plasma	OME20_IV_omeprazole sulfone	1.5144078333333333	hr	112.75561	18.01	62.388470088631		nmol/l	dimensionless

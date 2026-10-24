@@ -1,0 +1,178 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	sd	se	unit	comments
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	0.0	hr	0.0	NA	NA	NA	µg/l	before the dose, symbol hidden behind the other symbols
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	0.5	hr	43.11	108.13	65.02	22.99	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	1.0	hr	199.5	403.54	204.04	72.14	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	2.0	hr	217.76	353.79	136.02	48.09	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	3.0	hr	131.69	243.7	112.01	39.6	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	4.0	hr	89.74	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	6.0	hr	64.06	149.48	85.42	30.2	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	8.0	hr	50.48	116.89	66.41	23.48	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	10.0	hr	77.65	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	EM_OME20_SINGLE_omeprazole	12.0	hr	31.85	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	0.0	hr	0.0	NA	NA	NA	µg/l	before the dose, symbol hidden behind the other symbols
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	0.5	hr	2.22	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	1.0	hr	359.12	728.25	369.13	130.51	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	2.0	hr	268.2	475.23	207.02	73.19	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	3.0	hr	155.03	293.89	138.85	49.09	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	4.0	hr	168.62	327.09	158.47	56.03	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	6.0	hr	47.06	84.47	37.4	13.22	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	8.0	hr	18.26	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	10.0	hr	10.91	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	IM_OME20_SINGLE_omeprazole	12.0	hr	4.68	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	0.0	hr	0.0	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	0.5	hr	55.39	173.06	117.66	41.6	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	1.0	hr	323.34	709.96	386.62	136.69	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	2.0	hr	634.17	1094.91	460.74	162.9	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	3.0	hr	560.62	815.8	255.18	90.22	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	4.0	hr	587.79	863.91	276.12	97.62	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	6.0	hr	331.95	435.18	103.24	36.5	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	8.0	hr	209.09	275.95	66.85	23.64	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	10.0	hr	145.35	184.67	39.32	13.9	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole	plasma	PM_OME20_SINGLE_omeprazole	12.0	hr	73.89	93.74	19.85	7.02	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	0.0	hr	0.0	NA	NA	NA	µg/l	symbol hidden behind the IM symbol, value of the previous digitization
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	0.5	hr	66.43	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	1.0	hr	429.93	764.97	335.04	118.46	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	2.0	hr	411.79	715.89	304.09	107.51	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	3.0	hr	376.03	824.01	447.98	158.38	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	4.0	hr	240.05	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	6.0	hr	119.44	238.81	119.37	42.2	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	8.0	hr	92.3	148.87	56.56	20.0	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	10.0	hr	48.41	91.04	42.62	15.07	µg/l	symbol hidden behind the IM symbol, value of the previous digitization
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole	plasma	EM_OME20_MULTI_omeprazole	12.0	hr	29.48	44.29	14.81	5.24	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	0.0	hr	8.29	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	0.5	hr	128.43	273.61	145.18	51.33	µg/l	symbol hidden behind the PM symbol, value of the previous digitization
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	1.0	hr	525.63	834.14	308.51	109.07	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	2.0	hr	465.65	726.62	260.97	92.27	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	3.0	hr	342.96	655.72	312.76	110.58	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	4.0	hr	280.77	450.99	170.22	60.18	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	6.0	hr	119.44	223.49	104.05	36.79	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	8.0	hr	75.1	131.81	56.72	20.05	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	10.0	hr	45.51	79.96	34.45	12.18	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole	plasma	IM_OME20_MULTI_omeprazole	12.0	hr	25.11	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	0.0	hr	11.54	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	0.5	hr	133.01	366.15	233.14	82.43	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	1.0	hr	631.15	1131.84	500.7	177.02	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	2.0	hr	789.91	1081.55	291.64	103.11	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	3.0	hr	579.73	825.05	245.32	86.73	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	4.0	hr	514.59	703.94	189.35	66.95	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	6.0	hr	307.9	366.84	58.94	20.84	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	8.0	hr	188.31	219.25	30.93	10.94	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	10.0	hr	119.44	139.86	20.42	7.22	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole	plasma	PM_OME20_MULTI_omeprazole	12.0	hr	63.98	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	µg/l	before the dose, symbol hidden behind the other symbols
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	0.5	hr	18.66	51.74	33.08	11.7	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	1.0	hr	87.89	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	2.0	hr	101.93	146.39	44.46	15.72	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	3.0	hr	65.01	93.23	28.22	9.98	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	4.0	hr	35.75	49.25	13.49	4.77	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	6.0	hr	19.52	NA	NA	NA	µg/l	symbol hidden behind the IM symbol, value of the previous digitization
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	8.0	hr	26.06	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	EM_OME20_SINGLE_5-hydroxyomeprazole	10.0	hr	18.0	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	µg/l	before the dose, symbol hidden behind the other symbols
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	0.5	hr	14.22	NA	NA	NA	µg/l	symbol hidden behind the EM symbol, value of the previous digitization
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	1.0	hr	159.03	375.97	216.94	76.7	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	2.0	hr	124.45	189.5	65.05	23.0	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	3.0	hr	68.69	111.43	42.73	15.11	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	4.0	hr	65.01	86.51	21.5	7.6	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	6.0	hr	20.97	31.15	10.18	3.6	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	8.0	hr	10.48	NA	NA	NA	µg/l	symbol hidden behind the PM symbol, value of the previous digitization
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	10.0	hr	6.91	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	IM_OME20_SINGLE_5-hydroxyomeprazole	12.0	hr	0.6	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	0.0	hr	0.91	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	0.5	hr	2.75	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	1.0	hr	14.91	32.54	17.63	6.23	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	2.0	hr	28.83	53.56	24.73	8.74	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	3.0	hr	26.53	42.34	15.81	5.59	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	4.0	hr	31.61	45.58	13.97	4.94	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	6.0	hr	20.0	27.74	7.75	2.74	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	8.0	hr	12.0	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	10.0	hr	12.0	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	5-hydroxyomeprazole	plasma	PM_OME20_SINGLE_5-hydroxyomeprazole	12.0	hr	9.84	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	0.5	hr	61.67	133.38	71.71	25.35	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	1.0	hr	192.32	427.91	235.58	83.29	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	2.0	hr	136.9	220.67	83.77	29.62	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	3.0	hr	80.36	119.92	39.56	13.99	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	4.0	hr	56.44	76.13	19.69	6.96	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	6.0	hr	20.09	27.69	7.6	2.69	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	8.0	hr	12.12	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	10.0	hr	13.06	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	0.0	hr	1.65	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	0.5	hr	20.09	41.61	21.52	7.61	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	1.0	hr	58.36	96.52	38.16	13.49	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	2.0	hr	75.13	124.86	49.74	17.58	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	3.0	hr	56.44	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	4.0	hr	41.38	48.15	6.77	2.39	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	6.0	hr	19.24	NA	NA	NA	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	8.0	hr	14.66	22.45	7.79	2.75	µg/l	symbol hidden behind the EM symbol, value of the previous digitization
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	10.0	hr	15.61	NA	NA	NA	µg/l	symbol hidden behind the EM symbol, value of the previous digitization
+Park2017	IM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	IM_OME20_MULTI_5-hydroxyomeprazole	12.0	hr	3.76	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	µg/l	symbol hidden behind the IM symbol, value of the previous digitization
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	0.5	hr	6.89	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	1.0	hr	30.55	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	2.0	hr	41.02	53.03	12.01	4.25	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	3.0	hr	30.55	40.91	10.35	3.66	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	4.0	hr	35.79	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	6.0	hr	22.93	31.26	8.33	2.95	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	8.0	hr	13.06	19.71	6.65	2.35	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	10.0	hr	11.17	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	12.0	hr	7.83	NA	NA	NA	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	0.0	hr	0.0	NA	NA	NA	µg/l	before the dose, symbol hidden behind the other symbols
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	0.5	hr	6.34	13.51	7.17	2.54	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	1.0	hr	50.0	88.35	38.35	13.56	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	2.0	hr	86.43	121.25	34.82	12.31	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	3.0	hr	84.44	143.22	58.78	20.78	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	4.0	hr	55.51	82.28	26.77	9.46	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	6.0	hr	57.61	106.09	48.47	17.14	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	8.0	hr	50.0	98.46	48.46	17.13	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	10.0	hr	50.0	94.47	44.48	15.72	µg/l	NA
+Park2017	EM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	EM_OME20_SINGLE_omeprazole sulfone	12.0	hr	32.78	62.4	29.62	10.47	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	0.0	hr	0.0	NA	NA	NA	µg/l	before the dose, symbol hidden behind the other symbols
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	0.5	hr	4.52	13.27	8.75	3.09	µg/l	symbol hidden behind the EM symbol, value of the previous digitization
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	1.0	hr	233.76	539.09	305.32	107.95	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	2.0	hr	333.08	609.99	276.91	97.9	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	3.0	hr	235.14	456.28	221.14	78.18	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	4.0	hr	308.91	540.45	231.54	81.86	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	6.0	hr	235.14	431.64	196.5	69.47	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	8.0	hr	180.18	313.06	132.89	46.98	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	10.0	hr	164.94	262.04	97.09	34.33	µg/l	NA
+Park2017	IM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	IM_OME20_SINGLE_omeprazole sulfone	12.0	hr	104.41	217.42	113.01	39.96	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	0.0	hr	0.12	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	0.5	hr	3.34	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	1.0	hr	55.51	126.98	71.48	25.27	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	2.0	hr	169.5	NA	NA	NA	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	3.0	hr	167.92	296.83	128.92	45.58	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	4.0	hr	264.34	410.94	146.59	51.83	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	6.0	hr	235.14	301.4	66.26	23.43	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	8.0	hr	242.76	387.51	144.76	51.18	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	10.0	hr	210.07	367.01	156.94	55.49	µg/l	NA
+Park2017	PM	8.0	OME20_SINGLE	concentration	omeprazole sulfone	plasma	PM_OME20_SINGLE_omeprazole sulfone	12.0	hr	235.14	344.89	109.75	38.8	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	0.0	hr	38.31	51.69	13.38	4.73	µg/l	trough 24 h after the dose of day 7 at time 0
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	0.5	hr	49.44	92.27	42.83	15.14	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	1.0	hr	219.3	584.58	365.28	129.15	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	2.0	hr	331.55	661.23	329.68	116.56	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	3.0	hr	266.97	432.87	165.9	58.65	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	4.0	hr	302.41	587.89	285.48	100.93	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	6.0	hr	226.82	442.41	215.59	76.22	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	8.0	hr	154.12	288.06	133.94	47.36	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	10.0	hr	146.6	269.07	122.47	43.3	µg/l	NA
+Park2017	EM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	EM_OME20_MULTI_omeprazole sulfone	12.0	hr	108.88	185.42	76.53	27.06	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	0.0	hr	27.35	NA	NA	NA	µg/l	trough 24 h after the dose of day 7 at time 0
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	0.5	hr	32.15	54.42	22.28	7.88	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	1.0	hr	107.99	177.89	69.9	24.71	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	2.0	hr	184.72	273.14	88.43	31.26	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	3.0	hr	189.52	274.49	84.97	30.04	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	4.0	hr	179.92	242.11	62.19	21.99	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	6.0	hr	169.68	223.4	53.72	18.99	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	8.0	hr	131.64	187.43	55.79	19.72	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	10.0	hr	128.28	194.19	65.91	23.3	µg/l	NA
+Park2017	IM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	IM_OME20_MULTI_omeprazole sulfone	12.0	hr	104.08	160.14	56.05	19.82	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	0.0	hr	89.53	123.44	33.91	11.99	µg/l	trough 24 h after the dose of day 7 at time 0
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	0.5	hr	100.47	157.88	57.41	20.3	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	1.0	hr	139.16	205.8	66.64	23.56	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	2.0	hr	255.41	406.97	151.56	53.58	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	3.0	hr	293.66	596.05	302.39	106.91	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	4.0	hr	401.81	625.31	223.5	79.02	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	6.0	hr	413.81	589.86	176.05	62.24	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	8.0	hr	255.41	294.2	38.79	13.71	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	10.0	hr	231.62	275.83	44.21	15.63	µg/l	NA
+Park2017	PM	8.0	OME20_MULTI	concentration	omeprazole sulfone	plasma	PM_OME20_MULTI_omeprazole sulfone	12.0	hr	174.48	203.79	29.3	10.36	µg/l	NA

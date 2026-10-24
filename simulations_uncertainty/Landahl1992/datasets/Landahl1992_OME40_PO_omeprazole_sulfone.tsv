@@ -1,0 +1,11 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	pm	mean_sd	mean_unit	count_unit
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.12686275	hr	487.94638				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.16764706	hr	815.88306				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.3529412	hr	781.6697				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.627451	hr	748.891				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	0.98039216	hr	740.9134				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	1.5	hr	756.95447				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	2.0	hr	756.95447	105.39587000000006	105.39587000000006	298.10453754422343	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	3.9607842	hr	644.61786	124.2876	124.2876	351.5384191096046	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	6.0	hr	687.39966	178.09606000000002	178.09606000000002	503.73172691442505	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole sulfone	plasma	HPLC	OME40_PO_omeprazole sulfone	8.0	hr	543.1049	149.23860000000002	149.23860000000002	422.1105042991469	nmol/l	dimensionless

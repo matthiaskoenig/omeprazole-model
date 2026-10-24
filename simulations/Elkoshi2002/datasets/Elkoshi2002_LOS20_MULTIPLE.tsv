@@ -1,0 +1,17 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	mean_unit	count_unit
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	0.013537806	hr	0.0			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	0.2977951	hr	0.0			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	0.6808124	hr	0.00012260789019616925			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	1.0185122	hr	0.0005229479236630614			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	1.5288314	hr	0.0008176941427148713			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	2.0682178	hr	0.0007510253433541005			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	2.5505204	hr	0.00059258340667485			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	3.04867	hr	0.000506419505755379			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	3.5190845	hr	0.0003996100354355327			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	4.0583243	hr	0.00032835194374319655			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	4.9872646	hr	0.0001663655128888065			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	6.0408673	hr	9.269473909720452e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	7.0142703	hr	5.116756317020636e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	7.9750514	hr	3.832648748176111e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	9.937226	hr	1.2635014012089767e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_MULTIPLE	concentration	omeprazole	plasma	LOS20_MULTIPLE	12.07598	hr	5.260274856984042e-06			mole/meter^3	dimensionless

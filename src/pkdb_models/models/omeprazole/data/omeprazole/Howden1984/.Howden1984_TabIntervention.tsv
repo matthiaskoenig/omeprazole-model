@@ -1,0 +1,15 @@
+study	name	measurement_type	choice	substance	value	route	form	time	time_unit	application	unit
+Howden1984	D_Omeprazole_po30_1	dosing	NA	omeprazole	30	oral	NR	-6	day	single dose	mg
+Howden1984	D_Omeprazole_po30_2	dosing	NA	omeprazole	30	oral	NR	-5	day	single dose	mg
+Howden1984	D_Omeprazole_po30_3	dosing	NA	omeprazole	30	oral	NR	-4	day	single dose	mg
+Howden1984	D_Omeprazole_po30_4	dosing	NA	omeprazole	30	oral	NR	-3	day	single dose	mg
+Howden1984	D_Omeprazole_po30_5	dosing	NA	omeprazole	30	oral	NR	-2	day	single dose	mg
+Howden1984	D_Omeprazole_po30_6	dosing	NA	omeprazole	30	oral	NR	-1	day	single dose	mg
+Howden1984	D_Omeprazole_po30_7	dosing	NA	omeprazole	30	oral	NR	0	day	single dose	mg
+Howden1984	D_Omeprazole_po60_1	dosing	NA	omeprazole	60	oral	NR	-6	day	single dose	mg
+Howden1984	D_Omeprazole_po60_2	dosing	NA	omeprazole	60	oral	NR	-5	day	single dose	mg
+Howden1984	D_Omeprazole_po60_3	dosing	NA	omeprazole	60	oral	NR	-4	day	single dose	mg
+Howden1984	D_Omeprazole_po60_4	dosing	NA	omeprazole	60	oral	NR	-3	day	single dose	mg
+Howden1984	D_Omeprazole_po60_5	dosing	NA	omeprazole	60	oral	NR	-2	day	single dose	mg
+Howden1984	D_Omeprazole_po60_6	dosing	NA	omeprazole	60	oral	NR	-1	day	single dose	mg
+Howden1984	D_Omeprazole_po60_7	dosing	NA	omeprazole	60	oral	NR	0	day	single dose	mg

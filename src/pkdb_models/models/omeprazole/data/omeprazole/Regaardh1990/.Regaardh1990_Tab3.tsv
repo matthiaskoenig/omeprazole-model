@@ -1,0 +1,17 @@
+study	individual	measurement_type	interventions	substance	tissue	unit	method	value	time	time_unit
+Regaardh1990	adult1	thalf	OME_po20	omeprazole	plasma	hr	HPLC	2.1	NA	NA
+Regaardh1990	adult2	thalf	OME_po20	omeprazole	plasma	hr	HPLC	3.1	NA	NA
+Regaardh1990	adult3	thalf	OME_po20	omeprazole	plasma	hr	HPLC	0.67	NA	NA
+Regaardh1990	adult4	thalf	OME_po20	omeprazole	plasma	hr	HPLC	0.23	NA	NA
+Regaardh1990	adult5	thalf	OME_po20	omeprazole	plasma	hr	HPLC	0.7	NA	NA
+Regaardh1990	adult6	thalf	OME_po20	omeprazole	plasma	hr	HPLC	0.35	NA	NA
+Regaardh1990	adult7	thalf	OME_po20	omeprazole	plasma	hr	HPLC	0.32	NA	NA
+Regaardh1990	adult8	thalf	OME_po20	omeprazole	plasma	hr	HPLC	0.63	NA	NA
+Regaardh1990	adult1	thalf	OME_po20	omeprazole sulfone	plasma	hr	HPLC	7.5	NA	NA
+Regaardh1990	adult2	thalf	OME_po20	omeprazole sulfone	plasma	hr	HPLC	11.0	NA	NA
+Regaardh1990	adult3	thalf	OME_po20	omeprazole sulfone	plasma	hr	HPLC	1.2	NA	NA
+Regaardh1990	adult4	thalf	OME_po20	omeprazole sulfone	plasma	hr	HPLC	0.95	NA	NA
+Regaardh1990	adult5	thalf	OME_po20	omeprazole sulfone	plasma	hr	HPLC	2.0	NA	NA
+Regaardh1990	adult6	thalf	OME_po20	omeprazole sulfone	plasma	hr	HPLC	0.75	NA	NA
+Regaardh1990	adult7	thalf	OME_po20	omeprazole sulfone	plasma	hr	HPLC	0.9	NA	NA
+Regaardh1990	adult8	thalf	OME_po20	omeprazole sulfone	plasma	hr	HPLC	1.3	NA	NA

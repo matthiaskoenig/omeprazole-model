@@ -1,0 +1,49 @@
+[project]
+site_name = "Physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) model of omeprazole"
+site_url = "https://matthiaskoenig.github.io/omeprazole-model/"
+site_description = "This repository provides the omeprazole physiologically based pharmacokinetic/pharmacodynamic (PBPK/PD) model: the absorption of the application forms of omeprazole, the metabolism of S- and R-omeprazole by CYP2C19 and CYP3A4 in the liver with the mechanism-based inactivation of CYP2C19, the renal and biliary excretion of the metabolites, the inhibition of the gastric proton pumps and the effects of the CYP2C19 genotype, of interacting drugs and of impaired renal and hepatic function."
+site_author = "Helen Leal Pujol, Sükrü Balci and Matthias König"
+
+copyright = "Copyright &copy; 2020-2026 Helen Leal Pujol, Sükrü Balci and Matthias König"
+
+# pages as `simulations.html`, so the reports which the docs workflow copies into
+# the site (`simulations/`, `fit/`) do not replace the pages of the same name
+use_directory_urls = false
+
+repo_url = "https://github.com/matthiaskoenig/omeprazole-model"
+repo_name = "matthiaskoenig/omeprazole-model"
+
+nav = [
+  { "Home" = "index.md" },
+  { "Running the model" = "running.md" },
+  { "Models" = "models.md" },
+  { "Simulations" = "simulations.md" },
+  { "Fit" = "fit.md" },
+  { "Release notes" = "release-notes.md" },
+]
+
+[project.theme]
+language = "en"
+features = [
+  "content.code.copy",
+  "navigation.footer",
+  "navigation.top",
+  "search.highlight",
+  "toc.follow",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "teal"
+accent = "teal"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "teal"
+accent = "teal"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/matthiaskoenig/omeprazole-model"

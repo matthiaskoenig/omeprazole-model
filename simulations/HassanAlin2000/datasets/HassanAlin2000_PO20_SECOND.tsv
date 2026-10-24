@@ -1,0 +1,16 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	0.0	hr	0.0		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	0.11341681	hr	1.0970074		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	0.17693125	hr	2.180012		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	0.24807572	hr	2.438568		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	0.34098336	hr	2.0822911		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	0.49101675	hr	1.5863093		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	0.7551151	hr	1.1183417		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	0.9976748	hr	0.89490247		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	1.4826757	hr	0.6436569		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	1.9818859	hr	0.4762623		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	3.0087633	hr	0.24629289		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	3.9999096	hr	0.14905354		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	5.9750257	hr	0.031426452		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	7.98572	hr	0.03259716		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI	concentration	S-omeprazole	plasma	PO20_SECOND	9.989288	hr	0.026776832		µM	dimensionless

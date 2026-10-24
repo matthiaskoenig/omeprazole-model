@@ -1,0 +1,127 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	se	sd	unit	comments
+Kita2002	EM	4.0	OME20	concentration	omeprazole	plasma	EM_OME20_omeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole	plasma	EM_OME20_omeprazole	1.0	hr	49.16495	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole	plasma	EM_OME20_omeprazole	2.0	hr	22.782244	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole	plasma	EM_OME20_omeprazole	3.0	hr	232.04367	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole	plasma	EM_OME20_omeprazole	4.0	hr	72.63004	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole	plasma	EM_OME20_omeprazole	6.0	hr	61.45619	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole	plasma	EM_OME20_omeprazole	12.0	hr	78.589424	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME40	concentration	omeprazole	plasma	EM_OME40_omeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME40	concentration	omeprazole	plasma	EM_OME40_omeprazole	1.0	hr	49.040794	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME40	concentration	omeprazole	plasma	EM_OME40_omeprazole	2.0	hr	227.44997	398.1726	170.72263	341.44526	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME40	concentration	omeprazole	plasma	EM_OME40_omeprazole	3.0	hr	252.77737	702.38745	449.61008	899.22016	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME40	concentration	omeprazole	plasma	EM_OME40_omeprazole	4.0	hr	339.1885	550.8732	211.6847	423.3694	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME40	concentration	omeprazole	plasma	EM_OME40_omeprazole	6.0	hr	92.12221	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME40	concentration	omeprazole	plasma	EM_OME40_omeprazole	12.0	hr	67.974266	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME80	concentration	omeprazole	plasma	EM_OME80_omeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole	plasma	EM_OME80_omeprazole	1.0	hr	141.10092	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole	plasma	EM_OME80_omeprazole	2.0	hr	1456.822	2037.4182	580.5962	1161.1924	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole	plasma	EM_OME80_omeprazole	3.0	hr	2444.3423	3225.9731	781.6308	1563.2616	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole	plasma	EM_OME80_omeprazole	4.0	hr	1547.3923	2183.4087	636.0164	1272.0328	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole	plasma	EM_OME80_omeprazole	6.0	hr	644.97955	942.22015	297.2406	594.4812	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole	plasma	EM_OME80_omeprazole	12.0	hr	139.67316	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole	plasma	PM_OME20_omeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole	plasma	PM_OME20_omeprazole	1.0	hr	62.233223	195.22035	132.987127	230.340460716615	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole	plasma	PM_OME20_omeprazole	2.0	hr	502.85187	911.9356	409.08373	708.553804909788	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole	plasma	PM_OME20_omeprazole	3.0	hr	329.82333	698.0677	368.24437	637.817958441192	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole	plasma	PM_OME20_omeprazole	4.0	hr	1476.1576	1885.2692	409.1116	708.602077165795	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole	plasma	PM_OME20_omeprazole	6.0	hr	833.4869	1038.0905	204.6036	354.3838306115	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole	plasma	PM_OME20_omeprazole	12.0	hr	132.96597	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole	plasma	PM_OME40_omeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole	plasma	PM_OME40_omeprazole	1.0	hr	2281.5254	4500.8164	2219.291	3843.92476878034	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole	plasma	PM_OME40_omeprazole	2.0	hr	3376.7234	3560.7822	184.0588	318.799193180159	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole	plasma	PM_OME40_omeprazole	3.0	hr	3479.9004	4359.4194	879.519	1523.37159422217	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole	plasma	PM_OME40_omeprazole	4.0	hr	2642.0884	3204.5325	562.4441	974.18175761735	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole	plasma	PM_OME40_omeprazole	6.0	hr	1426.7375	1764.199	337.4615	584.500463598405	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole	plasma	PM_OME40_omeprazole	12.0	hr	235.18059	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	1.0	hr	4050.8528	8049.6807	3998.8279	6926.17309352396	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	2.0	hr	4869.845	6813.0225	1943.1775	3365.68215812467	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	3.0	hr	4277.557	5054.8345	777.2775	1346.28412158012	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	4.0	hr	3889.8142	4268.185	378.370800000001	655.357449700483	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	6.0	hr	2388.0884	2428.979	40.8905999999997	70.8245967519755	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	12.0	hr	480.64642	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME20	concentration	5-hydroxyomeprazole	plasma	EM_OME20_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME20	concentration	5-hydroxyomeprazole	plasma	EM_OME20_5-hydroxyomeprazole	1.0	hr	4.394379	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME20	concentration	5-hydroxyomeprazole	plasma	EM_OME20_5-hydroxyomeprazole	2.0	hr	5.688076	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME20	concentration	5-hydroxyomeprazole	plasma	EM_OME20_5-hydroxyomeprazole	3.0	hr	147.00133	202.02054	55.01921	110.03842	ng/ml	NA
+Kita2002	EM	4.0	OME20	concentration	5-hydroxyomeprazole	plasma	EM_OME20_5-hydroxyomeprazole	4.0	hr	68.964	96.08819	27.12419	54.24838	ng/ml	NA
+Kita2002	EM	4.0	OME20	concentration	5-hydroxyomeprazole	plasma	EM_OME20_5-hydroxyomeprazole	6.0	hr	31.898096	62.151733	30.253637	60.507274	ng/ml	NA
+Kita2002	EM	4.0	OME20	concentration	5-hydroxyomeprazole	plasma	EM_OME20_5-hydroxyomeprazole	12.0	hr	5.4445257	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	5-hydroxyomeprazole	plasma	EM_OME40_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	5-hydroxyomeprazole	plasma	EM_OME40_5-hydroxyomeprazole	1.0	hr	10.613203	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	5-hydroxyomeprazole	plasma	EM_OME40_5-hydroxyomeprazole	2.0	hr	102.92572	176.6328	73.70708	147.41416	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	5-hydroxyomeprazole	plasma	EM_OME40_5-hydroxyomeprazole	3.0	hr	101.12921	127.405045	26.275835	52.55167	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	5-hydroxyomeprazole	plasma	EM_OME40_5-hydroxyomeprazole	4.0	hr	162.28825	215.74754	53.45929	106.91858	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	5-hydroxyomeprazole	plasma	EM_OME40_5-hydroxyomeprazole	6.0	hr	47.436424	73.03555	25.599126	51.198252	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	5-hydroxyomeprazole	plasma	EM_OME40_5-hydroxyomeprazole	12.0	hr	12.476056	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	5-hydroxyomeprazole	plasma	EM_OME80_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	5-hydroxyomeprazole	plasma	EM_OME80_5-hydroxyomeprazole	1.0	hr	18.419031	33.14649	14.727459	29.454918	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	5-hydroxyomeprazole	plasma	EM_OME80_5-hydroxyomeprazole	2.0	hr	321.47058	513.80145	192.33087	384.66174	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	5-hydroxyomeprazole	plasma	EM_OME80_5-hydroxyomeprazole	3.0	hr	475.23544	578.04205	102.80661	205.61322	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	5-hydroxyomeprazole	plasma	EM_OME80_5-hydroxyomeprazole	4.0	hr	310.84604	409.95975	99.11371	198.22742	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	5-hydroxyomeprazole	plasma	EM_OME80_5-hydroxyomeprazole	6.0	hr	119.01051	154.61198	35.60147	71.20294	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	5-hydroxyomeprazole	plasma	EM_OME80_5-hydroxyomeprazole	12.0	hr	14.767524	29.5403	14.772776	29.545552	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	5-hydroxyomeprazole	plasma	PM_OME20_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	5-hydroxyomeprazole	plasma	PM_OME20_5-hydroxyomeprazole	1.0	hr	13.680521	37.49589	23.815369	41.2494291090008	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	5-hydroxyomeprazole	plasma	PM_OME20_5-hydroxyomeprazole	2.0	hr	22.711544	41.626434	18.91489	32.7615504995765	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	5-hydroxyomeprazole	plasma	PM_OME20_5-hydroxyomeprazole	3.0	hr	20.127523	37.24065	17.113127	29.6408054403788	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	5-hydroxyomeprazole	plasma	PM_OME20_5-hydroxyomeprazole	4.0	hr	69.43795	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	5-hydroxyomeprazole	plasma	PM_OME20_5-hydroxyomeprazole	6.0	hr	60.40519	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	5-hydroxyomeprazole	plasma	PM_OME20_5-hydroxyomeprazole	12.0	hr	28.636522	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	1.0	hr	75.627426	92.60586	16.978434	29.4075103209549	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	2.0	hr	78.481155	91.28294	12.801785	22.1733420475731	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	3.0	hr	103.7628	114.83673	11.07393	19.1806093994612	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	4.0	hr	105.05046	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	6.0	hr	74.34325	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	12.0	hr	18.60147	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	5-hydroxyomeprazole	plasma	PM_OME80_5-hydroxyomeprazole	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	5-hydroxyomeprazole	plasma	PM_OME80_5-hydroxyomeprazole	1.0	hr	84.12772	156.22523	72.09751	124.876550419205	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	5-hydroxyomeprazole	plasma	PM_OME80_5-hydroxyomeprazole	2.0	hr	123.385704	187.52617	64.140466	111.094545933144	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	5-hydroxyomeprazole	plasma	PM_OME80_5-hydroxyomeprazole	3.0	hr	95.2277	147.42598	52.19828	90.4100730277064	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	5-hydroxyomeprazole	plasma	PM_OME80_5-hydroxyomeprazole	4.0	hr	79.49737	129.0981	49.60073	85.9109844525058	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	5-hydroxyomeprazole	plasma	PM_OME80_5-hydroxyomeprazole	6.0	hr	78.97186	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	5-hydroxyomeprazole	plasma	PM_OME80_5-hydroxyomeprazole	12.0	hr	26.365715	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME20	concentration	omeprazole sulfone	plasma	EM_OME20_omeprazole sulfone	0.0	hr	4.722901	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole sulfone	plasma	EM_OME20_omeprazole sulfone	1.0	hr	7.3153906	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole sulfone	plasma	EM_OME20_omeprazole sulfone	2.0	hr	9.990952	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole sulfone	plasma	EM_OME20_omeprazole sulfone	3.0	hr	50.463562	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole sulfone	plasma	EM_OME20_omeprazole sulfone	4.0	hr	37.317665	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole sulfone	plasma	EM_OME20_omeprazole sulfone	6.0	hr	20.513206	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME20	concentration	omeprazole sulfone	plasma	EM_OME20_omeprazole sulfone	12.0	hr	7.9314966	NA	NA	NA	ng/ml	se non distinguishable
+Kita2002	EM	4.0	OME40	concentration	omeprazole sulfone	plasma	EM_OME40_omeprazole sulfone	0.0	hr	11.001641	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	omeprazole sulfone	plasma	EM_OME40_omeprazole sulfone	1.0	hr	7.343081	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	omeprazole sulfone	plasma	EM_OME40_omeprazole sulfone	2.0	hr	41.50234	64.85876	23.35642	46.71284	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	omeprazole sulfone	plasma	EM_OME40_omeprazole sulfone	3.0	hr	77.27974	96.49718	19.21744	38.43488	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	omeprazole sulfone	plasma	EM_OME40_omeprazole sulfone	4.0	hr	120.87788	151.86441	30.98653	61.97306	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	omeprazole sulfone	plasma	EM_OME40_omeprazole sulfone	6.0	hr	64.64438	93.333336	28.688956	57.377912	ng/ml	NA
+Kita2002	EM	4.0	OME40	concentration	omeprazole sulfone	plasma	EM_OME40_omeprazole sulfone	12.0	hr	22.065586	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	0.0	hr	14.113322	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	1.0	hr	27.852827	NA	NA	NA	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	2.0	hr	123.49287	189.8305	66.33763	132.67526	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	3.0	hr	258.5827	298.98306	40.40036	80.8007200000001	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	4.0	hr	262.7864	308.47458	45.68818	91.37636	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	6.0	hr	236.50847	302.14688	65.63841	131.27682	ng/ml	NA
+Kita2002	EM	4.0	OME80	concentration	omeprazole sulfone	plasma	EM_OME80_omeprazole sulfone	12.0	hr	116.682816	159.77402	43.091204	86.182408	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole sulfone	plasma	PM_OME20_omeprazole sulfone	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole sulfone	plasma	PM_OME20_omeprazole sulfone	1.0	hr	11.192053	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole sulfone	plasma	PM_OME20_omeprazole sulfone	2.0	hr	90.23907	182.04854	91.80947	159.018666655971	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole sulfone	plasma	PM_OME20_omeprazole sulfone	3.0	hr	118.78252	220.19633	101.41381	175.653871509137	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole sulfone	plasma	PM_OME20_omeprazole sulfone	4.0	hr	227.81635	305.66684	77.85049	134.841004074133	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole sulfone	plasma	PM_OME20_omeprazole sulfone	6.0	hr	308.5732	344.1029	35.5297	61.5392455776799	ng/ml	NA
+Kita2002	PM	3.0	OME20	concentration	omeprazole sulfone	plasma	PM_OME20_omeprazole sulfone	12.0	hr	265.16357	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole sulfone	plasma	PM_OME40_omeprazole sulfone	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole sulfone	plasma	PM_OME40_omeprazole sulfone	1.0	hr	148.50974	301.7288	153.21906	265.383196607944	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole sulfone	plasma	PM_OME40_omeprazole sulfone	2.0	hr	289.1087	409.3379	120.2292	208.24308295336	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole sulfone	plasma	PM_OME40_omeprazole sulfone	3.0	hr	467.60007	602.1605	134.56043	233.065501448315	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole sulfone	plasma	PM_OME40_omeprazole sulfone	4.0	hr	559.2704	687.6415	128.3711	222.345267423505	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole sulfone	plasma	PM_OME40_omeprazole sulfone	6.0	hr	542.17163	640.82227	98.65064	170.867920679187	ng/ml	NA
+Kita2002	PM	3.0	OME40	concentration	omeprazole sulfone	plasma	PM_OME40_omeprazole sulfone	12.0	hr	402.48297	471.92667	69.4437	120.280016665571	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole sulfone	plasma	PM_OME80_omeprazole sulfone	0.0	hr	0.0	NA	NA	NA	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole sulfone	plasma	PM_OME80_omeprazole sulfone	1.0	hr	258.99036	503.76456	244.7742	423.961350782026	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole sulfone	plasma	PM_OME80_omeprazole sulfone	2.0	hr	514.8102	766.0381	251.2279	435.139487078833	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole sulfone	plasma	PM_OME80_omeprazole sulfone	3.0	hr	751.6882	1042.5133	290.8251	503.7238493163	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole sulfone	plasma	PM_OME80_omeprazole sulfone	4.0	hr	895.4611	1189.5464	294.0853	509.370681359135	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole sulfone	plasma	PM_OME80_omeprazole sulfone	6.0	hr	980.9479	1267.4342	286.4863	496.20882727242	ng/ml	NA
+Kita2002	PM	3.0	OME80	concentration	omeprazole sulfone	plasma	PM_OME80_omeprazole sulfone	12.0	hr	754.44507	945.44214	190.99707	330.816629336789	ng/ml	NA

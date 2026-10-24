@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	unit	comments
+Kita2001	EM_IM	3.0	PLACEBO	pH	NA	stomach	24.0	hr	2.4	0.4	dimensionless	NA
+Kita2001	EM_IM	3.0	PLACEBO	pH	NA	stomach	24.0	hr	7.2	5.4	percent	pH>4
+Kita2001	EM_IM	3.0	PLACEBO	pH	NA	stomach	24.0	hr	0.9	1.1	percent	pH<6
+Kita2001	PM	3.0	PLACEBO	pH	NA	stomach	24.0	hr	2.4	0.6	dimensionless	NA
+Kita2001	PM	3.0	PLACEBO	pH	NA	stomach	24.0	hr	8.3	2.4	percent	pH>4
+Kita2001	PM	3.0	PLACEBO	pH	NA	stomach	24.0	hr	2.3	2.5	percent	pH<6
+Kita2001	EM_IM	3.0	OME20	pH	NA	stomach	24.0	hr	3.4	0.8	dimensionless	NA
+Kita2001	EM_IM	3.0	OME20	pH	NA	stomach	24.0	hr	36.7	10.8	percent	pH>4
+Kita2001	EM_IM	3.0	OME20	pH	NA	stomach	24.0	hr	8.0	7.8	percent	pH<6
+Kita2001	PM	3.0	OME20	pH	NA	stomach	24.0	hr	5.1	0.5	dimensionless	NA
+Kita2001	PM	3.0	OME20	pH	NA	stomach	24.0	hr	72.3	2.9	percent	pH>4
+Kita2001	PM	3.0	OME20	pH	NA	stomach	24.0	hr	36.0	18.4	percent	pH<6

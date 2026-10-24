@@ -1,0 +1,17 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	mean_unit	count_unit
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	-3.665471e-05	hr	0.0			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	0.362173	hr	0.00031887412858697914			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	0.6820831	hr	0.0005861281758806771			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	0.96579057	hr	0.0005677058387567454			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	1.4809604	hr	0.0005905341674965837			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	2.0066621	hr	0.0005192791879936076			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	2.5047386	hr	0.00043082066262130293			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	2.9752629	hr	0.00032745312898070726			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	3.486914	hr	0.00024013880075039948			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	3.9861267	hr	0.0001872471454709683			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	4.958283	hr	0.00010671109618546911			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	6.0125456	hr	5.369208143224401e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	6.986461	hr	2.822738089723695e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	7.9878926	hr	1.652430402760729e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	9.964119	hr	6.8922024457465775e-06			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_MULTIPLE	concentration	omeprazole	plasma	OMEX20_MULTIPLE	11.940529	hr	2.996699921254371e-06			mole/meter^3	dimensionless

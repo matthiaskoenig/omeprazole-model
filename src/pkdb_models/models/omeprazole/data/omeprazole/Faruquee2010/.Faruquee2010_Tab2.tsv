@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	unit	comments
+Faruquee2010	all	6.0	OME20	tmax	omeprazole	urine	NA	NA	6.83	11.39	hr	NA
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole	urine	48.0	hr	8.23	3.32	mg	NA
+Faruquee2010	all	6.0	OME20	recovery	omeprazole	urine	48.0	hr	41.15	16.59	percent	fe/f = recovery
+Faruquee2010	all	6.0	OME20	kel	omeprazole	urine	NA	NA	0.0407	0.0194	1/hr	NA
+Faruquee2010	all	6.0	OME20	thalf	omeprazole	urine	NA	NA	21.303	12.815	hr	NA
+Faruquee2010	all	6.0	OME20, LEVO500	tmax	omeprazole	urine	NA	NA	6.33	3.14	hr	NA
+Faruquee2010	all	6.0	OME20, LEVO500	cumulative amount	omeprazole	urine	48.0	hr	7.66	3.88	mg	NA
+Faruquee2010	all	6.0	OME20, LEVO500	recovery	omeprazole	urine	48.0	hr	38.29	19.41	percent	fe/f = recovery
+Faruquee2010	all	6.0	OME20, LEVO500	kel	omeprazole	urine	NA	NA	0.06031	0.0566	1/hr	NA
+Faruquee2010	all	6.0	OME20, LEVO500	thalf	omeprazole	urine	NA	NA	17.6	9.62	hr	NA

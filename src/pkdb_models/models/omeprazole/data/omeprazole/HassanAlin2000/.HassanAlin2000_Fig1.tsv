@@ -1,0 +1,62 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	unit	comments
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	0.02143278	hr	0.0	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	0.10812364	hr	0.8637922	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	0.19434737	hr	1.3272574	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	0.2806985	hr	1.8960783	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	0.3524327	hr	2.1839674	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	0.50987256	hr	2.5068746	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	0.74420625	hr	1.4811357	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	1.0078418	hr	1.0734508	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	1.5141472	hr	0.63036317	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	2.0134838	hr	0.32775825	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	2.998398	hr	0.15101206	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	4.011994	hr	0.07958823	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	5.011347	hr	0.036275987	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_IV	concentration	S-omeprazole	plasma	IV20_FIRST	6.032158	hr	0.028057273	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.0214073	hr	0.0	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.10819159	hr	0.91998196	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.17305048	hr	1.4256146	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.25223753	hr	1.9733727	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.32397175	hr	2.2612617	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.53875816	hr	2.7807662	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.77328724	hr	1.9165729	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.98693556	hr	1.494899	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	1.5074162	hr	0.96751004	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	2.0210896	hr	0.71405447	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	3.0200686	hr	0.3616986	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	4.0264664	hr	0.24111708	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	5.0328727	hr	0.12755927	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	6.046486	hr	0.07018288	µM	NA
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	7.0387087	hr	0.033902712	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.028571378	hr	0.0	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.1744179	hr	2.5564334	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.3477062	hr	4.178712	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.5137455	hr	5.7096906	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	0.7473912	hr	4.115031	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	1.0031322	hr	3.082243	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	1.5157778	hr	1.9789174	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	2.0359867	hr	1.2267693	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	2.506684	hr	0.85396063	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	3.0275128	hr	0.61454415	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	4.0051527	hr	0.3254268	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	5.018621	hr	0.14864714	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	6.025104	hr	0.09830283	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	7.024431	hr	0.033919428	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_IV	concentration	S-omeprazole	plasma	IV40_FIRST	8.002428	hr	0.039798293	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	0.007113118	hr	0.0	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	0.15384294	hr	3.2518067	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	0.3633508	hr	5.309514	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	0.5438117	hr	6.9598794	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	0.77758485	hr	5.4705753	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	1.0120969	hr	4.5923343	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	1.5245131	hr	3.2993684	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	2.0232809	hr	2.526174	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	2.5223286	hr	1.9847628	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	3.0357895	hr	1.5557142	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	4.041644	hr	0.98561466	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	5.0191646	hr	0.5981652	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	6.046851	hr	0.3722028	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	6.996089	hr	0.20954585	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	7.9954333	hr	0.15920988	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	10.051256	hr	0.079542264	µM	NA
+HassanAlin2000	studyB	16.0	SOME40_PO_MULTI, SOME40_IV	concentration	S-omeprazole	plasma	IV40_SECOND	12.000068	hr	0.056189757	µM	NA

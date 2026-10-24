@@ -1,0 +1,7 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	unit	comments
+Park2017	PM	8.0	OME20_SINGLE	auc_end	omeprazole	plasma	12.0	hr	3651.57	878.13	µg*hr/l	NA
+Park2017	IM	6.0	OME20_SINGLE	auc_end	omeprazole	plasma	12.0	hr	972.53	602.87	µg*hr/l	NA
+Park2017	EM	8.0	OME20_SINGLE	auc_end	omeprazole	plasma	12.0	hr	713.49	555.56	µg*hr/l	NA
+Park2017	PM	8.0	OME20_MULTI	auc_end	omeprazole	plasma	12.0	hr	3668.83	929.29	µg*hr/l	NA
+Park2017	IM	6.0	OME20_MULTI	auc_end	omeprazole	plasma	12.0	hr	2087.18	1045.6	µg*hr/l	NA
+Park2017	EM	8.0	OME20_MULTI	auc_end	omeprazole	plasma	12.0	hr	1715.39	1199.15	µg*hr/l	NA

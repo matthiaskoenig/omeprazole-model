@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.08361777	hr	1133.1069	306.85	1062.95958060502		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.18226714	hr	2754.7456				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.33009726	hr	2966.4685	515.05	1784.1855368767		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.49190703	hr	2193.233	369.71	1280.71300813258		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	0.6652659	hr	1596.7506	425.8	1475.01446772566		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	1.0001799	hr	1029.3297	205.07	710.383318216299		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	1.4983598	hr	681.9552	146.49	507.45624560153		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole	plasma	OME40_PO_omeprazole	2.0023918	hr	424.39896	105.01	363.765310605616		nmol/l	dimensionless

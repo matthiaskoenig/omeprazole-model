@@ -1,0 +1,9 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Regaardh1986	renal12	12.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_renal	0.08	hr	1103.4167	956.65735	146.75935	508.389301371567		nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_renal	0.18168993	hr	2618.9849	2212.0813	406.9036	1409.55541796537		nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_renal	0.31878057	hr	2836.6506	2396.2637	440.3869	1525.54497157551		nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_renal	0.49129614	hr	2096.5273	1771.085	325.4423	1127.36519706415		nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_renal	0.66223973	hr	1509.7926	1267.212	242.5806	840.323848261086		nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_renal	0.9943516	hr	988.7822	793.05597	195.72623	678.015549467824		nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_renal	1.4923536	hr	632.51013	534.3385	98.17163	340.076502043706		nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_po40	omeprazole	plasma	HPLC	po40_renal	1.9824096	hr	391.65076	300.19516	91.4556	316.811491673392		nmol/l	dimensionless

@@ -1,0 +1,8 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	0.0	hr	0.0					mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	1.0	hr	0.0002092537000401201	92.60586	4.697766833141956e-05	8.136770837113816e-05		mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	2.0	hr	0.00021714968941521521	91.28294	3.5421288546407876e-05	6.135147143193586e-05		mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	3.0	hr	0.00028710153148043106	114.83673	3.0640482547763654e-05	5.307087254115408e-05		mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	4.0	hr	0.0002906643609147379					mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	6.0	hr	0.000205700510493477					mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME40	concentration	5-hydroxyomeprazole	plasma	PM_OME40_5-hydroxyomeprazole	12.0	hr	5.1468450396358754e-05					mole/meter^3	dimensionless

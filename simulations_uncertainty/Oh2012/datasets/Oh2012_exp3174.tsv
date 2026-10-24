@@ -1,0 +1,15 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit	count_unit
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	0.0	hr		0.0					ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	0.25	hr		0.04165295	0.17612983	0.13447688	0.0372971758618783		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	0.5	hr		0.01506252	0.18987554	0.17481302	0.0484844082483625		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	0.75	hr		0.06914436	0.17668428	0.10753992	0.0298262073630227		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	1.0	hr		0.15009385	0.29803923	0.14794538	0.041032665658308		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	1.5	hr		0.54058737	0.82298654	0.28239917	0.0783234375064209		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	2.0	hr		1.0520893	0.56807876	0.48401054	0.13424037075654		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	3.0	hr		2.3708453	3.2717087	0.9008634	0.249854552376064		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	4.0	hr		4.0526495	5.7467904	1.6941409	0.469870144831593		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	5.0	hr		5.452078	7.307586	1.855508	0.514625325848741		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	6.0	hr		5.547304	7.4700165	1.9227125	0.53326450051735		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	8.0	hr		5.899148	7.5529294	1.6537814	0.458676433546817		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	10.0	hr		5.188784	6.277906	1.089122	0.302068093556607		ng/ml	ng/ml	dimensionless
+Oh2012		all	13.0	Dcaf, Dlos, Dome, Ddex, Dmid	concentration	exp3174	plasma	LC MS/MS	exp3174	12.0	hr		4.101949	5.3523927	1.2504437	0.346810682879301		ng/ml	ng/ml	dimensionless

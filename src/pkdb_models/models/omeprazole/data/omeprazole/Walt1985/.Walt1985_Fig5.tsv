@@ -1,0 +1,13 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	se	sd	unit
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	0.06349207	hr	6055.122	7632.7593	1577.6373	3527.70424663923	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	0.14285715	hr	11820.224	13101.422	1281.198	2864.84582063678	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	0.3015873	hr	8460.077	9257.217	797.140000000001	1782.45922758419	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	0.5873016	hr	6212.925	6625.6587	412.7337	922.900609805004	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	0.82539684	hr	3762.0017	4169.7666	407.7649	911.790035238404	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	1.1587301	hr	2624.1848	2908.621	284.4362	636.018678461726	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	1.5873016	hr	1651.4944	1977.3766	325.8822	728.694751857182	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	2.1111112	hr	937.7067	1166.9147	229.208	512.524668986772	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	3.1587303	hr	575.1439	715.729	140.5851	314.357840223606	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	3.8412697	hr	330.79053	492.87573	162.0852	362.433525346649	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	5.095238	hr	147.09496	190.25217	43.15721	96.5024552792337	nmol/l
+Walt1985	all	5	concentration	D_OME_iv_80	omeprazole	plasma	NR	Omeprazole_iv	6.126984	hr	115.20001	132.71042	17.51041	39.1544670738921	nmol/l

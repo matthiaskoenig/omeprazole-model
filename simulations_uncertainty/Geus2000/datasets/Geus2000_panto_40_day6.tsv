@@ -1,0 +1,16 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	median	comments	median_unit	count_unit
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	0.0	hr	1.5605151469532387e-08	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	0.49706095	hr	7.5580951664080405e-06	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	0.76503885	hr	0.0003107922041827825	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	1.0440227	hr	0.0044865640271440806	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	1.5348771	hr	0.003858633937049818	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	2.0458484	hr	0.0023081215983046526	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	2.5172787	hr	0.0013143178080922712	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	3.0145965	hr	0.0008295542186812423	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	3.518219	hr	0.0007822342624545474	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	4.0021996	hr	0.0007746657363874285	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	5.0030284	hr	0.00044937116404567245	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	6.003789	hr	0.00025133136565764174	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	7.017583	hr	0.00014078967100539637	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	7.992101	hr	9.384418208768555e-05	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	PAN40	concentration	pantoprazole	plasma	panto_40_day6	9.012402	hr	4.6935092757718224e-05	median concentration	mole/meter^3	dimensionless

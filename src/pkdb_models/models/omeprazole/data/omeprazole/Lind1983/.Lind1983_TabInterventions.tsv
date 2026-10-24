@@ -1,0 +1,8 @@
+study	name	measurement_type	substance	value	route	form	time	time_end	time_unit	application	unit	comments
+Lind1983	PENTA_1	dosing	pentagastrin	30	iv	solution	-1	0.0	hr	constant infusion	microg/hr	Peptavlon
+Lind1983	D_OME_po_20	dosing	omeprazole	20	oral	solution	0	NA	hr	single dose	mg	suspended in a 50 ml water-Methocel solution containing 8 mmole NaHCO3
+Lind1983	D_OME_po_40	dosing	omeprazole	40	oral	solution	0	NA	hr	single dose	mg	suspended in a 50 ml water-Methocel solution
+Lind1983	D_OME_po_60	dosing	omeprazole	60	oral	solution	0	NA	hr	single dose	mg	suspended in a 50 ml water-Methocel solution containing 8 mmole NaHCO3
+Lind1983	D_OME_po_80	dosing	omeprazole	80	oral	solution	0	NA	hr	single dose	mg	suspended in a 50 ml water-Methocel solution containing 8 mmole NaHCO3
+Lind1983	PLACEBO	dosing	omeprazole	20	oral	NR	0	NA	hr	single dose	mg	NA
+Lind1983	D_OME_po_15	dosing	omeprazole	15	oral	solution	0	NA	hr	single dose	mg	suspended in a 50 ml water-Methocel solution containing 8 mmole NaHCO3

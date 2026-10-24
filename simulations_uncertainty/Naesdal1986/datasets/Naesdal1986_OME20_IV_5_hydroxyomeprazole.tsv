@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Naesdal1986	all	12.0	OME20_IV	concentration	5-hydroxyomeprazole	plasma	OME20_IV_5-hydroxyomeprazole	0.0864659171333333	hr	271.76495			se non-distinguishable 	nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	5-hydroxyomeprazole	plasma	OME20_IV_5-hydroxyomeprazole	0.1884972633333333	hr	702.4455			se non-distinguishable 	nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	5-hydroxyomeprazole	plasma	OME20_IV_5-hydroxyomeprazole	0.3320643533333333	hr	680.7763			se non-distinguishable 	nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	5-hydroxyomeprazole	plasma	OME20_IV_5-hydroxyomeprazole	0.5012064733333333	hr	634.044			se non-distinguishable 	nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	5-hydroxyomeprazole	plasma	OME20_IV_5-hydroxyomeprazole	0.6683955333333333	hr	558.44635			se non-distinguishable 	nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	5-hydroxyomeprazole	plasma	OME20_IV_5-hydroxyomeprazole	1.0047016333333334	hr	508.15158			se non-distinguishable 	nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	5-hydroxyomeprazole	plasma	OME20_IV_5-hydroxyomeprazole	1.5121395333333332	hr	391.33878			se non-distinguishable 	nmol/l	dimensionless
+Naesdal1986	all	12.0	OME20_IV	concentration	5-hydroxyomeprazole	plasma	OME20_IV_5-hydroxyomeprazole	2.0176089333333334	hr	303.7899			se non-distinguishable 	nmol/l	dimensionless

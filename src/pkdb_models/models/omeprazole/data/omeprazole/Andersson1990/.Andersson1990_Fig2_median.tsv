@@ -1,0 +1,21 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	median	unit	comments
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	3.8711364	min	167.40495	nM	concentration scale is logarithmic!!
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	8.823489	min	521.36523	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	8.307564	min	642.2339	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	19.069828	min	750.6192	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	29.532965	min	651.8205	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	29.251476	min	575.1846	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	41.550827	min	324.0478	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	58.97388	min	220.19794	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	87.91064	min	102.76561	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D1	118.189064	min	47.213825	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	5.3018866	min	110.073654	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	11.585158	min	749.8365	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	16.776777	min	1174.1714	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	21.573435	min	959.8456	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	25.02382	min	772.6656	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	32.003788	min	752.613	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	47.01427	min	630.85046	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	61.46339	min	467.22473	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	91.67382	min	218.3872	nM	NA
+Andersson1990	all	10.0	OME20_PO	concentration	omeprazole	plasma	F2_OME20PO_MEDIAN_D8	120.540985	min	102.08698	nM	NA

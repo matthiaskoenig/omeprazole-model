@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	0.0	hr	0.0					percent	dimensionless
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	2.0	hr	6.147541	1.02	5.127541	2.0933098475333667		percent	dimensionless
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	4.0	hr	10.245902	2.55	7.695902	3.141838835077425		percent	dimensionless
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	8.0	hr	13.831967	6.63	7.201967	2.9401907157271565		percent	dimensionless
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	12.0	hr	18.75	7.14	11.61	4.7397626522854495		percent	dimensionless
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	24.0	hr	24.692623	10.91	13.782623	5.626732277857919		percent	dimensionless
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	36.0	hr	34.52869	22.45	12.07869	4.931104543542958		percent	dimensionless
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	48.0	hr	41.393444	25.2	16.193444	6.6109458297223		percent	dimensionless

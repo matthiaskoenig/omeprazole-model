@@ -1,0 +1,33 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	sd	pm	se	unit	comments
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	LEVO_recovery	0.0	hr	0.0	NA	NA	NA	percent	NA
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	LEVO_recovery	1.0	hr	10.970588	6.3	7.657956	2.57196422992234	percent	NA
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	LEVO_recovery	3.0	hr	23.181356	18.7	13.554021	7.63424303167424	percent	NA
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	LEVO_recovery	6.0	hr	54.230278	27.3	40.25537	11.1451783296635	percent	NA
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	LEVO_recovery	10.004876	hr	66.22964	27.3	52.87553	11.1451783296635	percent	NA
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	LEVO_recovery	18.0	hr	84.01654	19.9	74.28588	8.12414098023088	percent	NA
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	LEVO_recovery	30.0	hr	88.75103	17.9	80.15882	7.30764439930315	percent	NA
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	LEVO_recovery	42.0	hr	91.10443	18.3	82.09795	7.47094371548869	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	LEVO_OME_recovery	0.0	hr	0.0	NA	NA	NA	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	LEVO_OME_recovery	1.0	hr	12.62716	8.1	7.968515	3.30681115275729	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	LEVO_OME_recovery	3.0	hr	27.529379	12.3	21.317808	5.02145397270552	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	LEVO_OME_recovery	6.0	hr	44.3959	12.6	37.770576	5.14392845984467	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	LEVO_OME_recovery	10.004876	hr	58.362206	15.9	50.287666	6.49114781837542	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	LEVO_OME_recovery	18.0	hr	79.46174	17.6	70.04131	7.18516991216399	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	LEVO_OME_recovery	30.0	hr	87.81935	16.6	79.02011	6.77692162170013	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	LEVO_OME_recovery	42.0	hr	90.69003	18.5	81.1666	7.55259337358147	percent	NA
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	LEVO_cum_amount	0.0	hr	0.0	NA	NA	NA	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	LEVO_cum_amount	1.0	hr	54.85294	31.5	38.28978	12.8598211496117	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	LEVO_cum_amount	3.0	hr	115.90678	93.5	67.770105	38.1712151583712	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	LEVO_cum_amount	6.0	hr	271.15139	136.5	201.27685	55.7258916483173	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	LEVO_cum_amount	10.004876	hr	331.1482	136.5	264.37765	55.7258916483173	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	LEVO_cum_amount	18.0	hr	420.0827	99.5	371.4294	40.6207049011544	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	LEVO_cum_amount	30.0	hr	443.75515	89.5	400.7941	36.5382219965157	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	LEVO_cum_amount	42.0	hr	455.52215	91.5	410.48975	37.3547185774435	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	LEVO_OME_cum_amount	0.0	hr	0.0	NA	NA	NA	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	LEVO_OME_cum_amount	1.0	hr	63.1358	40.5	39.842575	16.5340557637865	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	LEVO_OME_cum_amount	3.0	hr	137.646895	61.5	106.58904	25.1072698635276	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	LEVO_OME_cum_amount	6.0	hr	221.9795	63.0	188.85288	25.7196422992234	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	LEVO_OME_cum_amount	10.004876	hr	291.81103	79.5	251.43833	32.4557390918771	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	LEVO_OME_cum_amount	18.0	hr	397.3087	88.0	350.20655	35.92584956082	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	LEVO_OME_cum_amount	30.0	hr	439.09675	83.0	395.10055	33.8846081085006	mg	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	LEVO_OME_cum_amount	42.0	hr	453.45015	92.5	405.833	37.7629668679073	mg	Amount calculated from recovery

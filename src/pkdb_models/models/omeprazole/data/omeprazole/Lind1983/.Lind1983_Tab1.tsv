@@ -1,0 +1,11 @@
+study	group	measurement_type	interventions	substance	tissue	method	mean_reported	mean	time	time_unit	se	sd	unit
+Lind1983	group1	secretion rate	PLACEBO	acid	plasma	HPLC	7.1	0.473333333333333	NA	min	0.34	NA	mmol/min
+Lind1983	group1	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	6.4	0.426666666666667	NA	min	0.51	NA	mmol/min
+Lind1983	group1	secretion rate	D_OME_po_20	acid	plasma	HPLC	7.6	0.506666666666667	NA	min	0.78	NA	mmol/min
+Lind1983	group1	secretion rate	D_OME_po_20, PENTA_1	acid	plasma	HPLC	4.3	0.286666666666667	NA	min	0.67	NA	mmol/min
+Lind1983	group1	secretion rate	D_OME_po_40	acid	plasma	HPLC	6.6	0.44	NA	min	0.74	NA	mmol/min
+Lind1983	group1	secretion rate	D_OME_po_40, PENTA_1	acid	plasma	HPLC	2.1	0.14	NA	min	0.77	NA	mmol/min
+Lind1983	group1	secretion rate	D_OME_po_60	acid	plasma	HPLC	7.4	0.493333333333333	NA	min	0.78	NA	mmol/min
+Lind1983	group1	secretion rate	D_OME_po_60, PENTA_1	acid	plasma	HPLC	0.57	0.038	NA	min	0.3	NA	mmol/min
+Lind1983	group1	secretion rate	D_OME_po_80	acid	plasma	HPLC	6.8	0.453333333333333	NA	min	0.48	NA	mmol/min
+Lind1983	group1	secretion rate	D_OME_po_80, PENTA_1	acid	plasma	HPLC	0.06	0.004	NA	min	0.02	NA	mmol/min

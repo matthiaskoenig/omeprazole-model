@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	tissue	substance	time	time_unit	mean	sd	se	min	max	unit	comments
+Elkoshi2002	all	40	OMEX20_MULTIPLE	auc_inf	plasma	omeprazole	24.0	hr	688.0	514.0	NA	53.0	2317.0	µg*hr/l	NA
+Elkoshi2002	all	40	OMEX20_MULTIPLE	cmax	plasma	omeprazole	NA	NA	325.0	172.0	NA	42.0	770.0	µg/l	NA
+Elkoshi2002	all	40	OMEX20_MULTIPLE	tmax	plasma	omeprazole	NA	NA	1.13	0.69	NA	0.33	3.0	hr	NA
+Elkoshi2002	all	40	OMEX20_MULTIPLE	kel	plasma	omeprazole	NA	NA	0.82	0.3	NA	0.27	1.49	1/hr	NA
+Elkoshi2002	all	40	LOS20_MULTIPLE	auc_inf	plasma	omeprazole	24.0	hr	865.0	629.0	NA	203.0	2853.0	µg*hr/l	NA
+Elkoshi2002	all	40	LOS20_MULTIPLE	cmax	plasma	omeprazole	NA	NA	421.0	182.0	NA	139.0	912.0	µg/l	NA
+Elkoshi2002	all	40	LOS20_MULTIPLE	tmax	plasma	omeprazole	NA	NA	1.82	0.84	NA	0.67	4.0	hr	NA
+Elkoshi2002	all	40	LOS20_MULTIPLE	kel	plasma	omeprazole	NA	NA	0.89	0.33	NA	0.28	1.97	1/hr	NA

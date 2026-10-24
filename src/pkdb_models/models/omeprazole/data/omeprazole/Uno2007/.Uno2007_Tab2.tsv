@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	se	min	max	cilow	ciup	unit	comments
+Uno2007	EM	14.0	OME20IV	cmax	5-hydroxyomeprazole	plasma	NA	NA	188.0	114.540532248182	NA	NA	NA	128.0	248.0	ng/ml	NA
+Uno2007	EM	14.0	OME20IV	auc_inf	5-hydroxyomeprazole	plasma	NA	NA	440.0	280.624304008046	NA	NA	NA	293.0	587.0	ng*hr/ml	NA
+Uno2007	EM	14.0	OME40PO	cmax	5-hydroxyomeprazole	plasma	NA	NA	254.0	85.9053991861364	NA	NA	NA	209.0	299.0	ng/ml	NA
+Uno2007	EM	14.0	OME40PO	auc_inf	5-hydroxyomeprazole	plasma	NA	NA	656.0	251.034666510599	NA	NA	NA	524.0	787.0	ng*hr/ml	NA
+Uno2007	IM	14.0	OME20IV	cmax	5-hydroxyomeprazole	plasma	NA	NA	195.0	94.4959391047501	NA	NA	NA	145.0	244.0	ng/ml	NA
+Uno2007	IM	14.0	OME20IV	auc_inf	5-hydroxyomeprazole	plasma	NA	NA	427.0	113.58602781278	NA	NA	NA	362.0	481.0	ng*hr/ml	NA
+Uno2007	IM	14.0	OME40PO	cmax	5-hydroxyomeprazole	plasma	NA	NA	234.0	104.995487894167	NA	NA	NA	179.0	289.0	ng/ml	NA
+Uno2007	IM	14.0	OME40PO	auc_inf	5-hydroxyomeprazole	plasma	NA	NA	706.0	220.49052457775	NA	NA	NA	591.0	822.0	ng*hr/ml	NA
+Uno2007	PM	6.0	OME20IV	cmax	5-hydroxyomeprazole	plasma	NA	NA	35.0	5.62382849108383	NA	NA	NA	31.0	40.0	ng/ml	NA
+Uno2007	PM	6.0	OME20IV	auc_inf	5-hydroxyomeprazole	plasma	NA	NA	154.0	49.9895865874118	NA	NA	NA	114.0	194.0	ng*hr/ml	NA
+Uno2007	PM	6.0	OME40PO	cmax	5-hydroxyomeprazole	plasma	NA	NA	76.0	12.497396646853	NA	NA	NA	66.0	86.0	ng/ml	NA
+Uno2007	PM	6.0	OME40PO	auc_inf	5-hydroxyomeprazole	plasma	NA	NA	364.0	84.9822971986001	NA	NA	NA	296.0	432.0	ng*hr/ml	NA

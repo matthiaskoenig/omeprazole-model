@@ -1,0 +1,16 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	mean_unit	count_unit
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	0.37287372	hr	0.00029767416680176944			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	0.7134987	hr	0.00045438170206359857			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	1.0352925	hr	0.0005003772842022372			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	1.5075963	hr	0.0004149888829700997			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	2.0274172	hr	0.0003591590719596081			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	2.5241501	hr	0.00029852114551728924			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	3.020652	hr	0.00023444491859091643			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	3.5185418	hr	0.00019099876670449541			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	3.936712	hr	0.0001468844813210737			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	5.024426	hr	7.303551080436341e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	6.0352893	hr	4.1153933228339153e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	6.9902143	hr	2.372738668735669e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	8.014217	hr	1.7974445306528937e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	9.994071	hr	8.548344604766426e-06			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	OMEX20_SINGLE	concentration	omeprazole	plasma	OMEX20_SINGLE	11.9857235	hr	5.308471524191119e-06			mole/meter^3	dimensionless

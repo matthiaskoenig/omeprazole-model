@@ -1,0 +1,7 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	unit	comments
+Park2017	PM	8.0	OME20_SINGLE	pH change	omeprazole	stomach	NA	NA	2.84	0.48	dimensionless	NA
+Park2017	IM	8.0	OME20_SINGLE	pH change	omeprazole	stomach	NA	NA	0.78	0.7	dimensionless	NA
+Park2017	EM	8.0	OME20_SINGLE	pH change	omeprazole	stomach	NA	NA	0.71	0.78	dimensionless	NA
+Park2017	PM	8.0	OME20_MULTI	pH change	omeprazole	stomach	NA	NA	3.45	0.72	dimensionless	NA
+Park2017	IM	8.0	OME20_MULTI	pH change	omeprazole	stomach	NA	NA	2.19	0.74	dimensionless	NA
+Park2017	EM	8.0	OME20_MULTI	pH change	omeprazole	stomach	NA	NA	1.81	1.02	dimensionless	NA

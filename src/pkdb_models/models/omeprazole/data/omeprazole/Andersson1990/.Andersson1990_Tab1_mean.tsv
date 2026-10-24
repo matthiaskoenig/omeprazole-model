@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	geomean	min	max	unit	comments
+Andersson1990	all	10.0	OME20_IV	auc_end	omeprazole	plasma	24.0	hr	NA	11.68	NA	NA	nmol/l*hr	First day
+Andersson1990	all	10.0	OME20_IV	thalf	omeprazole	plasma	NA	NA	NA	0.5	NA	NA	hr	First day
+Andersson1990	all	10.0	OME20_IV	clearance	omeprazole	plasma	NA	NA	529.0	NA	NA	NA	ml/min	First day
+Andersson1990	all	10.0	OME20_IV	auc_end	omeprazole	plasma	24.0	hr	NA	12.86	NA	NA	nmol/l*hr	Last day
+Andersson1990	all	10.0	OME20_IV	thalf	omeprazole	plasma	NA	NA	NA	0.52	NA	NA	hr	Last day
+Andersson1990	all	10.0	OME20_IV	clearance	omeprazole	plasma	NA	NA	488.0	NA	NA	NA	ml/min	Last day
+Andersson1990	all	10.0	OME20_IV	auc_end	omeprazole	plasma	24.0	hr	NA	NA	7.08	37.81	nmol/l*hr	First day
+Andersson1990	all	10.0	OME20_IV	thalf	omeprazole	plasma	NA	NA	NA	NA	0.32	1.53	hr	First day
+Andersson1990	all	10.0	OME20_IV	clearance	omeprazole	plasma	NA	NA	NA	NA	148.0	792.0	ml/min	First day
+Andersson1990	all	10.0	OME20_IV	auc_end	omeprazole	plasma	24.0	hr	NA	NA	7.35	42.66	nmol/l*hr	Last day
+Andersson1990	all	10.0	OME20_IV	thalf	omeprazole	plasma	NA	NA	NA	NA	0.32	1.67	hr	Last day
+Andersson1990	all	10.0	OME20_IV	clearance	omeprazole	plasma	NA	NA	NA	NA	131.0	758.0	ml/min	Last day

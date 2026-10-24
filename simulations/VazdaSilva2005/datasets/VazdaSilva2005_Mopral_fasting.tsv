@@ -1,0 +1,15 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	0.0	hr	0.0					mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	0.333333333333333	hr	1.0180153785580284e-05					mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	0.666666666666667	hr	0.0005504458681705538	146.70847	0.00012571606410820575	0.0006029130632369345		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	1.0	hr	0.0014680276246612778	425.15826	0.0002371690078050814	0.00113742260398441		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	1.5	hr	0.0015143795886698936	451.3384	0.0002077278991129539	0.0009962280068374278		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	2.0	hr	0.0014986520601246033	449.47244	0.0001974024364823864	0.0009467088276609653		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	2.5	hr	0.001172526287143618	334.90625	0.00020295264261064916	0.0009733266811717725		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	3.0	hr	0.0009180517694605924	258.828	0.00016872921347013483	0.0008091968808638338		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	4.0	hr	0.0005451585624290709	146.24463	0.00012177160293674872	0.0005839960920083782		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	5.0	hr	0.0003322817124858142	86.454445	8.19909181971883e-05	0.0003932146301154289		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	6.0	hr	0.00021246139727169557	52.501343	6.0466866039789694e-05	0.00028998890226955034		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	8.0	hr	0.0001066146617412048	21.423973	4.459097725640966e-05	0.00021385081438160994		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	10.0	hr	6.0438891076267453e-05					mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fasting	12.0	hr	4.056954802325311e-05					mole/meter^3	dimensionless

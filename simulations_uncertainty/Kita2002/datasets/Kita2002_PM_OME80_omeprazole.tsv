@@ -1,0 +1,8 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	0.0	hr	0.0					mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	1.0	hr	0.011727461379901338	8049.6807	0.011576846179678997	0.020051685774613685		mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	2.0	hr	0.014098492831831766	6813.0225	0.005625615200222341	0.009743851350616851		mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	3.0	hr	0.01238378361164509	5054.8345	0.002250264897978091	0.0038975731337868545		mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	4.0	hr	0.011261244991546425	4268.185	0.0010954061189985438	0.001897299053027315		mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	6.0	hr	0.006913658892465897	2428.979	0.0001183807351136013	0.00020504144785411072		mole/meter^3	dimensionless
+Kita2002	PM	3.0	OME80	concentration	omeprazole	plasma	PM_OME80_omeprazole	12.0	hr	0.0013915001621233527					mole/meter^3	dimensionless

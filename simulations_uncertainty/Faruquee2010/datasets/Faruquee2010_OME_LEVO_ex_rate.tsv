@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	omeprazole metabolites	urine	OME_LEVO_ex_rate	0.0	hr	0.0				no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	omeprazole metabolites	urine	OME_LEVO_ex_rate	1.0	hr	1.4717101182985798e-10	0.0032763898	1.4453619387765604e-10	5.90066540607065e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	omeprazole metabolites	urine	OME_LEVO_ex_rate	3.0	hr	2.4467965197520284e-10	0.03891127	2.1338785856924855e-10	8.711522846664039e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	omeprazole metabolites	urine	OME_LEVO_ex_rate	6.0	hr	3.79620676388921e-10	0.08324811	3.1267393680534647e-10	1.2764860017338837e-10	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	omeprazole metabolites	urine	OME_LEVO_ex_rate	10.0	hr	2.279961376684603e-10	0.0387443	1.968386187476357e-10	8.035902960099038e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	omeprazole metabolites	urine	OME_LEVO_ex_rate	18.0	hr	8.239095917836915e-11	0.039638273	5.0514522102817085e-11	2.0622467292074064e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	omeprazole metabolites	urine	OME_LEVO_ex_rate	30.0	hr	9.17416117248638e-11	0.012272656	8.187214675766161e-11	3.3424163950421856e-11	no units in figure	mole/second	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	excretion rate	omeprazole metabolites	urine	OME_LEVO_ex_rate	42.0	hr	7.495986321163788e-11	0.027146023	5.3129484930248365e-11	2.1690021395999478e-11	no units in figure	mole/second	dimensionless

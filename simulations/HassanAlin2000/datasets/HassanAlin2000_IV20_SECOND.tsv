@@ -1,0 +1,16 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.0214073	hr	0.0		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.10819159	hr	0.91998196		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.17305048	hr	1.4256146		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.25223753	hr	1.9733727		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.32397175	hr	2.2612617		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.53875816	hr	2.7807662		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.77328724	hr	1.9165729		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	0.98693556	hr	1.494899		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	1.5074162	hr	0.96751004		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	2.0210896	hr	0.71405447		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	3.0200686	hr	0.3616986		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	4.0264664	hr	0.24111708		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	5.0328727	hr	0.12755927		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	6.046486	hr	0.07018288		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO_MULTI, SOME20_IV	concentration	S-omeprazole	plasma	IV20_SECOND	7.0387087	hr	0.033902712		µM	dimensionless

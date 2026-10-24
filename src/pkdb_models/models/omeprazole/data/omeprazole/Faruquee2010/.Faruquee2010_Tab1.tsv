@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	unit	comments
+Faruquee2010	all	6.0	LEVO500	tmax	levofloxacin	urine	NA	NA	3.67	1.97	hr	NA
+Faruquee2010	all	6.0	LEVO500	cumulative amount	levofloxacin	urine	48.0	hr	455.67	48.89	mg	NA
+Faruquee2010	all	6.0	LEVO500	recovery	levofloxacin	urine	48.0	hr	91.13	9.78	percent	fe/f = recovery
+Faruquee2010	all	6.0	LEVO500	kel	levofloxacin	urine	NA	NA	0.1207	0.0571	1/hr	NA
+Faruquee2010	all	6.0	LEVO500	thalf	levofloxacin	urine	NA	NA	6.53	2.1	hr	NA
+Faruquee2010	all	6.0	LEVO500, OME20	tmax	levofloxacin	urine	NA	NA	2.0	1.1	hr	NA
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	levofloxacin	urine	48.0	hr	454.14	44.3	mg	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	levofloxacin	urine	48.0	hr	90.83	8.86	percent	fe/f = recovery
+Faruquee2010	all	6.0	LEVO500, OME20	kel	levofloxacin	urine	NA	NA	0.0855	0.0123	1/hr	NA
+Faruquee2010	all	6.0	LEVO500, OME20	thalf	levofloxacin	urine	NA	NA	8.232	1.074	hr	NA

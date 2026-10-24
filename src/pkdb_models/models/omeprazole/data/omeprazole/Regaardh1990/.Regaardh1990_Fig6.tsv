@@ -1,0 +1,49 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	sd	unit
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_iv10	2.0	hr	24.079292	14.233051	9.846241	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_iv10	6.0	hr	60.85762	72.23788	11.380260000000007	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_iv10	9.0	hr	64.37278	74.2214	9.848619999999997	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_iv10	12.0	hr	68.32555	74.89089	6.565339999999992	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_iv10	24.0	hr	74.7256	77.79006	3.064459999999997	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_iv10	48.0	hr	77.46186	80.30633	2.844470000000001	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_iv10	72.0	hr	78.6641	81.288574	2.624473999999992	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_iv10	96.0	hr	79.20992	81.83559	2.6256699999999995	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	feces	HPLC	Fig6_recovery_feces_iv10	24.0	hr	8.425196	10.614439	2.189243000000001	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	feces	HPLC	Fig6_recovery_feces_iv10	48.0	hr	14.442344	16.192787	1.7504429999999989	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	feces	HPLC	Fig6_recovery_feces_iv10	72.0	hr	19.366653	NA	NA	percent
+Regaardh1990	all	8.0	recovery	OME_iv10	omeprazole metabolites	feces	HPLC	Fig6_recovery_feces_iv10	96.0	hr	20.346521	NA	NA	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_po20	2.0	hr	40.27089	55.149654	14.878763999999997	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_po20	6.0	hr	58.450764	47.731678	10.719085999999997	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_po20	9.0	hr	63.27994	55.184143	8.095797000000005	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_po20	12.0	hr	66.5751	60.013317	6.5617830000000055	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_po20	24.0	hr	72.09875	69.03666	3.0620899999999978	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_po20	48.0	hr	75.05381	71.98934	3.06447	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_po20	72.0	hr	75.818436	72.53636	3.2820760000000035	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_recovery_urine_po20	96.0	hr	76.80306	73.957405	2.845655000000008	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_recovery_feces_po20	24.0	hr	4.2	NA	NA	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_recovery_feces_po20	48.0	hr	12.9	NA	NA	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_recovery_feces_po20	72.0	hr	17.6	NA	NA	percent
+Regaardh1990	all	8.0	recovery	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_recovery_feces_po20	96.0	hr	18.6	NA	NA	percent
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	2.0	hr	2.4079292	1.4233050999999999	0.9846241	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	6.0	hr	6.085762	7.223788	1.138026	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	9.0	hr	6.437278000000001	7.422140000000001	0.9848619999999997	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	12.0	hr	6.832555	7.489089	0.6565339999999997	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	24.0	hr	7.4725600000000005	7.779005999999999	0.30644599999999844	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	48.0	hr	7.746186000000001	8.030633	0.28444699999999923	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	72.0	hr	7.86641	8.128857400000001	0.262447400000001	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_iv10	96.0	hr	7.920992	8.183558999999999	0.2625669999999989	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_iv10	24.0	hr	0.8425196	1.0614439	0.21892429999999996	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_iv10	48.0	hr	1.4442344	1.6192787	0.17504429999999993	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_iv10	72.0	hr	1.9366653	NA	NA	mg
+Regaardh1990	all	8.0	cumulative amount	OME_iv10	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_iv10	96.0	hr	2.0346520999999997	NA	NA	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_po20	2.0	hr	8.054178	11.0299308	2.9757528000000004	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_po20	6.0	hr	11.6901528	9.546335599999999	2.143817200000001	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_po20	9.0	hr	12.655988	11.0368286	1.619159400000001	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_po20	12.0	hr	13.315020000000002	12.0026634	1.3123566000000029	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_po20	24.0	hr	14.41975	13.807331999999999	0.6124180000000017	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_po20	48.0	hr	15.010762	14.397868	0.6128939999999989	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_po20	72.0	hr	15.1636872	14.507272	0.6564151999999996	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	urine	HPLC	Fig6_amount_urine_po20	96.0	hr	15.360612	14.791481	0.5691310000000005	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_po20	24.0	hr	0.8400000000000001	NA	NA	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_po20	48.0	hr	2.58	NA	NA	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_po20	72.0	hr	3.5200000000000005	NA	NA	mg
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_po20	96.0	hr	3.7200000000000006	NA	NA	mg

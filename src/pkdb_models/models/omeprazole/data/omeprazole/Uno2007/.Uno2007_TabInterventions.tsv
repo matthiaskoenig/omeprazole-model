@@ -1,0 +1,3 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Uno2007	OME20IV	0	hr	iv	single dose	dosing	NR	omeprazole	20	mg	TODO: Add injection as form, set as NR  for uploading
+Uno2007	OME40PO	0	hr	oral	single dose	dosing	tablet	omeprazole	40	mg	NA

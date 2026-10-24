@@ -1,0 +1,11 @@
+study	group	interventions	measurement_type	substance	tissue	method	time	time_unit	mean	sd	se	unit	comment
+VazdaSilva2001	all	OMP20	auc_inf	omeprazole	plasma	HPLC	NA	NA	1474.0	1417.0	NA	microg/l*hr	NA
+VazdaSilva2001	all	OMP20	cmax	omeprazole	plasma	HPLC	NA	NA	630.1	516.7	NA	microg/l	NA
+VazdaSilva2001	all	OMP20	thalf	omeprazole	plasma	HPLC	NA	NA	1.72	0.75	NA	hr	NA
+VazdaSilva2001	all	OMP20	kel	omeprazole	plasma	HPLC	NA	NA	0.4707	0.18	NA	1/hr	Ke of Table 1, the elimination rate constant of plasma (no urine was collected)
+VazdaSilva2001	all	OMP20	tmax	omeprazole	plasma	HPLC	NA	NA	2.25	1.32	NA	hr	NA
+VazdaSilva2001	all	MOP20	auc_inf	omeprazole	plasma	HPLC	NA	NA	1490.0	1276.0	NA	microg/l*hr	NA
+VazdaSilva2001	all	MOP20	cmax	omeprazole	plasma	HPLC	NA	NA	736.7	443.3	NA	microg/l	NA
+VazdaSilva2001	all	MOP20	thalf	omeprazole	plasma	HPLC	NA	NA	1.81	1.15	NA	hr	NA
+VazdaSilva2001	all	MOP20	kel	omeprazole	plasma	HPLC	NA	NA	0.4785	0.19	NA	1/hr	Ke of Table 1, the elimination rate constant of plasma (no urine was collected)
+VazdaSilva2001	all	MOP20	tmax	omeprazole	plasma	HPLC	NA	NA	1.49	0.63	NA	hr	NA

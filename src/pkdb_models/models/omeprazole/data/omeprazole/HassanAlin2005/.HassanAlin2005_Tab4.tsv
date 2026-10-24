@@ -1,0 +1,25 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	cilow	ciup	se	sd	unit	comments
+HassanAlin2005	OME20	11.0	SOME20	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	0.11	0.09	0.13	NA	0.0338431101056674	µmol*hr/l	first dose, E
+HassanAlin2005	OME20	11.0	ROME20	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	1.59	1.38	1.84	NA	0.389195766215174	µmol*hr/l	first dose, RO
+HassanAlin2005	OME20	11.0	OME20	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	0.86	0.75	1.0	NA	0.211519438160421	µmol*hr/l	first dose, O
+HassanAlin2005	OME20	11.0	SOME20	auc_end	omeprazole sulfone	plasma	24.0	hr	1.53	0.82	2.84	NA	1.7090770603362	µmol*hr/l	first dose, E
+HassanAlin2005	OME20	11.0	ROME20	auc_end	omeprazole sulfone	plasma	24.0	hr	0.11	0.06	0.2	NA	0.118450885369836	µmol*hr/l	first dose, RO
+HassanAlin2005	OME20	11.0	OME20	auc_end	omeprazole sulfone	plasma	24.0	hr	0.79	0.42	1.46	NA	0.879920862747351	µmol*hr/l	first dose, O
+HassanAlin2005	OME20	11.0	SOME20_MULTI	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	0.12	0.11	0.14	NA	0.0253823325792505	µmol*hr/l	second dose, E
+HassanAlin2005	OME20	11.0	ROME20_MULTI	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	1.68	1.45	1.93	NA	0.406117321268008	µmol*hr/l	second dose, RO
+HassanAlin2005	OME20	11.0	OME20_MULTI	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	0.92	0.8	1.06	NA	0.219980215686838	µmol*hr/l	second dose, O
+HassanAlin2005	OME20	11.0	SOME20_MULTI	auc_end	omeprazole sulfone	plasma	24.0	hr	3.76	1.98	7.14	NA	4.36576120363109	µmol*hr/l	second dose, E
+HassanAlin2005	OME20	11.0	ROME20_MULTI	auc_end	omeprazole sulfone	plasma	24.0	hr	0.1	0.05	0.19	NA	0.118450885369836	µmol*hr/l	second dose, RO
+HassanAlin2005	OME20	11.0	OME20_MULTI	auc_end	omeprazole sulfone	plasma	24.0	hr	1.23	0.65	2.33	NA	1.42141062443803	µmol*hr/l	second dose, O
+HassanAlin2005	OME40	12.0	SOME40	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	0.4	0.33	0.48	NA	0.132554908742516	µmol*hr/l	first dose, E
+HassanAlin2005	OME40	12.0	ROME40	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	3.53	2.91	4.28	NA	1.21066816651498	µmol*hr/l	first dose, RO
+HassanAlin2005	OME40	12.0	OME40	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	1.95	1.61	2.36	NA	0.662774543712581	µmol*hr/l	first dose, O
+HassanAlin2005	OME40	12.0	SOME40	auc_end	omeprazole sulfone	plasma	24.0	hr	4.23	2.67	6.69	NA	3.55247155429943	µmol*hr/l	first dose, E
+HassanAlin2005	OME40	12.0	ROME40	auc_end	omeprazole sulfone	plasma	24.0	hr	0.29	0.18	0.46	NA	0.247435829652697	µmol*hr/l	first dose, RO
+HassanAlin2005	OME40	12.0	OME40	auc_end	omeprazole sulfone	plasma	24.0	hr	1.83	1.16	2.9	NA	1.53763694141319	µmol*hr/l	first dose, O
+HassanAlin2005	OME40	12.0	SOME40_MULTI	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	0.52	0.41	0.67	NA	0.229761841820361	µmol*hr/l	second dose, E
+HassanAlin2005	OME40	12.0	ROME40_MULTI	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	3.43	2.67	4.42	NA	1.54647393532935	µmol*hr/l	second dose, RO
+HassanAlin2005	OME40	12.0	OME40_MULTI	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	1.89	1.47	2.43	NA	0.848351415952103	µmol*hr/l	second dose, O
+HassanAlin2005	OME40	12.0	SOME40_MULTI	auc_end	omeprazole sulfone	plasma	24.0	hr	13.49	9.08	20.05	NA	9.69418232603601	µmol*hr/l	second dose, E
+HassanAlin2005	OME40	12.0	ROME40_MULTI	auc_end	omeprazole sulfone	plasma	24.0	hr	0.35	0.24	0.53	NA	0.256272823568865	µmol*hr/l	second dose, RO
+HassanAlin2005	OME40	12.0	OME40_MULTI	auc_end	omeprazole sulfone	plasma	24.0	hr	4.81	3.24	7.15	NA	3.45526462122159	µmol*hr/l	second dose, O

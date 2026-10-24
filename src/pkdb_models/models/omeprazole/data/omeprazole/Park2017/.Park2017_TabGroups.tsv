@@ -1,0 +1,15 @@
+study	name	group_count	parent	measurement_type	substance	choice	count	mean	sd	min	max	unit	comments
+Park2017	all	24.0	NA	species	NA	homo sapiens	24.0	NA	NA	NA	NA	NA	NA
+Park2017	all	24.0	NA	ethnicity	NA	korean	24.0	NA	NA	NA	NA	NA	NA
+Park2017	all	24.0	NA	sex	NA	MF	24.0	NA	NA	NA	NA	NA	NA
+Park2017	all	24.0	NA	age	NA	NA	24.0	27.21	4.46	NA	NA	yr	NA
+Park2017	all	24.0	NA	weight	NA	NA	24.0	68.59	6.58	NA	NA	kg	NA
+Park2017	all	24.0	NA	height	NA	NA	24.0	1.74	0.07	NA	NA	m	NA
+Park2017	all	24.0	NA	bmi	NA	NA	24.0	22.54	1.91	NA	NA	kg/m^2	NA
+Park2017	all	24.0	NA	smoking	NA	N	24.0	NA	NA	NA	NA	NA	NA
+Park2017	all	24.0	NA	abstinence	alcohol	NA	24.0	NA	NA	NA	NA	NA	NA
+Park2017	all	24.0	NA	healthy	NA	Y	24.0	NA	NA	NA	NA	NA	NA
+Park2017	EM	8.0	all	cyp2c19 phenotype	NA	em	8.0	NA	NA	NA	NA	NA	NA
+Park2017	EM	8.0	all	cyp2c19 genotype	NA	*1/*1	8.0	NA	NA	NA	NA	NA	NA
+Park2017	IM	8.0	all	cyp2c19 phenotype	NA	im	8.0	NA	NA	NA	NA	NA	NA
+Park2017	PM	8.0	all	cyp2c19 phenotype	NA	pm	8.0	NA	NA	NA	NA	NA	NA

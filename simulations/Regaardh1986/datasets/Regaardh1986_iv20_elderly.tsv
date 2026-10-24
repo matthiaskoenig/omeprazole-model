@@ -1,0 +1,13 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.059217386	hr	10659.6455	14992.086	4332.4405	12253.9922265489		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.095843285	hr	6250.855	9842.455	3591.6	10158.5788612384		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.16732128	hr	4438.248	4893.901	455.653	1288.78130467198		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.22961845	hr	3637.1387	4044.7954	407.6567	1153.02726786452		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.3182886	hr	3126.744	3450.8894	324.1454	916.821641721703		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.40680277	hr	2864.88	3137.2688	272.3888	770.431870397064		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.47769603	hr	2583.3594	2807.2163	223.8569	633.162928021596		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.66353494	hr	2186.1545	2433.363	247.2085	699.211226867818		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	0.9997953	hr	1629.0839	1902.4373	273.3534	773.160171201595		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	1.5037279	hr	1263.7239	1499.2086	235.4847	666.051312942719		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	2.0167828	hr	869.8923	1074.0747	204.1824	577.515038555776		nmol/l	dimensionless
+Regaardh1986	elderly8	8.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_elderly	4.0	hr	322.5954	413.2	90.6046	256.268508266779		nmol/l	dimensionless

@@ -1,0 +1,9 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Regaardh1986	renal12	12.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_renal	0.0	hr	3802.0				symbol at 0 h, digitized from the PNG (log axis, 117.8 px per decade)	nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_renal	0.08603744	hr	2499.2388					nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_renal	0.24587414	hr	1686.4916					nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_renal	0.40244097	hr	1246.1714					nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_renal	0.5685599	hr	939.0375					nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_renal	0.90392447	hr	572.66406					nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_renal	1.4084604	hr	307.503	253.12234	54.38066	188.380132138257		nmol/l	dimensionless
+Regaardh1986	renal12	12.0	concentration	OME_iv20	omeprazole	plasma	HPLC	iv20_renal	1.9017177	hr	187.96074	136.8002	51.16054	177.22530924532		nmol/l	dimensionless

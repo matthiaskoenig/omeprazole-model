@@ -1,0 +1,17 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit	comments
+Sohn1992	all	NA	16.0	species	NA	homo sapiens	16.0	NA	NA	NA	NA	NA	NA	NA
+Sohn1992	all	NA	16.0	healthy	NA	Y	16.0	NA	NA	NA	NA	NA	NA	NA
+Sohn1992	all	NA	16.0	age (categorial)	NA	adult	16.0	NA	NA	NA	NA	NA	NA	NA
+Sohn1992	all	NA	16.0	sex	NA	M	16.0	NA	NA	NA	NA	NA	NA	NA
+Sohn1992	all	NA	16.0	overnight fast	NA	Y	16.0	NA	NA	NA	NA	NA	NA	NA
+Sohn1992	all	NA	16.0	fasting	NA	Y	16.0	NA	NA	NA	NA	NA	NA	NA
+Sohn1992	EM	all	8.0	cyp2c19 phenotype	NA	em	8.0	NA	NA	NA	NA	NA	NA	"only  ""em"" or ""pm"" reported, no specific phenotype/genotype"
+Sohn1992	EM	all	8.0	species	NA	homo sapiens	8.0	NA	NA	NA	NA	NA	NA	NA
+Sohn1992	EM	all	8.0	age 	NA	NA	8.0	NA	NA	21.0	41.0	NA	yr	NA
+Sohn1992	EM	all	8.0	weight	NA	NA	8.0	NA	NA	55.0	67.0	NA	kg	NA
+Sohn1992	EM	all	8.0	height	NA	NA	8.0	NA	NA	168.0	178.0	NA	cm	NA
+Sohn1992	PM	all	8.0	cyp2c19 phenotype	NA	pm	8.0	NA	NA	NA	NA	NA	NA	"only  ""em"" or ""pm"" reported, no specific phenotype/genotype"
+Sohn1992	PM	all	8.0	species	NA	homo sapiens	8.0	NA	NA	NA	NA	NA	NA	NA
+Sohn1992	PM	all	8.0	age 	NA	NA	8.0	NA	NA	21.0	31.0	NA	yr	NA
+Sohn1992	PM	all	8.0	weight	NA	NA	8.0	NA	NA	60.0	72.0	NA	kg	NA
+Sohn1992	PM	all	8.0	height	NA	NA	8.0	NA	NA	168.0	180.0	NA	cm	NA

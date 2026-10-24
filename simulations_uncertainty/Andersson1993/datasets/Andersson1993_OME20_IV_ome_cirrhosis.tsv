@@ -1,0 +1,18 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.15371417	hr	3.8860962				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.18803108	hr	3.6506603				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.34449345	hr	3.485794				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.41415253	hr	3.4626555				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.6666453	hr	3.3717363				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.8056502	hr	3.20897				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.97968394	hr	3.1147587				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	1.5098733	hr	2.6496577				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	1.996547	hr	2.2689953				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	2.96155	hr	1.7365371	1.6260118	0.31261275649071	0.1105253	first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	3.98596	hr	1.1055006	1.0488728	0.160167605534702	0.0566278	first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	4.9602757	hr	0.9065325	0.81064856	0.271200736723537	0.0958839400000002	first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	5.9873056	hr	0.78089577	0.67352426	0.303692491308957	0.10737151	first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	7.0217113	hr	0.5763723	0.4716782	0.29611963224089	0.1046941	first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	7.9959702	hr	0.46953982	0.39836898	0.201301534346971	0.07117084	first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	9.996575	hr	0.304502	0.25498602	0.14005234094039	0.04951598	first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	12.067922	hr	0.22226056	0.17951643	0.120898656715677	0.04274413	first data points and mean_se mostly unintelligible	µmol/l	dimensionless

@@ -1,0 +1,10 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	comments	mean_unit	count_unit
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	0.0	hr	0.0				nM	dimensionless
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	1.0	hr	914.08453				nM	dimensionless
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	1.5	hr	1472.7706				nM	dimensionless
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	2.0	hr	1567.6755				nM	dimensionless
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	2.5	hr	1916.6885				nM	dimensionless
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	3.0	hr	1547.8121				nM	dimensionless
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	4.0	hr	717.92694				nM	dimensionless
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	6.0	hr	160.42201				nM	dimensionless
+Palovaara2003	all	10.0	EE40, LNG75, OME40	concentration	omeprazole	plasma	EE_LNG_OME40_omeprazole	8.0	hr	57.162983				nM	dimensionless

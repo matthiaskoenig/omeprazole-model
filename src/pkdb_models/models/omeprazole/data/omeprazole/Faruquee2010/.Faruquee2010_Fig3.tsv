@@ -1,0 +1,33 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	sd	se	unit	comments
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	0.0	hr	0.0	NA	NA	NA	percent	NA
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	2.0	hr	6.147541	1.02	5.127541	2.0933098475333667	percent	NA
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	4.0	hr	10.245902	2.55	7.695902	3.141838835077425	percent	NA
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	8.0	hr	13.831967	6.63	7.201967	2.9401907157271565	percent	NA
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	12.0	hr	18.75	7.14	11.61	4.7397626522854495	percent	NA
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	24.0	hr	24.692623	10.91	13.782623	5.626732277857919	percent	NA
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	36.0	hr	34.52869	22.45	12.07869	4.931104543542958	percent	NA
+Faruquee2010	all	6.0	OME20	recovery	omeprazole metabolites	urine	OME_recovery	48.0	hr	41.393444	25.2	16.193444	6.6109458297223	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	0.0	hr	0.0	NA	NA	NA	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	2.0	hr	2.8688524	0.71	2.1588524	0.8813478016638078	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	4.0	hr	5.22541	1.84	3.38541	1.3820878450192666	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	8.0	hr	14.754098	6.83	7.924098	3.2349994619681164	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	12.0	hr	19.67213	12.04	7.63213	3.115804025097963	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	24.0	hr	26.331966	15.61	10.721966	4.377224289911664	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	36.0	hr	33.09426	18.57	14.52426	5.929504315252667	percent	NA
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	48.0	hr	38.729507	19.59	19.139507	7.813671013071139	percent	NA
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	0.0	hr	0.0	NA	NA	NA	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	2.0	hr	3.55949984945689	0.590592213446974	2.96890763600991	1.2120514669461546	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	4.0	hr	5.9324999420988	1.47648053361744	4.45601940848137	1.8191623057863135	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	8.0	hr	8.008874516525	3.83884938740533	4.17002512911967	1.7024056301544552	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	12.0	hr	10.8564745118929	4.13414549412882	6.72232901776409	2.7443793294378094	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	24.0	hr	14.2973243856683	6.31702063598675	7.98030374968154	3.2579453631898447	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	36.0	hr	19.9925249554161	12.9988188155731	6.99370613984297	2.855168575597515	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	48.0	hr	23.9672997197582	14.5911017439841	9.37619797577414	3.8278167946605257	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	0.0	hr	0.0	NA	NA	NA	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	2.0	hr	1.66109989114575	0.411098501517011	1.25000138962874	0.5103109303933864	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	4.0	hr	3.02557495889015	1.06538203210042	1.96019292678973	0.8002454113412636	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	8.0	hr	8.54279940709174	3.95465178219886	4.58814762489288	1.8731034242583517	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	12.0	hr	11.3903988234477	6.97130416657016	4.41909465687751	1.8040878390682349	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	24.0	hr	15.2465236121083	9.03837691363457	6.20814669847373	2.5344652766007756	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	36.0	hr	19.1619728095977	10.7522523565787	8.40972045301897	3.4332539982239783	µmole	Amount calculated from recovery
+Faruquee2010	all	6.0	LEVO500, OME20	cumulative amount	omeprazole metabolites	urine	OME_LEVO_cum_amount	48.0	hr	22.4248482988628	11.3428445700257	11.0820037288371	4.524209077211902	µmole	Amount calculated from recovery

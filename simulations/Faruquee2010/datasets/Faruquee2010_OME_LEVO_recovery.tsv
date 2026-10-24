@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	0.0	hr	0.0					percent	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	2.0	hr	2.8688524	0.71	2.1588524	0.8813478016638078		percent	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	4.0	hr	5.22541	1.84	3.38541	1.3820878450192666		percent	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	8.0	hr	14.754098	6.83	7.924098	3.2349994619681164		percent	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	12.0	hr	19.67213	12.04	7.63213	3.115804025097963		percent	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	24.0	hr	26.331966	15.61	10.721966	4.377224289911664		percent	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	36.0	hr	33.09426	18.57	14.52426	5.929504315252667		percent	dimensionless
+Faruquee2010	all	6.0	LEVO500, OME20	recovery	omeprazole metabolites	urine	OME_LEVO_recovery	48.0	hr	38.729507	19.59	19.139507	7.813671013071139		percent	dimensionless

@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	0.014260245	hr	0.0		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	0.07079284	hr	0.8384677		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	0.14895304	hr	1.285674		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	0.24863072	hr	1.5232862		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	0.32004207	hr	1.3416687		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	0.4913599	hr	1.0203717		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	0.75537354	hr	0.69214165		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	0.9907989	hr	0.47568524		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	1.4900177	hr	0.29431683		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	1.9892151	hr	0.14788283		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	3.0088649	hr	0.07860765		µM	dimensionless
+HassanAlin2000	studyA	16.0	SOME20_PO	concentration	S-omeprazole	plasma	PO20_FIRST	3.9928346	hr	0.05821989		µM	dimensionless

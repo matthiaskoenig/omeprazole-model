@@ -1,0 +1,18 @@
+study	name	measurement_type	choice	substance	application	route	form	time	time_end	time_unit	value	unit
+Howden1984a	PLACEBO	dosing	NA	placebo	single dose	oral	capsule	0.0	NA	hr	0.0	mg
+Howden1984a	OME30_1	dosing	NA	omeprazole	single dose	oral	capsule	0.0	NA	hr	30.0	mg
+Howden1984a	OME60_1	dosing	NA	omeprazole	single dose	oral	capsule	0.0	NA	hr	60.0	mg
+Howden1984a	PENTA_1	dosing	NA	pentagastrin	constant infusion	iv	solution	7.0	8.0	hr	1.2	microg/kg/hr
+Howden1984a	OME30_2	dosing	NA	omeprazole	single dose	oral	capsule	24.0	NA	hr	30.0	mg
+Howden1984a	OME60_2	dosing	NA	omeprazole	single dose	oral	capsule	24.0	NA	hr	60.0	mg
+Howden1984a	OME30_3	dosing	NA	omeprazole	single dose	oral	capsule	48.0	NA	hr	30.0	mg
+Howden1984a	OME60_3	dosing	NA	omeprazole	single dose	oral	capsule	48.0	NA	hr	60.0	mg
+Howden1984a	OME30_4	dosing	NA	omeprazole	single dose	oral	capsule	72.0	NA	hr	30.0	mg
+Howden1984a	OME60_4	dosing	NA	omeprazole	single dose	oral	capsule	72.0	NA	hr	60.0	mg
+Howden1984a	OME30_5	dosing	NA	omeprazole	single dose	oral	capsule	96.0	NA	hr	30.0	mg
+Howden1984a	OME60_5	dosing	NA	omeprazole	single dose	oral	capsule	96.0	NA	hr	60.0	mg
+Howden1984a	OME30_6	dosing	NA	omeprazole	single dose	oral	capsule	120.0	NA	hr	30.0	mg
+Howden1984a	OME60_6	dosing	NA	omeprazole	single dose	oral	capsule	120.0	NA	hr	60.0	mg
+Howden1984a	OME30_7	dosing	NA	omeprazole	single dose	oral	capsule	144.0	NA	hr	30.0	mg
+Howden1984a	OME60_7	dosing	NA	omeprazole	single dose	oral	capsule	144.0	NA	hr	60.0	mg
+Howden1984a	PENTA_7	dosing	NA	pentagastrin	constant infusion	iv	solution	151.0	152.0	hr	1.2	microg/kg/hr

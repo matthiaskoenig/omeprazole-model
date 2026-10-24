@@ -1,0 +1,7 @@
+study	group	measurement_type	interventions	substance	tissue	method	time	time_unit	mean	se	pm	sd	unit	comment
+Regaardh1986	young10	auc_end	OME_po10	omeprazole	plasma	HPLC	24.0	hr	0.30384	NA	NA	NA	micromol/l*hr	mkoenig: Unclear if AUC_inf or AUC_end; time not clear
+Regaardh1986	young10	auc_end	OME_po40	omeprazole	plasma	HPLC	24.0	hr	2.0297887	1.5500727	0.479716	NA	micromol/l*hr	mkoenig: Unclear if AUC_inf or AUC_end; time not clear
+Regaardh1986	young10	auc_end	OME_po90	omeprazole	plasma	HPLC	24.0	hr	7.420601	6.0670886	1.3535124	NA	micromol/l*hr	mkoenig: Unclear if AUC_inf or AUC_end; time not clear
+Regaardh1986	young10	cmax	OME_po10	omeprazole	plasma	HPLC	NA	NA	0.713398	NA	NA	NA	micromol/l	NA
+Regaardh1986	young10	cmax	OME_po40	omeprazole	plasma	HPLC	NA	NA	2.9730477	3.5856986	0.6126509	NA	micromol/l	NA
+Regaardh1986	young10	cmax	OME_po90	omeprazole	plasma	HPLC	NA	NA	9.48612	10.948577	1.462457	NA	micromol/l	NA

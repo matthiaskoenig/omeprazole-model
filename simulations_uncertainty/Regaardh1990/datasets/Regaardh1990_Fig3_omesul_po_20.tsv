@@ -1,0 +1,13 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	median	time	time_unit	median_unit	count_unit
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	51.275776	4.407802	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	117.68953	7.8518276	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	214.35477	10.343878	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	265.61832	15.235536	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	277.59897	19.6158	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	268.40848	24.46812	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	232.0137	29.302738	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	195.45982	40.45304	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	158.94267	50.145878	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	146.60712	59.85445	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	85.40659	89.45026	min	nmol/l	dimensionless
+Regaardh1990	all	8.0	concentration	OME_po20	omeprazole sulfone	plasma	HPLC	Fig3_omesul_po_20	72.54482	120.04917	min	nmol/l	dimensionless

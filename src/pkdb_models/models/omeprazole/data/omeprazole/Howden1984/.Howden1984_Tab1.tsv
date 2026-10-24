@@ -1,0 +1,73 @@
+study	individual	interventions	substance	tissue	measurement	method	time	time_unit	value	unit
+Howden1984	1	OME30_1	omeprazole 	plasma	tmax	HPLC	NA	NA	1.0	hr
+Howden1984	1	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	tmax	HPLC	NA	NA	1.5	hr
+Howden1984	2	OME30_1	omeprazole 	plasma	tmax	HPLC	NA	NA	1.5	hr
+Howden1984	2	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	tmax	HPLC	NA	NA	4.5	hr
+Howden1984	3	OME30_1	omeprazole 	plasma	tmax	HPLC	NA	NA	1.0	hr
+Howden1984	3	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	tmax	HPLC	NA	NA	5.0	hr
+Howden1984	4	OME30_1	omeprazole 	plasma	tmax	HPLC	NA	NA	3.0	hr
+Howden1984	4	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	tmax	HPLC	NA	NA	2.0	hr
+Howden1984	5	OME30_1	omeprazole 	plasma	tmax	HPLC	NA	NA	1.0	hr
+Howden1984	5	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	tmax	HPLC	NA	NA	3.5	hr
+Howden1984	6	OME30_1	omeprazole 	plasma	tmax	HPLC	NA	NA	6.0	hr
+Howden1984	6	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	tmax	HPLC	NA	NA	1.0	hr
+Howden1984	7	OME60_1	omeprazole 	plasma	tmax	HPLC	NA	NA	1.0	hr
+Howden1984	7	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	tmax	HPLC	NA	NA	2.0	hr
+Howden1984	8	OME60_1	omeprazole 	plasma	tmax	HPLC	NA	NA	1.0	hr
+Howden1984	8	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	tmax	HPLC	NA	NA	7.0	hr
+Howden1984	9	OME60_1	omeprazole 	plasma	tmax	HPLC	NA	NA	5.0	hr
+Howden1984	9	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	tmax	HPLC	NA	NA	1.0	hr
+Howden1984	10	OME60_1	omeprazole 	plasma	tmax	HPLC	NA	NA	4.5	hr
+Howden1984	10	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	tmax	HPLC	NA	NA	5.5	hr
+Howden1984	11	OME60_1	omeprazole 	plasma	tmax	HPLC	NA	NA	1.0	hr
+Howden1984	11	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	tmax	HPLC	NA	NA	0.5	hr
+Howden1984	12	OME60_1	omeprazole 	plasma	tmax	HPLC	NA	NA	2.5	hr
+Howden1984	12	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	tmax	HPLC	NA	NA	2.5	hr
+Howden1984	1	OME30_1	omeprazole 	plasma	cmax	HPLC	NA	NA	223.0	microg/l
+Howden1984	1	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	cmax	HPLC	NA	NA	239.0	microg/l
+Howden1984	2	OME30_1	omeprazole 	plasma	cmax	HPLC	NA	NA	690.0	microg/l
+Howden1984	2	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	cmax	HPLC	NA	NA	610.0	microg/l
+Howden1984	3	OME30_1	omeprazole 	plasma	cmax	HPLC	NA	NA	632.0	microg/l
+Howden1984	3	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	cmax	HPLC	NA	NA	1000.0	microg/l
+Howden1984	4	OME30_1	omeprazole 	plasma	cmax	HPLC	NA	NA	305.0	microg/l
+Howden1984	4	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	cmax	HPLC	NA	NA	489.0	microg/l
+Howden1984	5	OME30_1	omeprazole 	plasma	cmax	HPLC	NA	NA	1160.0	microg/l
+Howden1984	5	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	cmax	HPLC	NA	NA	1260.0	microg/l
+Howden1984	6	OME60_1	omeprazole 	plasma	cmax	HPLC	NA	NA	338.0	microg/l
+Howden1984	6	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	cmax	HPLC	NA	NA	675.0	microg/l
+Howden1984	7	OME60_1	omeprazole 	plasma	cmax	HPLC	NA	NA	860.0	microg/l
+Howden1984	7	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	cmax	HPLC	NA	NA	1710.0	microg/l
+Howden1984	8	OME60_1	omeprazole 	plasma	cmax	HPLC	NA	NA	2070.0	microg/l
+Howden1984	8	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	cmax	HPLC	NA	NA	1860.0	microg/l
+Howden1984	9	OME60_1	omeprazole 	plasma	cmax	HPLC	NA	NA	3830.0	microg/l
+Howden1984	9	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	cmax	HPLC	NA	NA	2270.0	microg/l
+Howden1984	10	OME60_1	omeprazole 	plasma	cmax	HPLC	NA	NA	993.0	microg/l
+Howden1984	10	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	cmax	HPLC	NA	NA	1310.0	microg/l
+Howden1984	11	OME60_1	omeprazole 	plasma	cmax	HPLC	NA	NA	974.0	microg/l
+Howden1984	11	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	cmax	HPLC	NA	NA	2110.0	microg/l
+Howden1984	12	OME30_1	omeprazole 	plasma	cmax	HPLC	NA	NA	1270.0	microg/l
+Howden1984	12	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	cmax	HPLC	NA	NA	3180.0	microg/l
+Howden1984	1	OME30_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	338.0	microg/l*hr
+Howden1984	1	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	496.0	microg/l*hr
+Howden1984	2	OME30_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	937.0	microg/l*hr
+Howden1984	2	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	1287.0	microg/l*hr
+Howden1984	3	OME30_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	1620.0	microg/l*hr
+Howden1984	3	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	2830.0	microg/l*hr
+Howden1984	4	OME30_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	748.0	microg/l*hr
+Howden1984	4	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	1820.0	microg/l*hr
+Howden1984	5	OME30_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	2270.0	microg/l*hr
+Howden1984	5	OME30_1, OME30_2, OME30_3, OME30_4, OME30_5, OME30_6, OME30_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	3550.0	microg/l*hr
+Howden1984	6	OME60_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	781.0	microg/l*hr
+Howden1984	6	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	2130.0	microg/l*hr
+Howden1984	7	OME60_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	2040.0	microg/l*hr
+Howden1984	7	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	6610.0	microg/l*hr
+Howden1984	8	OME60_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	3120.0	microg/l*hr
+Howden1984	8	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	5410.0	microg/l*hr
+Howden1984	9	OME60_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	5000.0	microg/l*hr
+Howden1984	9	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	7070.0	microg/l*hr
+Howden1984	10	OME60_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	2300.0	microg/l*hr
+Howden1984	10	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	3230.0	microg/l*hr
+Howden1984	11	OME60_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	1380.0	microg/l*hr
+Howden1984	11	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	5700.0	microg/l*hr
+Howden1984	12	OME60_1	omeprazole 	plasma	auc_end	HPLC	8.0	hr	440.0	microg/l*hr
+Howden1984	12	OME60_1, OME60_2, OME60_3, OME60_4, OME60_5, OME60_6, OME60_7	omeprazole 	plasma	auc_end	HPLC	8.0	hr	7850.0	microg/l*hr

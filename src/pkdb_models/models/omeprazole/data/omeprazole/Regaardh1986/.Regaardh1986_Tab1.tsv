@@ -1,0 +1,4 @@
+study	group	measurement_type	interventions	substance	tissue	method	time	time_unit	mean	se	sd	unit	comments
+Regaardh1986	young8	thalf	OME_iv10	omeprazole	plasma	HPLC	NA	NA	0.87	NA	0.74	hr	NA
+Regaardh1986	young8	vd	OME_iv10	omeprazole	plasma	HPLC	NA	NA	0.31	NA	0.09	l/kg	NA
+Regaardh1986	young8	clearance	OME_iv10	omeprazole	plasma	HPLC	NA	NA	530.0	NA	289.0	ml/min	NA

@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Naesdal1986	all	12.0	OME40_PO	concentration	5-hydroxyomeprazole	plasma	OME40_PO_5-hydroxyomeprazole	0.09145018	hr	566.31085	122.09	422.932166192168		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	5-hydroxyomeprazole	plasma	OME40_PO_5-hydroxyomeprazole	0.1856172	hr	1452.099	274.08	949.440970676956		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	5-hydroxyomeprazole	plasma	OME40_PO_5-hydroxyomeprazole	0.32911658	hr	1860.5258				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	5-hydroxyomeprazole	plasma	OME40_PO_5-hydroxyomeprazole	0.49434686	hr	1587.2211				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	5-hydroxyomeprazole	plasma	OME40_PO_5-hydroxyomeprazole	0.6674337	hr	1409.2041				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	5-hydroxyomeprazole	plasma	OME40_PO_5-hydroxyomeprazole	1.0096762	hr	1101.9854				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	5-hydroxyomeprazole	plasma	OME40_PO_5-hydroxyomeprazole	1.5112164	hr	841.90094				nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	5-hydroxyomeprazole	plasma	OME40_PO_5-hydroxyomeprazole	2.0225914	hr	638.115				nmol/l	dimensionless

@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	unit	comments
+Kita2001	EM_IM	3.0	OME20	cmax	omeprazole	plasma	NA	NA	412.0	140.0	ng/ml	NA
+Kita2001	EM_IM	3.0	OME20	cmax	5-hydroxyomeprazole	plasma	NA	NA	201.0	88.0	ng/ml	NA
+Kita2001	EM_IM	3.0	OME20	cmax	omeprazole sulfone	plasma	NA	NA	110.0	40.0	ng/ml	NA
+Kita2001	EM_IM	3.0	OME20	auc_end	omeprazole	plasma	24.0	hr	895.0	312.0	ng*hr/ml	NA
+Kita2001	EM_IM	3.0	OME20	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	545.0	173.0	ng*hr/ml	NA
+Kita2001	EM_IM	3.0	OME20	auc_end	omeprazole sulfone	plasma	24.0	hr	485.0	97.0	ng*hr/ml	NA
+Kita2001	PM	3.0	OME20	cmax	omeprazole	plasma	NA	NA	811.0	343.0	ng/ml	NA
+Kita2001	PM	3.0	OME20	cmax	5-hydroxyomeprazole	plasma	NA	NA	41.0	9.0	ng/ml	NA
+Kita2001	PM	3.0	OME20	cmax	omeprazole sulfone	plasma	NA	NA	230.0	56.0	ng/ml	NA
+Kita2001	PM	3.0	OME20	auc_end	omeprazole	plasma	24.0	hr	3054.0	720.0	ng*hr/ml	NA
+Kita2001	PM	3.0	OME20	auc_end	5-hydroxyomeprazole	plasma	24.0	hr	206.0	121.0	ng*hr/ml	NA
+Kita2001	PM	3.0	OME20	auc_end	omeprazole sulfone	plasma	24.0	hr	1634.0	276.0	ng*hr/ml	NA

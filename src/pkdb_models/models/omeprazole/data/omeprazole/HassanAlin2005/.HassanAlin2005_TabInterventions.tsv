@@ -1,0 +1,13 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+HassanAlin2005	OME20	0	hr	oral	single dose	dosing	solution	omeprazole	20.0	mg	single dose
+HassanAlin2005	SOME20	0	hr	oral	single dose	dosing	solution	S-omeprazole	20.0	mg	single dose
+HassanAlin2005	ROME20	0	hr	oral	single dose	dosing	solution	R-omeprazole	20.0	mg	single dose
+HassanAlin2005	OME40	0	hr	oral	single dose	dosing	solution	omeprazole	40.0	mg	single dose
+HassanAlin2005	SOME40	0	hr	oral	single dose	dosing	solution	S-omeprazole	40.0	mg	single dose
+HassanAlin2005	ROME40	0	hr	oral	single dose	dosing	solution	R-omeprazole	40.0	mg	single dose
+HassanAlin2005	OME20_MULTI	S-120T24R5	hr	oral	multiple dose	dosing	solution	omeprazole	20.0	mg	once daily for 5 days
+HassanAlin2005	SOME20_MULTI	S-120T24R5	hr	oral	multiple dose	dosing	solution	S-omeprazole	20.0	mg	once daily for 5 days
+HassanAlin2005	ROME20_MULTI	S-120T24R5	hr	oral	multiple dose	dosing	solution	R-omeprazole	20.0	mg	once daily for 5 days
+HassanAlin2005	OME40_MULTI	S-120T24R5	hr	oral	multiple dose	dosing	solution	omeprazole	40.0	mg	once daily for 5 days
+HassanAlin2005	SOME40_MULTI	S-120T24R5	hr	oral	multiple dose	dosing	solution	S-omeprazole	40.0	mg	once daily for 5 days
+HassanAlin2005	ROME40_MULTI	S-120T24R5	hr	oral	multiple dose	dosing	solution	R-omeprazole	40.0	mg	once daily for 5 days

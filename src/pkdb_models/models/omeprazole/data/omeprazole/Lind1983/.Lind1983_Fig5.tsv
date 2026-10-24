@@ -1,0 +1,19 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	se	sd	unit	comments
+Lind1983	group1	6.0	secretion rate	PLACEBO	acid	plasma	HPLC	Fig5_acidoutput_placebo	0.031877704	day	0.592810533333333	NA	NA	NA	µmol/min	Mean divided by 15
+Lind1983	group1	6.0	secretion rate	PLACEBO	acid	plasma	HPLC	Fig5_acidoutput_placebo	0.084796004	day	0.49376	6.748879	6.255119	15.3218498303882	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	PLACEBO	acid	plasma	HPLC	Fig5_acidoutput_placebo	0.9937803	day	0.594423066666667	8.183857	7.58943393333333	18.5902405732306	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	PLACEBO	acid	plasma	HPLC	Fig5_acidoutput_placebo	1.9917338	day	0.634884933333333	8.901345	8.26646006666667	20.2486091424267	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	PLACEBO	acid	plasma	HPLC	Fig5_acidoutput_placebo	3.0445065	day	0.6197432	8.923767	8.3040238	20.3406211219274	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	PLACEBO	acid	plasma	HPLC	Fig5_acidoutput_placebo	14.0	day	0.6313466	7.780269	7.1489224	17.5112120907529	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_20	acid	plasma	HPLC	Fig5_acidoutput_20	-0.0036487845	day	0.565946466666667	NA	NA	NA	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_20	acid	plasma	HPLC	Fig5_acidoutput_20	0.07924636	day	0.236058333333333	2.869955	2.63389666666667	6.4517028685508	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_20	acid	plasma	HPLC	Fig5_acidoutput_20	0.99808455	day	0.431088666666667	5.762332	5.33124333333333	13.0588258612812	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_20	acid	plasma	HPLC	Fig5_acidoutput_20	2.0044498	day	0.53295822	7.6905828	7.15762458	17.5325279914027	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_20	acid	plasma	HPLC	Fig5_acidoutput_20	3.0247767	day	0.5613662	8.026906	7.4655398	18.2867631644396	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_20	acid	plasma	HPLC	Fig5_acidoutput_20	14.0	day	0.643119933333333	NA	NA	NA	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_40	acid	plasma	HPLC	Fig5_acidoutput_40	-0.037143316	day	0.5855256	NA	NA	NA	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_40	acid	plasma	HPLC	Fig5_acidoutput_40	0.082829595	day	0.05624412	0.7399103	0.68366618	1.67463329539776	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_40	acid	plasma	HPLC	Fig5_acidoutput_40	1.0033065	day	0.2887286	3.9013453	3.6126167	8.84906755125721	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_40	acid	plasma	HPLC	Fig5_acidoutput_40	2.0272384	day	0.399535686666667	5.627803	5.22826731333333	12.8065871565386	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_40	acid	plasma	HPLC	Fig5_acidoutput_40	3.0166926	day	0.507449373333333	7.130045	6.62259562666667	16.2219800581207	µmol/min	NA
+Lind1983	group1	6.0	secretion rate	D_OME_po_40	acid	plasma	HPLC	Fig5_acidoutput_40	14.0	day	0.659308333333333	9.1704035	8.51109516666667	20.8478403106015	µmol/min	NA

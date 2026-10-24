@@ -1,0 +1,9 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	mean_sd	comment	mean_unit	count_unit
+Andersson1990a	all	10.0	concentration	OME_IV_40	omeprazole sulfone	plasma	HPLC	OME_IV_40_omesul	0.09153713	hr	0.1381			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_IV_40	omeprazole sulfone	plasma	HPLC	OME_IV_40_omesul	0.1486648	hr	0.1853			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_IV_40	omeprazole sulfone	plasma	HPLC	OME_IV_40_omesul	0.23781055	hr	0.1885			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_IV_40	omeprazole sulfone	plasma	HPLC	OME_IV_40_omesul	0.32708913	hr	0.1887			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_IV_40	omeprazole sulfone	plasma	HPLC	OME_IV_40_omesul	0.41610202	hr	0.1951			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_IV_40	omeprazole sulfone	plasma	HPLC	OME_IV_40_omesul	0.6697223	hr	0.1803			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_IV_40	omeprazole sulfone	plasma	HPLC	OME_IV_40_omesul	0.86435497	hr	0.156			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	10.0	concentration	OME_IV_40	omeprazole sulfone	plasma	HPLC	OME_IV_40_omesul	1.4000266	hr	0.1568			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless

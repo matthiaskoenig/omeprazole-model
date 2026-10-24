@@ -1,0 +1,11 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	sd	min	max	unit	comments
+Palovaara2003	all	10	NA	species	10	NA	homo sapiens	NA	NA	NA	NA	NA	NA
+Palovaara2003	all	10	NA	sex	10	NA	F	NA	NA	NA	NA	NA	NA
+Palovaara2003	all	10	NA	age	10	NA	NA	NA	19.0	26.0	NA	yr	NA
+Palovaara2003	all	10	NA	bmi	10	NA	NA	NA	18.0	26.0	NA	kg/m^2	NA
+Palovaara2003	all	10	NA	healthy	10	NA	Y	NA	NA	NA	NA	NA	NA
+Palovaara2003	all	10	NA	smoking	10	NA	N	NA	NA	NA	NA	NA	NA
+Palovaara2003	all	10	NA	oral contraceptives	10	NA	Y	NA	NA	NA	NA	NA	NA
+Palovaara2003	all	10	NA	alcohol	10	NA	N	NA	NA	NA	NA	NA	NA
+Palovaara2003	all	10	NA	abstinence	10	grapefruit juice	NA	NA	NA	NA	NA	NA	NA
+Palovaara2003	all	10	NA	abstinence	10	coffee	NA	NA	NA	NA	NA	NA	NA

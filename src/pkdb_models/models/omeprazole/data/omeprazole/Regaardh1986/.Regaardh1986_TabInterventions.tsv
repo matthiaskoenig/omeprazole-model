@@ -1,0 +1,9 @@
+study	name	measurement_type	substance	value	route	form	time	time_unit	application	unit	comments
+Regaardh1986	OME_iv10	dosing	omeprazole	10	iv	solution	0	hr	single dose	mg	NA
+Regaardh1986	OME_iv20	dosing	omeprazole	20	iv	solution	0	hr	single dose	mg	NA
+Regaardh1986	OME_iv40	dosing	omeprazole	40	iv	solution	0	hr	single dose	mg	NA
+Regaardh1986	OME_po10	dosing	omeprazole	10	oral	solution	0	hr	single dose	mg	NA
+Regaardh1986	OME_po20	dosing	omeprazole	20	oral	solution	0	hr	single dose	mg	NA
+Regaardh1986	OME_po40	dosing	omeprazole	40	oral	solution	0	hr	single dose	mg	NA
+Regaardh1986	OME_po90	dosing	omeprazole	90	oral	solution	0	hr	single dose	mg	NA
+Regaardh1986	OME_radr	qualitative dosing	omeprazole	20	NR	NR	0	hr	single dose	microCi	NA

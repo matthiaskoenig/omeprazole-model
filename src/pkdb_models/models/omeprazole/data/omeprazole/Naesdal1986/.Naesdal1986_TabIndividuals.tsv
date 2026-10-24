@@ -1,0 +1,97 @@
+study	name	group	count	substance	measurement_type	choice	value	unit	comment
+Naesdal1986	S1	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S1	all	1.0	NA	sex	M	NA	NA	Tab1
+Naesdal1986	S1	all	1.0	NA	age	NA	60.0	yr	Tab1
+Naesdal1986	S1	all	1.0	NA	weight	NA	73.0	kg	Tab1
+Naesdal1986	S1	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S1	all	1.0	NA	clearance	NA	33.0	ml/min	Tab1
+Naesdal1986	S1	all	1.0	NA	albumin measurement	NA	42.0	mg/l	Tab1
+Naesdal1986	S2	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S2	all	1.0	NA	sex	M	NA	NA	Tab1
+Naesdal1986	S2	all	1.0	NA	age	NA	60.0	yr	Tab1
+Naesdal1986	S2	all	1.0	NA	weight	NA	73.0	kg	Tab1
+Naesdal1986	S2	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S2	all	1.0	NA	clearance	NA	42.0	ml/min	Tab1
+Naesdal1986	S2	all	1.0	NA	albumin measurement	NA	40.0	mg/l	Tab1
+Naesdal1986	S3	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S3	all	1.0	NA	sex	M	NA	NA	Tab1
+Naesdal1986	S3	all	1.0	NA	age	NA	62.0	yr	Tab1
+Naesdal1986	S3	all	1.0	NA	weight	NA	79.0	kg	Tab1
+Naesdal1986	S3	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S3	all	1.0	NA	clearance	NA	29.0	ml/min	Tab1
+Naesdal1986	S3	all	1.0	NA	albumin measurement	NA	40.0	mg/l	Tab1
+Naesdal1986	S4	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S4	all	1.0	NA	sex	M	NA	NA	Tab1
+Naesdal1986	S4	all	1.0	NA	age	NA	35.0	yr	Tab1
+Naesdal1986	S4	all	1.0	NA	weight	NA	95.0	kg	Tab1
+Naesdal1986	S4	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S4	all	1.0	NA	clearance	NA	36.0	ml/min	Tab1
+Naesdal1986	S4	all	1.0	NA	albumin measurement	NA	43.0	mg/l	Tab1
+Naesdal1986	S5	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S5	all	1.0	NA	sex	F	NA	NA	Tab1
+Naesdal1986	S5	all	1.0	NA	age	NA	44.0	yr	Tab1
+Naesdal1986	S5	all	1.0	NA	weight	NA	49.0	kg	Tab1
+Naesdal1986	S5	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S5	all	1.0	NA	clearance	NA	42.0	ml/min	Tab1
+Naesdal1986	S5	all	1.0	NA	albumin measurement	NA	38.0	mg/l	Tab1
+Naesdal1986	S6	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S6	all	1.0	NA	sex	M	NA	NA	Tab1
+Naesdal1986	S6	all	1.0	NA	age	NA	60.0	yr	Tab1
+Naesdal1986	S6	all	1.0	NA	weight	NA	83.0	kg	Tab1
+Naesdal1986	S6	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S6	all	1.0	NA	clearance	NA	62.0	ml/min	Tab1
+Naesdal1986	S6	all	1.0	NA	albumin measurement	NA	40.0	mg/l	Tab1
+Naesdal1986	S7	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S7	all	1.0	NA	sex	F	NA	NA	Tab1
+Naesdal1986	S7	all	1.0	NA	age	NA	63.0	yr	Tab1
+Naesdal1986	S7	all	1.0	NA	weight	NA	64.0	kg	Tab1
+Naesdal1986	S7	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S7	all	1.0	NA	clearance	NA	16.0	ml/min	Tab1
+Naesdal1986	S7	all	1.0	NA	albumin measurement	NA	38.0	mg/l	Tab1
+Naesdal1986	S8	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S8	all	1.0	NA	sex	F	NA	NA	Tab1
+Naesdal1986	S8	all	1.0	NA	age	NA	61.0	yr	Tab1
+Naesdal1986	S8	all	1.0	NA	weight	NA	60.0	kg	Tab1
+Naesdal1986	S8	all	1.0	NA	smoking	Y	2.0	NA	Tab1
+Naesdal1986	S8	all	1.0	NA	clearance	NA	24.0	ml/min	Tab1
+Naesdal1986	S8	all	1.0	NA	albumin measurement	NA	40.0	mg/l	Tab1
+Naesdal1986	S9	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S9	all	1.0	NA	sex	F	NA	NA	Tab1
+Naesdal1986	S9	all	1.0	NA	age	NA	70.0	yr	Tab1
+Naesdal1986	S9	all	1.0	NA	weight	NA	86.0	kg	Tab1
+Naesdal1986	S9	all	1.0	NA	smoking	Y	2.0	NA	Tab1
+Naesdal1986	S9	all	1.0	NA	clearance	NA	10.0	ml/min	Tab1
+Naesdal1986	S9	all	1.0	NA	albumin measurement	NA	36.0	mg/l	Tab1
+Naesdal1986	S10	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S10	all	1.0	NA	sex	M	NA	NA	Tab1
+Naesdal1986	S10	all	1.0	NA	age	NA	33.0	yr	Tab1
+Naesdal1986	S10	all	1.0	NA	weight	NA	70.0	kg	Tab1
+Naesdal1986	S10	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S10	all	1.0	NA	clearance	NA	11.0	ml/min	Tab1
+Naesdal1986	S10	all	1.0	NA	albumin measurement	NA	40.0	mg/l	Tab1
+Naesdal1986	S11	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S11	all	1.0	NA	sex	M	NA	NA	Tab1
+Naesdal1986	S11	all	1.0	NA	age	NA	68.0	yr	Tab1
+Naesdal1986	S11	all	1.0	NA	weight	NA	80.0	kg	Tab1
+Naesdal1986	S11	all	1.0	NA	smoking	N	NA	NA	Tab1
+Naesdal1986	S11	all	1.0	NA	clearance	NA	14.0	ml/min	Tab1
+Naesdal1986	S11	all	1.0	NA	albumin measurement	NA	38.0	mg/l	Tab1
+Naesdal1986	S12	all	1.0	NA	species	homo sapiens	NA	NA	Tab1
+Naesdal1986	S12	all	1.0	NA	sex	M	NA	NA	Tab1
+Naesdal1986	S12	all	1.0	NA	age	NA	57.0	yr	Tab1
+Naesdal1986	S12	all	1.0	NA	weight	NA	63.0	kg	Tab1
+Naesdal1986	S12	all	1.0	NA	smoking	Y	7.0	NA	Tab1
+Naesdal1986	S12	all	1.0	NA	clearance	NA	18.0	ml/min	Tab1
+Naesdal1986	S12	all	1.0	NA	albumin measurement	NA	41.0	mg/l	Tab1
+Naesdal1986	F5_S1	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S2	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S3	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S4	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S5	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S6	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S7	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S8	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S9	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S10	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S11	all	1.0	NA	species	homo sapiens	NA	NA	Fig5
+Naesdal1986	F5_S12	all	1.0	NA	species	homo sapiens	NA	NA	Fig5

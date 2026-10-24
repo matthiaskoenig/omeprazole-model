@@ -1,0 +1,19 @@
+study	group	measurement_type	interventions	substance	tissue	method	time	time_unit	mean_reported	mean	mean_se	pm	sd	unit
+Lind1983	group2	secretion rate	PLACEBO	acid	plasma	HPLC	1.0	hr	8.8	0.586666666666667	0.78	NA	NA	mmol/min
+Lind1983	group2	secretion rate	PLACEBO	acid	plasma	HPLC	2.0	hr	7.4	0.493333333333333	0.76	NA	NA	mmol/min
+Lind1983	group2	secretion rate	PLACEBO	acid	plasma	HPLC	24.0	hr	9.0	0.6	0.89	NA	NA	mmol/min
+Lind1983	group2	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	48.0	hr	9.6	0.64	0.66	NA	NA	mmol/min
+Lind1983	group2	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	72.0	hr	9.5	0.633333333333333	0.63	NA	NA	mmol/min
+Lind1983	group2	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	336.0	hr	8.4	0.56	1.1	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_20	acid	plasma	HPLC	1.0	hr	9.1	0.606666666666667	0.66	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_20	acid	plasma	HPLC	2.0	hr	3.6	0.24	0.66	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_20	acid	plasma	HPLC	24.0	hr	6.4	0.426666666666667	0.65	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_20, PENTA_1	acid	plasma	HPLC	48.0	hr	7.9	0.526666666666667	0.42	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_20, PENTA_1	acid	plasma	HPLC	72.0	hr	8.7	0.58	0.46	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_20, PENTA_1	acid	plasma	HPLC	336.0	hr	8.6	0.573333333333333	0.43	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_40	acid	plasma	HPLC	1.0	hr	8.9	0.593333333333333	1.1	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_40	acid	plasma	HPLC	2.0	hr	0.9	0.06	0.23	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_40	acid	plasma	HPLC	24.0	hr	4.3	0.286666666666667	0.58	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_40, PENTA_1	acid	plasma	HPLC	48.0	hr	6.3	0.42	0.58	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_40, PENTA_1	acid	plasma	HPLC	72.0	hr	7.9	0.526666666666667	0.87	NA	NA	mmol/min
+Lind1983	group2	secretion rate	D_OME_po_40, PENTA_1	acid	plasma	HPLC	336.0	hr	8.9	0.593333333333333	0.69	NA	NA	mmol/min

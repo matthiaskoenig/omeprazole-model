@@ -1,0 +1,10 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	se	unit	comments
+Qadir2017	all	8.0	OME20	urinary volume rate	h2o	urine	24.0	hr	0.0172	0.0029	ml/min/kg	NA
+Qadir2017	all	8.0	OME20	pH	NA	blood	NA	NA	7.43	0.007	dimensionless	NA
+Qadir2017	all	8.0	OME20	pH	NA	urine	NA	NA	6.13	0.21	dimensionless	NA
+Qadir2017	all	8.0	OME20	concentration	creatinine	plasma	24.0	hr	7.65	0.37	µg/ml	NA
+Qadir2017	all	8.0	OME20	concentration	creatinine	urine	24.0	hr	572.2	3.39	µg/ml	NA
+Qadir2017	all	8.0	OME20	clearance	creatinine	urine	NA	NA	1.315	0.103	ml/min/kg	NA
+Qadir2017	all	8.0	OME20	concentration	omeprazole	plasma	24.0	hr	0.306	0.0078	µg/ml	NA
+Qadir2017	all	8.0	OME20	concentration	omeprazole	urine	24.0	hr	1.22	0.0028	µg/ml	NA
+Qadir2017	all	8.0	OME20	clearance_renal	omeprazole	urine	NA	NA	0.066	0.0042	ml/min/kg	NA

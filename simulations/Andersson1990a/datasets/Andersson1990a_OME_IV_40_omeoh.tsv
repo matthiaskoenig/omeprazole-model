@@ -1,0 +1,13 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	mean_sd	comment	mean_unit	count_unit
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	0.0	hr	0.4567			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	0.020831455	hr	0.8089			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	0.14031923	hr	1.017			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	0.23103976	hr	0.8095			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	0.30624944	hr	0.771			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	0.45671386	hr	0.688			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	0.66791415	hr	0.4807			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	0.8937686	hr	0.3827			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	1.405041	hr	0.2904			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	1.916539	hr	0.2031			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	2.8945801	hr	0.09613			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless
+Andersson1990a	all	5.0	concentration	OME_IV_40	5-hydroxyomeprazole	plasma	HPLC	OME_IV_40_omeoh	3.9177113	hr	0.04477			log axis re-calibrated: 10**(-1.539 + 0.2532 * linear reading)	µmol/l	dimensionless

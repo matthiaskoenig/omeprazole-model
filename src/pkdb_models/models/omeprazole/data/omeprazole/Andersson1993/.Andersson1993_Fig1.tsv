@@ -1,0 +1,45 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	sd	se	unit	comments
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.15371417	hr	3.8860962	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.18803108	hr	3.6506603	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.34449345	hr	3.485794	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.41415253	hr	3.4626555	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.6666453	hr	3.3717363	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.8056502	hr	3.20897	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	0.97968394	hr	3.1147587	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	1.5098733	hr	2.6496577	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	1.996547	hr	2.2689953	NA	NA	NA	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	2.96155	hr	1.7365371	1.6260118	0.31261275649071	0.1105253	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	3.98596	hr	1.1055006	1.0488728	0.160167605534702	0.0566278	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	4.9602757	hr	0.9065325	0.81064856	0.271200736723537	0.0958839400000002	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	5.9873056	hr	0.78089577	0.67352426	0.303692491308957	0.10737151	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	7.0217113	hr	0.5763723	0.4716782	0.29611963224089	0.1046941	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	7.9959702	hr	0.46953982	0.39836898	0.201301534346971	0.07117084	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	9.996575	hr	0.304502	0.25498602	0.14005234094039	0.04951598	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME20	concentration	omeprazole	plasma	OME20_IV_ome_cirrhosis	12.067922	hr	0.22226056	0.17951643	0.120898656715677	0.04274413	µmol/l	first data points and mean_se mostly unintelligible
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.11971051	hr	4.2890267	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.13135833	hr	6.017165	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.14124046	hr	6.8852053	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.19421098	hr	7.449895	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.28161234	hr	7.672757	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.47261944	hr	7.0657787	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.5241945	hr	6.5079355	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.6278857	hr	5.876695	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	0.81940544	hr	5.7416625	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	1.0107827	hr	5.5182886	NA	NA	NA	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	1.5327986	hr	4.9968686	4.6025143	1.1154023988803	0.3943543	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	1.9934998	hr	4.364365	4.0201006	0.973726767044472	0.3442644	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	2.9756756	hr	3.2427557	2.9868686	0.723758014512641	0.2558871	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	3.939682	hr	2.2120779	2.0508728	0.455956877487422	0.1612051	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	4.9748855	hr	1.790119	1.6381263	0.42990027544341	0.1519927	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	5.9842014	hr	1.4921944	1.3256643	0.471018251926695	0.1665301	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	6.975918	hr	1.2195874	1.0799016	0.395091105661871	0.1396858	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	8.01938	hr	0.9363732	0.8210159	0.326279716357484	0.1153573	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	10.003098	hr	0.64639723	0.544849	0.287221768201965	0.10154823	µmol/l	NA
+Andersson1993	cirrhosis	8.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_cirrhosis	12.004557	hr	0.46264064	0.38485005	0.22002501480601	0.07779059	µmol/l	NA
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	0.11492608	hr	0.9030142	NA	NA	NA	µmol/l	NA
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	0.29044074	hr	2.8432922	NA	NA	NA	µmol/l	NA
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	0.38479093	hr	2.3884158	NA	NA	NA	µmol/l	NA
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	0.453083	hr	2.0262594	NA	NA	NA	µmol/l	NA
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	1.0132889	hr	0.98573	NA	NA	NA	µmol/l	NA
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	1.4462516	hr	0.71622944	NA	NA	NA	µmol/l	NA
+Andersson1993	young_healthy	18.0	OME40	concentration	omeprazole	plasma	OME40_PO_ome_healthy	2.0189312	hr	0.53770894	NA	NA	NA	µmol/l	NA

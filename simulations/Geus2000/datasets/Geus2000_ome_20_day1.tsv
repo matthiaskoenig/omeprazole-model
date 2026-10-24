@@ -1,0 +1,16 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	median	comments	median_unit	count_unit
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	0.0	hr	4.671120330268429e-06	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	0.5237256	hr	0.00047003245362114087	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	0.78553045	hr	0.0007366097690900248	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	1.0218625	hr	0.0005917176679713736	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	1.5076543	hr	0.00029492292192602536	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	2.0128171	hr	0.00016178296315167795	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	2.5176964	hr	0.00018294173981517936	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	3.0158246	hr	0.00030930266692915206	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	3.507791	hr	0.00022057898302336892	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	4.006332	hr	0.00012250538481135788	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	5.0097265	hr	5.961772181948722e-05	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	6.026197	hr	1.7773865715542995e-05	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	6.996714	hr	8.885399923570418e-06	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	8.006541	hr	3.973595027445167e-06	median concentration	mole/meter^3	dimensionless
+Geus2000	all	16.0	OME20	concentration	omeprazole	plasma	ome_20_day1	9.009828	hr	4.444233040739282e-06	median concentration	mole/meter^3	dimensionless

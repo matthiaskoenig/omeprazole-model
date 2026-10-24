@@ -1,0 +1,15 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	0.0	hr	0.0					mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	0.333333333333333	hr						mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	0.666666666666667	hr	0.0006411986126873102	284.16068	0.00018146356856659792	0.0008702687024645093		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	1.0	hr	0.0012928963047455818	551.6091	0.00030404506450193387	0.0014581489048460232		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	1.5	hr	0.0016281923825184701	671.8195	0.00031676529170623246	0.0015191529714560993		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	2.0	hr	0.001438157178590453	575.93774	0.00022921706000880095	0.0010992864020712705		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	2.5	hr	0.0012592645389906663	502.05402	0.00019421190680223266	0.0009314075848448188		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	3.0	hr	0.0011982340134793986	483.70288	0.00020211478333371935	0.0009693084492393722		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	4.0	hr	0.0007019494464645528	290.84946	0.00014007715334553116	0.0006717864277104071		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	5.0	hr	0.00039193172869814944	167.81451	9.390132477939643e-05	0.00045033493345785646		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	6.0	hr	0.000264997307594321	115.16726	6.84188051508905e-05	0.00032812506253003044		mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	8.0	hr	0.00011138301642077956					mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	10.0	hr	5.9642998587210774e-05					mole/meter^3	dimensionless
+VazdaSilva2005	fasting	23.0	concentration	OMP20	omeprazole	plasma	HPLC	Ompranyt_fasting	12.0	hr	3.816088716214651e-05					mole/meter^3	dimensionless

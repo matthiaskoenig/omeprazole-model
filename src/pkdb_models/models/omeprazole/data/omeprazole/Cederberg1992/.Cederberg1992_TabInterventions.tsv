@@ -1,0 +1,7 @@
+study	name	measurement_type	choice	time	time_unit	substance	value	route	form	application	unit	comments
+Cederberg1992	OME_iv10	dosing	NA	0	day	omeprazole	10	iv	solution	single dose	mg	NA
+Cederberg1992	OME_iv40	dosing	NA	0	day	omeprazole	40	iv	solution	single dose	mg	NA
+Cederberg1992	OME_po20	dosing	NA	0	day	omeprazole	20	oral	capsule	single dose	mg	hard gelatine capsule
+Cederberg1992	OME_iv10_multi	dosing	NA	S-5T1R5	day	omeprazole	10	iv	solution	multiple dose	mg	NA
+Cederberg1992	OME_iv40_multi	dosing	NA	S-5T1R5	day	omeprazole	40	iv	solution	multiple dose	mg	NA
+Cederberg1992	OME_po20_multi	dosing	NA	S-5T1R5	day	omeprazole	20	oral	capsule	multiple dose	mg	hard gelatine capsule

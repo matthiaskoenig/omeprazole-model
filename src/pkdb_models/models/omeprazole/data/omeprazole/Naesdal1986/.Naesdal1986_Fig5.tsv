@@ -1,0 +1,25 @@
+study	individual	count	intervention	time	time_unit	tissue	x_measurement_type	x_substance	x_label	x_value	x_units	y_measurement_type	y_substance	y_label	y_value	y_units	comments
+Naesdal1986	F5_S1	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	10.011105	ml/min	recovery	omeprazole metabolites	omemets	27.668716	percent	Data from Regaardh1986
+Naesdal1986	F5_S2	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	10.681322	ml/min	recovery	omeprazole metabolites	omemets	19.485844	percent	NA
+Naesdal1986	F5_S3	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	14.839806	ml/min	recovery	omeprazole metabolites	omemets	42.21542	percent	NA
+Naesdal1986	F5_S4	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	16.324862	ml/min	recovery	omeprazole metabolites	omemets	20.514965	percent	NA
+Naesdal1986	F5_S5	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	18.363195	ml/min	recovery	omeprazole metabolites	omemets	26.012909	percent	NA
+Naesdal1986	F5_S6	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	24.604229	ml/min	recovery	omeprazole metabolites	omemets	34.505287	percent	NA
+Naesdal1986	F5_S7	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	29.878363	ml/min	recovery	omeprazole metabolites	omemets	60.783257	percent	NA
+Naesdal1986	F5_S8	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	33.91495	ml/min	recovery	omeprazole metabolites	omemets	39.954746	percent	NA
+Naesdal1986	F5_S9	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	36.39872	ml/min	recovery	omeprazole metabolites	omemets	57.183956	percent	NA
+Naesdal1986	F5_S10	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	42.617027	ml/min	recovery	omeprazole metabolites	omemets	36.3409	percent	NA
+Naesdal1986	F5_S11	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	43.53021	ml/min	recovery	omeprazole metabolites	omemets	63.003525	percent	NA
+Naesdal1986	F5_S12	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	63.92761	ml/min	recovery	omeprazole metabolites	omemets	67.845695	percent	NA
+Naesdal1986	F5_S1	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	10.011105	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	5.5337432	mg	NA
+Naesdal1986	F5_S2	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	10.681322	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	3.8971688	mg	NA
+Naesdal1986	F5_S3	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	14.839806	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	8.443084	mg	NA
+Naesdal1986	F5_S4	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	16.324862	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	4.102993	mg	NA
+Naesdal1986	F5_S5	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	18.363195	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	5.2025818	mg	NA
+Naesdal1986	F5_S6	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	24.604229	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	6.9010574	mg	NA
+Naesdal1986	F5_S7	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	29.878363	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	12.1566514	mg	NA
+Naesdal1986	F5_S8	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	33.91495	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	7.9909492	mg	NA
+Naesdal1986	F5_S9	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	36.39872	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	11.4367912	mg	NA
+Naesdal1986	F5_S10	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	42.617027	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	7.26818	mg	NA
+Naesdal1986	F5_S11	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	43.53021	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	12.600705	mg	NA
+Naesdal1986	F5_S12	1.0	OME20_IV	24.0	hr	urine	clearance	creatinine	creatinine_clearance	63.92761	ml/min	cumulative amount	omeprazole metabolites	omemets_amount	13.569139	mg	NA

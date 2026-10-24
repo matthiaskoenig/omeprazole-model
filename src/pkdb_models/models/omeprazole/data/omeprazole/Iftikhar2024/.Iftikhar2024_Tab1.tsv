@@ -1,0 +1,5 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	min	max	unit	comments
+Ikftikhar2024	all	12	OME40	age	omeprazole	plasma	NA	NA	25.8	2.79	22.0	30.0	yr	Individual info found in TabIndividuals. Here only mean data.
+Ikftikhar2024	all	12	OME40	height	omeprazole	plasma	NA	NA	173.2	9.06	162.0	183.0	cm	NA
+Ikftikhar2024	all	12	OME40	weight	omeprazole	plasma	NA	NA	67.21386228910168	3.967168262653898	60.191518467852255	72.2298221614227	kg	1lbs = 0,454kg
+Ikftikhar2024	all	12	OME40	bmi	omeprazole	plasma	NA	NA	16382.230000000001	731.224	15426.014000000001	17542.345	kg/m^2	1 lbs/in^2 = 703,1 kg/m^2 

@@ -1,0 +1,15 @@
+study	name	group_count	parent	measurement_type	substance	choice	count	mean	sd	min	max	unit	comments
+Uno2007	all	20.0	NA	species	NA	homo sapiens	20.0	NA	NA	NA	NA	NA	NA
+Uno2007	all	20.0	NA	ethnicity	NA	japanese	20.0	NA	NA	NA	NA	NA	NA
+Uno2007	all	20.0	NA	sex	NA	M	14.0	NA	NA	NA	NA	NA	NA
+Uno2007	all	20.0	NA	sex	NA	F	6.0	NA	NA	NA	NA	NA	NA
+Uno2007	all	20.0	NA	age	NA	NA	20.0	28.6	7.0	21.0	44.0	yr	NA
+Uno2007	all	20.0	NA	weight	NA	NA	20.0	63.0	15.1	42.0	90.0	kg	NA
+Uno2007	all	20.0	NA	overnight fast	NA	Y	20.0	NA	NA	NA	NA	NA	NA
+Uno2007	all	20.0	NA	smoking	NA	N	20.0	NA	NA	NA	NA	NA	NA
+Uno2007	all	20.0	NA	abstinence	alcohol	NA	20.0	NA	NA	NA	NA	NA	NA
+Uno2007	all	20.0	NA	healthy	NA	Y	20.0	NA	NA	NA	NA	NA	NA
+Uno2007	EM	6.0	all	cyp2c19 phenotype	NA	em	6.0	NA	NA	NA	NA	NA	NA
+Uno2007	EM	6.0	all	cyp2c19 genotype	NA	*1/*1	6.0	NA	NA	NA	NA	NA	NA
+Uno2007	IM	8.0	all	cyp2c19 phenotype	NA	im	8.0	NA	NA	NA	NA	NA	NA
+Uno2007	PM	6.0	all	cyp2c19 phenotype	NA	pm	6.0	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,16 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	mean_unit	count_unit
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	0.0	hr	0.0				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	0.5	hr	0.93006855				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	1.0	hr	0.996694				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	1.5	hr	0.6932885				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	2.0	hr	0.47355202				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	2.4982972	hr	0.32433277				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	3.0	hr	0.22355603				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	3.5	hr	0.1756592				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	4.0	hr	0.12334099				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	4.501209	hr	0.09747075				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	5.0	hr	0.09359503				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	5.5	hr	0.09859415				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	6.0	hr	0.055054486				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	6.998373	hr	0.034135226				µmol/l	dimensionless
+Cederberg1992	all	9.0	concentration	OME_po20_multi	omeprazole	plasma	HPLC	Fig4_concentration_po_20_day_5	8.0	hr	0.017637335				µmol/l	dimensionless

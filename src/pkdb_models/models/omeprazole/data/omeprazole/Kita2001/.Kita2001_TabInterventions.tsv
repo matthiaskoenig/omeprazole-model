@@ -1,0 +1,3 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Kita2001	OME20	0	hr	oral	single dose	dosing	tablet	omeprazole	20	mg	administered twice a day --> 2 x 10mg tablets
+Kita2001	PLACEBO	0	hr	oral	single dose	dosing	tablet	placebo	20	mg	NA

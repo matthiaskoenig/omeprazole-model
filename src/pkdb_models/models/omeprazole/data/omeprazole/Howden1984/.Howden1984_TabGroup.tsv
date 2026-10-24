@@ -1,0 +1,6 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit
+Howden1984	all	NA	12	species	NA	homo sapiens	12	NA	NA	NA	NA	NA	NA
+Howden1984	all	NA	12	healthy	NA	Y	12	NA	NA	NA	NA	NA	NA
+Howden1984	all	NA	12	sex	NA	M	12	NA	NA	NA	NA	NA	NA
+Howden1984	all	NA	12	age	NA	NA	12	25.0	NA	19.0	34.0	NA	yr
+Howden1984	all	NA	12	medication	NA	N	12	NA	NA	NA	NA	NA	NA

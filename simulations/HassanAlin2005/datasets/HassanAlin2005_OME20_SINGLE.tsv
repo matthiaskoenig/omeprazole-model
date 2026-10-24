@@ -1,0 +1,21 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	0.0	hr	0.0		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	0.48266107	hr	1.0952086		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	0.77935845	hr	0.78270066		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	1.0108176	hr	0.54944557		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	1.2485127	hr	0.4059467		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	1.5071751	hr	0.31182167		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	1.7441015	hr	0.243117		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	1.9808435	hr	0.19236296		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	2.2389371	hr	0.15358563		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	2.5112393	hr	0.1252859		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	2.7191029	hr	0.09845315		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	3.005583	hr	0.0836228		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	3.4568393	hr	0.055403385		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	4.0152836	hr	0.04518276		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	4.4735293	hr	0.03342128		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	5.03907	hr	0.029187404		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	6.0054684	hr	0.02513342		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	7.029147	hr	0.01960925		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	8.016928	hr	0.024540206		µM	dimensionless
+HassanAlin2005	OME20	11.0	OME20	concentration	omeprazole	plasma	OME20_SINGLE	9.999769	hr	0.022438258		µM	dimensionless

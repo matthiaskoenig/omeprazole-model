@@ -1,0 +1,5 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_sd	mean_unit	count_unit
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_po20	24.0	hr	2.4318502906640114e-06			mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_po20	48.0	hr	7.46925446418232e-06			mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_po20	72.0	hr	1.0190610741830143e-05			mole	dimensionless
+Regaardh1990	all	8.0	cumulative amount	OME_po20	omeprazole metabolites	feces	HPLC	Fig6_amount_feces_po20	96.0	hr	1.0769622715797765e-05			mole	dimensionless

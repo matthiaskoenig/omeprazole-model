@@ -1,0 +1,66 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	sd	se	unit	comments
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	1	hr	3.43	NA	NA	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	2	hr	10.05774	10.61	3.75	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	4	hr	21.641226	7.623	2.695	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	6	hr	32.356186	10.9	3.855	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	9	hr	43.729248	9.051	3.2	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	12	hr	52.702324	11.12	3.93	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	24	hr	65.95514	7	2.475	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	48	hr	74.05353	7.099	2.51	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	72	hr	75.674484	5.869	2.075	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_IV_recovery_cirrhosis	96	hr	76.27607	7.099	2.51	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	0	hr	0.0	NA	NA	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	1	hr	3.3553653	NA	NA	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	2	hr	10.055542	10.61	3.75	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	4	hr	22.297129	7.623	2.695	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	6	hr	30.242483	10.9	3.855	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	9	hr	43.000126	9.051	3.2	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	12	hr	49.425453	11.12	3.93	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	24	hr	65.811775	7	2.475	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	48	hr	73.76285	7.099	2.51	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	72	hr	75.52804	5.869	2.075	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	cirrhosis	8.0	OME40	recovery	omeprazole metabolites	urine	OME40_PO_recovery_cirrhosis	96	hr	76.27475	7.099	2.51	percent	 po and iv data almost identical, indistinguishable from each other
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	0.0	hr	0.0	NA	NA	percent	intervention in young healthy volunteers --> Regaardh1990, OME20, po
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	1.0874519	hr	25.626987	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	1.857138	hr	38.36924	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	3.5807054	hr	53.519836	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	5.2256103	hr	59.280907	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	8.552804	hr	63.816147	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	11.819444	hr	67.623146	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	22.939491	hr	73.230515	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	47.86015	hr	77.33083	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	71.57809	hr	77.34711	NA	NA	percent	NA
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	95.55188	hr	77.729034	NA	NA	percent	NA
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	0	hr	0.0	NA	NA	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	1	hr	0.68606886	NA	NA	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	2	hr	2.011548	2.121	0.75	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	4	hr	4.3282452	1.525	0.539	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	6	hr	6.4712372	2.181	0.771	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	9	hr	8.7458496	1.81	0.64	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	12	hr	10.5404648	2.223	0.786	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	24	hr	13.191028	1.4	0.495	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	48	hr	14.810706	1.42	0.502	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	72	hr	15.1348968	1.174	0.415	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME20	amount	omeprazole metabolites	urine	OME20_IV_amount_cirrhosis	96	hr	15.255214	1.42	0.502	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	0	hr	0.0	NA	NA	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	1	hr	1.34214612	NA	NA	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	2	hr	4.0222168	4.243	1.5	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	4	hr	8.9188516	3.049	1.078	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	6	hr	12.0969932	4.361	1.542	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	9	hr	17.2000504	3.62	1.28	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	12	hr	19.7701812	4.446	1.572	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	24	hr	26.32471	2.8	0.99	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	48	hr	29.50514	2.84	1.004	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	72	hr	30.211216	2.348	0.83	mg	calculated form recovery
+Andersson1993	cirrhosis	8.0	OME40	amount	omeprazole metabolites	urine	OME40_PO_amount_cirrhosis	96	hr	30.5099	2.84	1.004	mg	calculated form recovery
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	0.0	hr	0.0	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	1.0874519	hr	5.1253974	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	1.857138	hr	7.673848	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	3.5807054	hr	10.7039672	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	5.2256103	hr	11.8561814	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	8.552804	hr	12.7632294	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	11.819444	hr	13.5246292	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	22.939491	hr	14.646103	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	47.86015	hr	15.466166	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	71.57809	hr	15.469422	NA	NA	mg	NA
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	95.55188	hr	15.5458068	NA	NA	mg	NA

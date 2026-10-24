@@ -1,0 +1,4 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	sd	min	max	unit	comments
+Andersson2001	all	18	NA	species	18	NA	homo sapiens	18	NA	NA	NA	NA	Data from 2 different studies (Studies were sponsored by AstraZeneca, cannot find original sources.)
+Andersson2001	all	18	NA	sex	18	NA	MF	18	NA	NA	NA	NA	Data from 2 different studies (Studies were sponsored by AstraZeneca, cannot find original sources.)
+Andersson2001	all	18	NA	healthy	18	NA	Y	18	NA	NA	NA	NA	Data from 2 different studies (Studies were sponsored by AstraZeneca, cannot find original sources.)

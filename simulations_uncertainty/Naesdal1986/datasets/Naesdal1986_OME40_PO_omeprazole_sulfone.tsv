@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_se	mean_sd	comments	mean_unit	count_unit
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole sulfone	plasma	OME40_PO_omeprazole sulfone	0.072151914	hr	124.399666	39.43	136.589526684882		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole sulfone	plasma	OME40_PO_omeprazole sulfone	0.17416972	hr	340.00708	45.71	158.344084827947		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole sulfone	plasma	OME40_PO_omeprazole sulfone	0.33141574	hr	471.83856	86.75	300.5108151132		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole sulfone	plasma	OME40_PO_omeprazole sulfone	0.49266645	hr	487.4495	109.69	379.97730616446		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole sulfone	plasma	OME40_PO_omeprazole sulfone	0.6696729	hr	457.63837	97.84	338.927702025078		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole sulfone	plasma	OME40_PO_omeprazole sulfone	1.0000948	hr	390.67023	78.05	270.373131061502		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole sulfone	plasma	OME40_PO_omeprazole sulfone	1.5074902	hr	358.57724	62.02	214.843582170844		nmol/l	dimensionless
+Naesdal1986	all	12.0	OME40_PO	concentration	omeprazole sulfone	plasma	OME40_PO_omeprazole sulfone	2.0208085	hr	299.08508	58.29	201.92248314638		nmol/l	dimensionless

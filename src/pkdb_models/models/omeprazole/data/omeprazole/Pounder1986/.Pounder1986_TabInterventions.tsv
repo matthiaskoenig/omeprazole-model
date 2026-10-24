@@ -1,0 +1,6 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Pounder1986	OME0	0	hr	oral	single dose	dosing	capsule	omeprazole	0	mg	repeats: once daily for 7 days; offset: 24*1*7 = 168; form: hard capsule
+Pounder1986	OME10	S-168T24R7	hr	oral	multiple dose	dosing	capsule	omeprazole	10	mg	repeats: once daily for 7 days; offset: 24*1*7 = 168; form: hard capsule
+Pounder1986	OME20	S-168T24R7	hr	oral	multiple dose	dosing	capsule	omeprazole	20	mg	repeats: once daily for 7 days; offset: 24*1*7 = 168; form: hard capsule
+Pounder1986	OME30	S-168T24R7	hr	oral	multiple dose	dosing	capsule	omeprazole	30	mg	repeats: once daily for 7 days; offset: 24*1*7 = 168; form: hard capsule
+Pounder1986	OME60	S-168T24R7	hr	oral	multiple dose	dosing	capsule	omeprazole	60	mg	repeats: once daily for 7 days; offset: 24*1*7 = 168; form: hard capsule

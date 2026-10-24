@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	0.0	hr	0.0				Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	2.0	hr	3.55949984945689	0.590592213446974	2.96890763600991	1.2120514669461546	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	4.0	hr	5.9324999420988	1.47648053361744	4.45601940848137	1.819162305786313	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	8.0	hr	8.008874516525	3.83884938740533	4.17002512911967	1.7024056301544552	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	12.0	hr	10.8564745118929	4.13414549412882	6.72232901776409	2.7443793294378094	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	24.0	hr	14.2973243856683	6.31702063598675	7.98030374968154	3.2579453631898447	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	36.0	hr	19.9925249554161	12.9988188155731	6.99370613984297	2.855168575597515	Amount calculated from recovery	µmole	dimensionless
+Faruquee2010	all	6.0	OME20	cumulative amount	omeprazole metabolites	urine	OME_cum_amount	48.0	hr	23.9672997197582	14.5911017439841	9.37619797577414	3.8278167946605257	Amount calculated from recovery	µmole	dimensionless

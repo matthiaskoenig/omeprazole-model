@@ -1,0 +1,6 @@
+study	name	measurement_type	substance	route	form	time	time_unit	application	value	unit	comments
+Andersson1990a	OME_IV_10	dosing	omeprazole	iv	solution	0	day	single dose	10	mg	NA
+Andersson1990a	OME_IV_40	dosing	omeprazole	iv	solution	0	day	single dose	40	mg	NA
+Andersson1990a	OME_PO_10	dosing	omeprazole	oral	capsule	0	day	single dose	10	mg	NA
+Andersson1990a	OME_PO_40	dosing	omeprazole	oral	capsule	0	day	single dose	40	mg	NA
+Andersson1990a	OME_PO_90	dosing	omeprazole	oral	capsule	0	day	single dose	90	mg	NA

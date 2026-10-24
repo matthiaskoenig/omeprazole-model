@@ -1,0 +1,15 @@
+study	name	measurement_type	choice	substance	application	route	form	time	time_unit	value	unit
+Howden1984	OME30_1	dosing	NA	omeprazole	single dose	oral	capsule	0	day	30	mg
+Howden1984	OME30_2	dosing	NA	omeprazole	single dose	oral	capsule	1	day	30	mg
+Howden1984	OME30_3	dosing	NA	omeprazole	single dose	oral	capsule	2	day	30	mg
+Howden1984	OME30_4	dosing	NA	omeprazole	single dose	oral	capsule	3	day	30	mg
+Howden1984	OME30_5	dosing	NA	omeprazole	single dose	oral	capsule	4	day	30	mg
+Howden1984	OME30_6	dosing	NA	omeprazole	single dose	oral	capsule	5	day	30	mg
+Howden1984	OME30_7	dosing	NA	omeprazole	single dose	oral	capsule	6	day	30	mg
+Howden1984	OME60_1	dosing	NA	omeprazole	single dose	oral	capsule	0	day	60	mg
+Howden1984	OME60_2	dosing	NA	omeprazole	single dose	oral	capsule	1	day	60	mg
+Howden1984	OME60_3	dosing	NA	omeprazole	single dose	oral	capsule	2	day	60	mg
+Howden1984	OME60_4	dosing	NA	omeprazole	single dose	oral	capsule	3	day	60	mg
+Howden1984	OME60_5	dosing	NA	omeprazole	single dose	oral	capsule	4	day	60	mg
+Howden1984	OME60_6	dosing	NA	omeprazole	single dose	oral	capsule	5	day	60	mg
+Howden1984	OME60_7	dosing	NA	omeprazole	single dose	oral	capsule	6	day	60	mg

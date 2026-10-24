@@ -1,0 +1,16 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	mean_unit	count_unit
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	0.3414115	hr	0.0			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	0.71951354	hr	3.627036385112444e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	1.0071616	hr	0.0002514437663570882			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	1.5342466	hr	0.0004727475276188711			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	2.0480988	hr	0.000497377799522894			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	2.537753	hr	0.000500695972392709			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	3.0409636	hr	0.0003671622912661833			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	3.5241866	hr	0.00027489441716654694			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	4.0670953	hr	0.00022387271000764292			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	5.016422	hr	0.0001232381707853718			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	6.0134506	hr	5.491291080899552e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	6.979434	hr	3.26698821131621e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	8.014357	hr	2.003745338953609e-05			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	9.982689	hr	8.551139785070754e-06			mole/meter^3	dimensionless
+Elkoshi2002	all	40.0	LOS20_SINGLE	concentration	omeprazole	plasma	LOS20_SINGLE	11.98563	hr	3.9331330916923355e-06			mole/meter^3	dimensionless

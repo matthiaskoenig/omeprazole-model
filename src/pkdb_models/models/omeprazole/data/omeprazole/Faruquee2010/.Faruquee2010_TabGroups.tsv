@@ -1,0 +1,14 @@
+study	name	parent	group_count	measurement_type	substance	count	choice	mean	sd	min	max	unit	comments
+Faruquee2010	all	NA	6	species	NA	6	homo sapiens	NA	NA	NA	NA	NA	NA
+Faruquee2010	all	NA	6	sex	NA	4	M	NA	NA	NA	NA	NA	NA
+Faruquee2010	all	NA	6	sex	NA	2	F	NA	NA	NA	NA	NA	NA
+Faruquee2010	all	NA	6	age	NA	6	NA	24.0	4.0	18.0	27.0	yr	NA
+Faruquee2010	all	NA	6	weight	NA	6	NA	69.83	9.95	63.0	81.0	kg	NA
+Faruquee2010	all	NA	6	height	NA	6	NA	1.68	0.1	1.55	1.73	m	NA
+Faruquee2010	all	NA	6	bmi	NA	6	NA	24.65	1.96	NA	NA	kg/m^2	NA
+Faruquee2010	all	NA	6	healthy	NA	6	Y	NA	NA	NA	NA	NA	NA
+Faruquee2010	all	NA	6	smoking	NA	6	N	NA	NA	NA	NA	NA	NA
+Faruquee2010	all	NA	6	abstinence	medication	6	NA	NA	NA	NA	NA	NA	NA
+Faruquee2010	all	NA	6	abstinence	caffeine	6	NA	NA	NA	NA	NA	NA	NA
+Faruquee2010	all	NA	6	abstinence	xanthene	6	NA	NA	NA	NA	NA	NA	NA
+Faruquee2010	all	NA	6	abstinence	alcohol	6	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,7 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	se	sd	unit	comments
+Kita2002	EM	4	OME20	auc_end	omeprazole	plasma	12	hr	402	130	260.0	ng*hr/ml	NA
+Kita2002	PM	3	OME20	auc_end	omeprazole	plasma	12	hr	6182	630	1091.19200876839	ng*hr/ml	NA
+Kita2002	EM	4	OME40	auc_end	omeprazole	plasma	12	hr	1299	407	814.0	ng*hr/ml	NA
+Kita2002	PM	3	OME40	auc_end	omeprazole	plasma	12	hr	18412	2137	3701.39257577469	ng*hr/ml	NA
+Kita2002	EM	4	OME80	auc_end	omeprazole	plasma	12	hr	7736	2032	4064.0	ng*hr/ml	NA
+Kita2002	PM	3	OME80	auc_end	omeprazole	plasma	12	hr	27674	6222	10776.8201246936	ng*hr/ml	NA

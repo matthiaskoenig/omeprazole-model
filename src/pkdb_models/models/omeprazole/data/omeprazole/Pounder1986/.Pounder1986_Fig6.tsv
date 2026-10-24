@@ -1,0 +1,31 @@
+study	group	count	intervention	tissue	method	x_measurement_type	x_substance	x_label	x_mean	x_units	y_measurement_type	y_substance	y_label	y_mean	y_units	comments
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	0.35217413	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	35.162632	percent	Add acidity as measurement type, wrote pH due to uploading
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	0.7426494	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	0.868425	percent	Intervention!? Probably ome30
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	0.8391293	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	0.90137714	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	0.8669663	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	5.009405	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	1.0340488	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	1.6510373	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	1.0781173	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	58.089054	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	1.0871168	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	72.30033	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	1.0921189	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	90.34667	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	1.4642879	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	99.361755	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	1.6161711	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	86.70315	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	1.6632379	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	99.60916	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	1.9568098	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	78.13961	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	2.0222514	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	99.14774	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	2.0595508	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	92.96111	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	2.8193474	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	99.2889	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	3.2047775	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	97.25719	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	3.5755794	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	99.73319	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	3.806947	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	98.24094	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	3.9506547	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	91.55321	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	4.166572	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	96.6179	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	4.4345927	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	99.6357	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	4.6548386	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	93.907776	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	4.819749	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	98.287056	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	10.847592	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	82.663185	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	12.102499	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	96.99758	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	15.942179	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	97.68398	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	17.923334	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	99.4748	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	19.339184	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	98.9617	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	28.726963	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	100.263275	percent	NA
+Pounder1986	all	9	OME30	plasma	HPLC	auc_per_dose	omeprazole	Fig6_ome_auc	39.68138	µmol*hr/l	pH	omeprazole	Fig6_ome_acidity	100.35844	percent	NA

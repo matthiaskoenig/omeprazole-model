@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	0.0	hr	0.0				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	1.0874519	hr	1.483833232971258e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	1.857138	hr	2.221624939203743e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	3.5807054	hr	3.098862588878338e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	5.2256103	hr	3.432435498066101e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	8.552804	hr	3.695031324547792e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	11.819444	hr	3.915461125136068e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	22.939491	hr	4.240134504481553e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	47.86015	hr	4.4775476526854574e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	71.57809	hr	4.478490284179077e-05				mole	dimensionless
+Andersson1993	young_healthy	8.0	OME20	amount	omeprazole metabolites	urine	OME20_PO_amount_healthy	95.55188	hr	4.500604141093638e-05				mole	dimensionless

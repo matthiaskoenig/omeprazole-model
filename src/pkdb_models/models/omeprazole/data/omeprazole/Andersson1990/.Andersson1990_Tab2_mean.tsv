@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	min	max	unit	comments
+Andersson1990	all	10.0	OME20_IV	auc_end	omeprazole	plasma	24.0	hr	845.0	NA	NA	nmol/l*hr	Before treatment
+Andersson1990	all	10.0	OME20_IV	thalf	omeprazole	plasma	NA	NA	0.55	NA	NA	hr	Before treatment
+Andersson1990	all	10.0	OME20_IV	bioavailability	omeprazole	plasma	NA	NA	0.4	NA	NA	dimensionless	Before treatment
+Andersson1990	all	10.0	OME20_IV	auc_end	omeprazole	plasma	24.0	hr	1179.0	NA	NA	nmol/l*hr	After treatment
+Andersson1990	all	10.0	OME20_IV	thalf	omeprazole	plasma	NA	NA	0.58	NA	NA	hr	After treatment
+Andersson1990	all	10.0	OME20_IV	bioavailability	omeprazole	plasma	NA	NA	0.52	NA	NA	dimensionless	After treatment
+Andersson1990	all	10.0	OME20_IV	auc_end	omeprazole	plasma	24.0	hr	NA	269.0	8275.0	nmol/l*hr	Before treatment
+Andersson1990	all	10.0	OME20_IV	thalf	omeprazole	plasma	NA	NA	NA	0.34	1.68	hr	Before treatment
+Andersson1990	all	10.0	OME20_IV	bioavailability	omeprazole	plasma	NA	NA	NA	0.19	1.21	dimensionless	Before treatment
+Andersson1990	all	10.0	OME20_IV	auc_end	omeprazole	plasma	24.0	hr	NA	287.0	7760.0	nmol/l*hr	After treatment
+Andersson1990	all	10.0	OME20_IV	thalf	omeprazole	plasma	NA	NA	NA	0.37	1.77	hr	After treatment
+Andersson1990	all	10.0	OME20_IV	bioavailability	omeprazole	plasma	NA	NA	NA	0.19	0.99	dimensionless	After treatment

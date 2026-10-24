@@ -1,0 +1,12 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	0.0	hr	0.0			intervention in young healthy volunteers --> Regaardh1990, OME20, po	percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	1.0874519	hr	25.626987				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	1.857138	hr	38.36924				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	3.5807054	hr	53.519836				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	5.2256103	hr	59.280907				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	8.552804	hr	63.816147				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	11.819444	hr	67.623146				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	22.939491	hr	73.230515				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	47.86015	hr	77.33083				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	71.57809	hr	77.34711				percent	dimensionless
+Andersson1993	young_healthy	8.0	OME20	recovery	omeprazole metabolites	urine	OME20_PO_recovery_healthy	95.55188	hr	77.729034				percent	dimensionless

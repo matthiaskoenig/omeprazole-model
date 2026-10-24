@@ -1,0 +1,3 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Andersson1990	OME20_IV	S-48T24R2	hr	iv	multiple dose	dosing	solution	omeprazole	20	mg	 time: 2 days, once daily, on first and last day
+Andersson1990	OME20_PO	S-192T24R8	hr	oral	multiple dose	dosing	granules	omeprazole	20	mg	 time: 8 days, once daily 

@@ -1,0 +1,15 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	0.097636886	hr	0.17095332				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	0.10229327	hr	0.22498238				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	0.20316511	hr	0.2510969				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	0.40299723	hr	0.27942365				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	0.9367652	hr	0.2652043				first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	1.5112151	hr	0.26823312	0.22423182	0.124454470444095	0.0440013	first data points and mean_se mostly unintelligible	µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	1.9269072	hr	0.26587695	0.2241885	0.117912742768625	0.04168845		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	2.9143043	hr	0.22671156	0.19848923	0.0798248036955382	0.02822233		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	3.9392955	hr	0.17170605	0.14731643	0.0689842627702522	0.02438962		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	4.887187	hr	0.14726372	0.12781268	0.0550158491405231	0.01945104		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	5.9334016	hr	0.12128683	0.10496603	0.0461621934175576	0.0163208		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	6.8796754	hr	0.09455682	0.08302196	0.0326255109041498	0.01153486		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	7.827077	hr	0.078785844	0.070587434	0.0231886052237904	0.0081984099999999		µmol/l	dimensionless
+Andersson1993	cirrhosis	8.0	OME40	concentration	5-hydroxyomeprazole	plasma	OME40_PO_omeoh_cirrhosis	9.882843	hr	0.063565165	0.057948288	0.015886927263163	0.005616877		µmol/l	dimensionless

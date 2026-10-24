@@ -1,0 +1,9 @@
+study	name	group_count	parent	measurement_type	count	choice	mean	sd	min	max	unit	comments
+Walt1983	all	9	NA	species	9	homo sapiens	NA	NA	NA	NA	NA	NA
+Walt1983	all	9	NA	sex	9	M	NA	NA	NA	NA	NA	NA
+Walt1983	all	9	NA	age	9	NA	47.7	NA	22.0	66.0	yr	NA
+Walt1983	all	9	NA	weight	9	NA	69.2	NA	56.8	85.0	kg	NA
+Walt1983	all	9	NA	smoking	5	Y	NA	NA	NA	NA	NA	NA
+Walt1983	all	9	NA	healthy	9	N	NA	NA	NA	NA	NA	NA
+Walt1983	all	9	NA	disease	9	duodenal ulcer	NA	NA	NA	NA	NA	NA
+Walt1983	fig4	10	all	species	10	homo sapiens	NA	NA	NA	NA	NA	check patient data, probably from different study

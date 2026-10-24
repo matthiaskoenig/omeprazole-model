@@ -1,0 +1,41 @@
+study	individual	count	intervention	measurement_type	substance	tissue	time	time_unit	value	sd	unit	comments
+Andersson1993	T3_S1	1.0	OME40	tmax	omeprazole	plasma	NA	NA	0.25	NA	hr	NA
+Andersson1993	T3_S1	1.0	OME40	cmax	omeprazole	plasma	NA	NA	7.3	NA	µmol/l	NA
+Andersson1993	T3_S1	1.0	OME40	thalf	omeprazole	plasma	NA	NA	2.97	NA	hr	NA
+Andersson1993	T3_S1	1.0	OME40	auc_end	omeprazole	plasma	24.0	hr	28.0	NA	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	T3_S1	1.0	OME40	bioavailability	omeprazole	plasma	NA	NA	1.13	NA	dimensionless	NA
+Andersson1993	T3_S2	1.0	OME40	tmax	omeprazole	plasma	NA	NA	0.13	NA	hr	NA
+Andersson1993	T3_S2	1.0	OME40	cmax	omeprazole	plasma	NA	NA	11.8	NA	µmol/l	NA
+Andersson1993	T3_S2	1.0	OME40	thalf	omeprazole	plasma	NA	NA	3.07	NA	hr	NA
+Andersson1993	T3_S2	1.0	OME40	auc_end	omeprazole	plasma	24.0	hr	35.4	NA	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	T3_S2	1.0	OME40	bioavailability	omeprazole	plasma	NA	NA	0.9	NA	dimensionless	NA
+Andersson1993	T3_S3	1.0	OME40	tmax	omeprazole	plasma	NA	NA	0.33	NA	hr	NA
+Andersson1993	T3_S3	1.0	OME40	cmax	omeprazole	plasma	NA	NA	6.52	NA	µmol/l	NA
+Andersson1993	T3_S3	1.0	OME40	thalf	omeprazole	plasma	NA	NA	2.97	NA	hr	NA
+Andersson1993	T3_S3	1.0	OME40	auc_end	omeprazole	plasma	24.0	hr	24.6	NA	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	T3_S3	1.0	OME40	bioavailability	omeprazole	plasma	NA	NA	1.05	NA	dimensionless	NA
+Andersson1993	T3_S4	1.0	OME40	tmax	omeprazole	plasma	NA	NA	0.33	NA	hr	NA
+Andersson1993	T3_S4	1.0	OME40	cmax	omeprazole	plasma	NA	NA	7.0	NA	µmol/l	NA
+Andersson1993	T3_S4	1.0	OME40	thalf	omeprazole	plasma	NA	NA	2.17	NA	hr	NA
+Andersson1993	T3_S4	1.0	OME40	auc_end	omeprazole	plasma	24.0	hr	22.0	NA	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	T3_S4	1.0	OME40	bioavailability	omeprazole	plasma	NA	NA	0.89	NA	dimensionless	NA
+Andersson1993	T3_S5	1.0	OME40	tmax	omeprazole	plasma	NA	NA	0.33	NA	hr	NA
+Andersson1993	T3_S5	1.0	OME40	cmax	omeprazole	plasma	NA	NA	8.6	NA	µmol/l	NA
+Andersson1993	T3_S5	1.0	OME40	thalf	omeprazole	plasma	NA	NA	2.96	NA	hr	NA
+Andersson1993	T3_S5	1.0	OME40	auc_end	omeprazole	plasma	24.0	hr	37.5	NA	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	T3_S5	1.0	OME40	bioavailability	omeprazole	plasma	NA	NA	0.83	NA	dimensionless	NA
+Andersson1993	T3_S6	1.0	OME40	tmax	omeprazole	plasma	NA	NA	0.33	NA	hr	NA
+Andersson1993	T3_S6	1.0	OME40	cmax	omeprazole	plasma	NA	NA	5.17	NA	µmol/l	NA
+Andersson1993	T3_S6	1.0	OME40	thalf	omeprazole	plasma	NA	NA	3.77	NA	hr	NA
+Andersson1993	T3_S6	1.0	OME40	auc_end	omeprazole	plasma	24.0	hr	29.4	NA	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	T3_S6	1.0	OME40	bioavailability	omeprazole	plasma	NA	NA	1.12	NA	dimensionless	NA
+Andersson1993	T3_S7	1.0	OME40	tmax	omeprazole	plasma	NA	NA	0.13	NA	hr	NA
+Andersson1993	T3_S7	1.0	OME40	cmax	omeprazole	plasma	NA	NA	12.3	NA	µmol/l	NA
+Andersson1993	T3_S7	1.0	OME40	thalf	omeprazole	plasma	NA	NA	2.23	NA	hr	NA
+Andersson1993	T3_S7	1.0	OME40	auc_end	omeprazole	plasma	24.0	hr	21.5	NA	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	T3_S7	1.0	OME40	bioavailability	omeprazole	plasma	NA	NA	0.82	NA	dimensionless	NA
+Andersson1993	T3_S8	1.0	OME40	tmax	omeprazole	plasma	NA	NA	0.33	NA	hr	NA
+Andersson1993	T3_S8	1.0	OME40	cmax	omeprazole	plasma	NA	NA	8.7	NA	µmol/l	NA
+Andersson1993	T3_S8	1.0	OME40	thalf	omeprazole	plasma	NA	NA	3.54	NA	hr	NA
+Andersson1993	T3_S8	1.0	OME40	auc_end	omeprazole	plasma	24.0	hr	35.2	NA	µmol/l*hr	unclear if AUCend or AUCinf
+Andersson1993	T3_S8	1.0	OME40	bioavailability	omeprazole	plasma	NA	NA	1.09	NA	dimensionless	NA

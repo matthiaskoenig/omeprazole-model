@@ -1,0 +1,20 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	0.0	hr	0.0		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	0.25	hr	0.01566331	hidden under the filled symbol, read as SOME_CLA_AMO	µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	0.5	hr	0.047081873	hidden under the filled symbol, read as SOME_CLA_AMO	µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	0.79551065	hr	0.9768914		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	1.0363497	hr	2.6107585		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	1.5111322	hr	3.3723698		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	2.0146446	hr	3.6873927		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	2.5316803	hr	3.1827846		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	3.0262957	hr	2.4102354		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	3.5359766	hr	2.0159664		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	4.0455875	hr	1.8423533		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	4.5327406	hr	1.5584304		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	5.0346637	hr	1.211447		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	5.9941525	hr	0.895787		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	7.0062723	hr	0.6063901		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	7.9959626	hr	0.38004705		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	8.970709	hr	0.29554728		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	9.99054	hr	0.17426006		µmol/l	dimensionless
+Andersson2001	all	18.0	SOME40	concentration	S-omeprazole	plasma	SOME	12.037763	hr	0.078818955		µmol/l	dimensionless

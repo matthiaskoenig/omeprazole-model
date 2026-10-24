@@ -1,0 +1,11 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	0.0	hr	0.0				symbol hidden behind the IM symbol, value of the previous digitization	mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	0.5	hr	1.906395694699998e-05					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	1.0	hr	8.452886570839615e-05					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	2.0	hr	0.00011349833294135549	53.03	3.3230496797310564e-05	1.1759334836683588e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	3.0	hr	8.452886570839615e-05	40.91	2.8637438955217678e-05	1.0126862471120456e-05		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	4.0	hr	9.902743383644837e-05					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	6.0	hr	6.34450700718011e-05	31.26	2.3048296279899835e-05	8.162361827815667e-06		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	8.0	hr	3.613574422755004e-05	19.71	1.8399900391516673e-05	6.5022204391073965e-06		mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	10.0	hr	3.090629885311899e-05					mole/meter^3	dimensionless
+Park2017	PM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	PM_OME20_MULTI_5-hydroxyomeprazole	12.0	hr	2.166484512264294e-05					mole/meter^3	dimensionless

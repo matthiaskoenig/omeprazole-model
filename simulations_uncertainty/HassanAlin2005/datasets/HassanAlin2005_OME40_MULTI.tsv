@@ -1,0 +1,21 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	0.0	hr	0.0		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	0.49507213	hr	4.04741		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	0.7595325	hr	3.3340998		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	1.0180084	hr	2.801164		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	1.2575449	hr	2.2934117		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	1.50998	hr	1.9114879		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	1.7499491	hr	1.6302459		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	2.0026727	hr	1.3993288		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	2.2555485	hr	1.2481098		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	2.49571	hr	1.0675389		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	2.7422886	hr	0.9331036		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	3.0015895	hr	0.8322148		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	3.5013244	hr	0.6933725		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	4.013685	hr	0.53774107		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	4.5134683	hr	0.42406657		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	5.0196123	hr	0.32716528		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	6.013017	hr	0.18790884		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	7.0381956	hr	0.11573996		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	7.987481	hr	0.0729972		µM	dimensionless
+HassanAlin2005	OME40	12.0	OME40_MULTI	concentration	omeprazole	plasma	OME40_MULTI	10.031702	hr	0.029335868		µM	dimensionless

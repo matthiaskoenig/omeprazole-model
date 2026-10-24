@@ -1,0 +1,21 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	1.6023048e-05	hr	0.0		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	0.5027231	hr	4.7395186		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	0.75523835	hr	4.3995414		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	1.0072088	hr	3.774329		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	1.2468175	hr	3.3043284		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	1.5179914	hr	2.792355		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	1.7578164	hr	2.4356098		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	2.0167007	hr	2.1166		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	2.2631674	hr	1.92344		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	2.4968874	hr	1.6841496		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	2.7560122	hr	1.4909788		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	2.9961817	hr	1.3146026		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	3.5146556	hr	1.0457108		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	4.007973	hr	0.860733		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	4.4885764	hr	0.64640325		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	5.007242	hr	0.4781826		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	6.03859	hr	0.32211578		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	7.0193605	hr	0.19545387		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	8.025584	hr	0.14007944		µM	dimensionless
+HassanAlin2005	SOME40	12.0	SOME40_MULTI	concentration	S-omeprazole	plasma	SOME40_MULTI	10.006441	hr	0.058719523		µM	dimensionless

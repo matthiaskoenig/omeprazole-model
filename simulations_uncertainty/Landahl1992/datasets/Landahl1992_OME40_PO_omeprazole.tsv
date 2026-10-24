@@ -1,0 +1,12 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	pm	mean_sd	comments	mean_unit	count_unit
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	0.07780911	hr	2348.453	1692.7993	655.6537000000001	2453.231509770666		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	0.17869027	hr	4610.7363					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	0.24899171	hr	5157.312					nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	0.330427	hr	4652.7407	4073.365	579.3757000000005	2167.825367622325		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	0.41198993	hr	4417.895	3750.8284	667.0666000000006	2495.93467136018		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	0.4990304	hr	3634.8235	3182.2024	452.62109999999984	1693.5530822247465		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	0.6677871	hr	3019.4175	2563.5098	455.9077000000002	1705.8504133921188		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	0.98219	hr	2284.9607	1861.8954	423.0653	1582.9654048327334		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	1.5241342	hr	1708.5651	1350.3108	358.25430000000006	1340.4648479385278		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	1.9961855	hr	1345.3611	999.85443	345.5066700000001	1292.767583985167		nmol/l	dimensionless
+Landahl1992	all	14.0	concentration	OME40_PO	omeprazole	plasma	HPLC	OME40_PO_omeprazole	4.0244827	hr	527.3389	350.29782	177.04107999999997	662.4270647444362		nmol/l	dimensionless

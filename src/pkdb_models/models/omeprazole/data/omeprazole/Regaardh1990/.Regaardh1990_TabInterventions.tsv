@@ -1,0 +1,3 @@
+study	name	measurement_type	substance	value	route	form	time	time_unit	application	unit
+Regaardh1990	OME_iv10	dosing	omeprazole	10	iv	solution	0	day	single dose	mg
+Regaardh1990	OME_po20	dosing	omeprazole	20	oral	capsule	0	day	single dose	mg

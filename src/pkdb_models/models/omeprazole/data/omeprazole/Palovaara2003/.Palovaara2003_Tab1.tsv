@@ -1,0 +1,40 @@
+study	group	count	intervention	measurement_type	substance	tissue	time	time_unit	mean	sd	unit	comments
+Palovaara2003	all	10.0	OME40	auc_inf	omeprazole	plasma	24.0	hr	4.4	2.0	µmol*hr/l	NA
+Palovaara2003	all	10.0	OME40	thalf	omeprazole	plasma	NA	NA	0.8	0.2	hr	NA
+Palovaara2003	all	10.0	OME40	cmax	omeprazole	plasma	NA	NA	2.7	1.3	µM	NA
+Palovaara2003	all	10.0	OME40	tmax	omeprazole	plasma	NA	NA	1.5	NA	hr	NA
+Palovaara2003	all	10.0	OME40	clearance	omeprazole	plasma	NA	NA	0.6	0.3	l/hr/kg	NA
+Palovaara2003	all	10.0	OME40	auc_inf	5-hydroxyomeprazole	plasma	24.0	hr	3.1	0.5	µmol*hr/l	NA
+Palovaara2003	all	10.0	OME40	thalf	5-hydroxyomeprazole	plasma	NA	NA	1.0	0.2	hr	NA
+Palovaara2003	all	10.0	OME40	cmax	5-hydroxyomeprazole	plasma	NA	NA	1.5	0.4	µM	NA
+Palovaara2003	all	10.0	OME40	tmax	5-hydroxyomeprazole	plasma	NA	NA	1.5	NA	hr	NA
+Palovaara2003	all	10.0	OME40	auc_inf	omeprazole sulfone	plasma	24.0	hr	2.5	1.1	µmol*hr/l	NA
+Palovaara2003	all	10.0	OME40	thalf	omeprazole sulfone	plasma	NA	NA	2.4	1.1	hr	NA
+Palovaara2003	all	10.0	OME40	cmax	omeprazole sulfone	plasma	NA	NA	0.6	0.2	µM	NA
+Palovaara2003	all	10.0	OME40	tmax	omeprazole sulfone	plasma	NA	NA	1.5	NA	hr	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	auc_inf	omeprazole	plasma	24.0	hr	5.8	2.4	µmol*hr/l	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	thalf	omeprazole	plasma	NA	NA	1.0	0.3	hr	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	cmax	omeprazole	plasma	NA	NA	3.0	1.1	µM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	tmax	omeprazole	plasma	NA	NA	2.5	NA	hr	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	clearance	omeprazole	plasma	NA	NA	0.5	0.4	l/hr/kg	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	auc_inf	5-hydroxyomeprazole	plasma	24.0	hr	2.8	0.7	µmol*hr/l	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	thalf	5-hydroxyomeprazole	plasma	NA	NA	1.2	0.2	hr	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	cmax	5-hydroxyomeprazole	plasma	NA	NA	1.1	0.3	µM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	tmax	5-hydroxyomeprazole	plasma	NA	NA	2.25	NA	hr	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	auc_inf	omeprazole sulfone	plasma	NA	NA	3.6	1.6	µmol*hr/l	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	thalf	omeprazole sulfone	plasma	24.0	hr	3.9	1.9	hr	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	cmax	omeprazole sulfone	plasma	NA	NA	0.8	0.3	µM	NA
+Palovaara2003	all	10.0	EE40, LNG75, OME40	tmax	omeprazole sulfone	plasma	NA	NA	2.75	NA	hr	NA
+Palovaara2003	all	10.0	LNG60, OME40	auc_inf	omeprazole	plasma	24.0	hr	3.9	1.8	µmol*hr/l	NA
+Palovaara2003	all	10.0	LNG60, OME40	thalf	omeprazole	plasma	NA	NA	0.8	0.2	hr	NA
+Palovaara2003	all	10.0	LNG60, OME40	cmax	omeprazole	plasma	NA	NA	2.3	1.3	µM	NA
+Palovaara2003	all	10.0	LNG60, OME40	tmax	omeprazole	plasma	NA	NA	2.5	NA	hr	NA
+Palovaara2003	all	10.0	LNG60, OME40	clearance	omeprazole	plasma	NA	NA	0.6	0.4	l/hr/kg	NA
+Palovaara2003	all	10.0	LNG60, OME40	auc_inf	5-hydroxyomeprazole	plasma	24.0	hr	2.8	0.6	µmol*hr/l	NA
+Palovaara2003	all	10.0	LNG60, OME40	thalf	5-hydroxyomeprazole	plasma	NA	NA	1.1	0.2	hr	NA
+Palovaara2003	all	10.0	LNG60, OME40	cmax	5-hydroxyomeprazole	plasma	NA	NA	1.3	0.4	µM	NA
+Palovaara2003	all	10.0	LNG60, OME40	tmax	5-hydroxyomeprazole	plasma	NA	NA	2.5	NA	hr	NA
+Palovaara2003	all	10.0	LNG60, OME40	auc_inf	omeprazole sulfone	plasma	24.0	hr	2.3	1.1	µmol*hr/l	NA
+Palovaara2003	all	10.0	LNG60, OME40	thalf	omeprazole sulfone	plasma	NA	NA	2.5	0.9	hr	NA
+Palovaara2003	all	10.0	LNG60, OME40	cmax	omeprazole sulfone	plasma	NA	NA	0.6	0.2	µM	NA
+Palovaara2003	all	10.0	LNG60, OME40	tmax	omeprazole sulfone	plasma	NA	NA	2.75	NA	hr	NA

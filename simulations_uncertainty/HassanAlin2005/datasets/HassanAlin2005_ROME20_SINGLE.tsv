@@ -1,0 +1,21 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	comments	mean_unit	count_unit
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	0.0	hr	0.0		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	0.49994415	hr	0.8065095		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	0.73903805	hr	0.5268852		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	0.9914184	hr	0.3474916		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	1.2429687	hr	0.24887568		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	1.5084664	hr	0.1861674		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	1.7738872	hr	0.13093856		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	1.9674957	hr	0.09811585		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	2.2397366	hr	0.07579966		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	2.4833138	hr	0.05646239		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	2.7267835	hr	0.047596306		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	2.9774423	hr	0.03574167		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	3.500019	hr	0.032984402		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	3.9940398	hr	0.022734866		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	4.5237594	hr	0.021476695		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	4.9748006	hr	0.014199654		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	6.0055146	hr	0.020645767		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	7.0148153	hr	0.021098709		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	8.002626	hr	0.023037897		µM	dimensionless
+HassanAlin2005	ROME20	11.0	ROME20	concentration	R-omeprazole	plasma	ROME20_SINGLE	9.999784	hr	0.020942375		µM	dimensionless

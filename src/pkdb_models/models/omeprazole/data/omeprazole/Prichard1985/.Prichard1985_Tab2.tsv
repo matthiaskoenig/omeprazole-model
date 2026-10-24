@@ -1,0 +1,25 @@
+study	group	interventions	measurement_type	substance	tissue	method	time	time_unit	mean	sd	se	unit	comment
+Prichard1985	am	OME_po40	auc_end	omeprazole	plasma	HPLC	12.0	hr	1187.0	NA	246.0	ng*hr/ml	NA
+Prichard1985	am	OME_po40	cmax	omeprazole	plasma	HPLC	NA	hr	644.0	NA	110.0	ng/ml	NA
+Prichard1985	am	OME_po40	tmax	omeprazole	plasma	HPLC	NA	hr	3.0	NA	0.4	hr	NA
+Prichard1985	pm	OME_po40	auc_end	omeprazole	plasma	HPLC	12.0	hr	842.0	NA	198.0	ng*hr/ml	NA
+Prichard1985	pm	OME_po40	cmax	omeprazole	plasma	HPLC	NA	hr	296.0	NA	65.0	ng/ml	NA
+Prichard1985	pm	OME_po40	tmax	omeprazole	plasma	HPLC	NA	hr	4.8	NA	0.6	hr	NA
+Prichard1985	am	OME_po40_multi	auc_end	omeprazole	plasma	HPLC	12.0	hr	2223.0	NA	425.0	ng*hr/ml	NA
+Prichard1985	am	OME_po40_multi	cmax	omeprazole	plasma	HPLC	NA	hr	936.0	NA	177.0	ng/ml	NA
+Prichard1985	am	OME_po40_multi	tmax	omeprazole	plasma	HPLC	NA	hr	2.9	NA	0.3	hr	NA
+Prichard1985	pm	OME_po40_multi	auc_end	omeprazole	plasma	HPLC	12.0	hr	2303.0	NA	566.0	ng*hr/ml	NA
+Prichard1985	pm	OME_po40_multi	cmax	omeprazole	plasma	HPLC	NA	hr	705.0	NA	162.0	ng/ml	NA
+Prichard1985	pm	OME_po40_multi	tmax	omeprazole	plasma	HPLC	NA	hr	3.3	NA	0.5	hr	NA
+Prichard1985	am	OME_po40	auc_end	omeprazole sulfone	plasma	HPLC	12.0	hr	1286.0	NA	321.0	ng*hr/ml	NA
+Prichard1985	am	OME_po40	cmax	omeprazole sulfone	plasma	HPLC	NA	hr	301.0	NA	60.0	ng/ml	NA
+Prichard1985	am	OME_po40	tmax	omeprazole sulfone	plasma	HPLC	NA	hr	3.4	NA	0.4	hr	NA
+Prichard1985	pm	OME_po40	auc_end	omeprazole sulfone	plasma	HPLC	12.0	hr	871.0	NA	240.0	ng*hr/ml	NA
+Prichard1985	pm	OME_po40	cmax	omeprazole sulfone	plasma	HPLC	NA	hr	227.0	NA	59.0	ng/ml	NA
+Prichard1985	pm	OME_po40	tmax	omeprazole sulfone	plasma	HPLC	NA	hr	5.6	NA	0.6	hr	NA
+Prichard1985	am	OME_po40_multi	auc_end	omeprazole sulfone	plasma	HPLC	12.0	hr	2556.0	NA	576.0	ng*hr/ml	NA
+Prichard1985	am	OME_po40_multi	cmax	omeprazole sulfone	plasma	HPLC	NA	hr	486.0	NA	124.0	ng/ml	NA
+Prichard1985	am	OME_po40_multi	tmax	omeprazole sulfone	plasma	HPLC	NA	hr	4.6	NA	0.3	hr	NA
+Prichard1985	pm	OME_po40_multi	auc_end	omeprazole sulfone	plasma	HPLC	12.0	hr	2338.0	NA	585.0	ng*hr/ml	NA
+Prichard1985	pm	OME_po40_multi	cmax	omeprazole sulfone	plasma	HPLC	NA	hr	353.0	NA	68.0	ng/ml	NA
+Prichard1985	pm	OME_po40_multi	tmax	omeprazole sulfone	plasma	HPLC	NA	hr	4.3	NA	0.2	hr	NA

@@ -1,0 +1,13 @@
+study	group	measurement_type	interventions	substance	tissue	method	time	time_unit	mean_reported	mean	mean_se	pm	sd	unit
+Lind1983	group3	secretion rate	PLACEBO	acid	plasma	HPLC	1	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO	acid	plasma	HPLC	3	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO	acid	plasma	HPLC	5	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	1	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	3	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	5	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO	acid	plasma	HPLC	1	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO	acid	plasma	HPLC	3	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO	acid	plasma	HPLC	5	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	1	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	3	day	NA	NA	NA	NA	NA	mmol/min
+Lind1983	group3	secretion rate	PLACEBO, PENTA_1	acid	plasma	HPLC	5	day	NA	NA	NA	NA	NA	mmol/min

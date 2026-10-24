@@ -1,0 +1,9 @@
+study	group	count	intervention	measurement_type	substance	tissue	label	time	time_unit	mean	pm	mean_sd	mean_se	comments	mean_unit	count_unit
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	0.5	hr	0.00017063486573606513	133.38	0.00019841456497378352	7.014097367292446e-05		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	1.0	hr	0.0005321306531272912	427.91	0.0006518268472531576	0.00023045529377585321		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	2.0	hr	0.00037878892685693725	220.67	0.00023178340688681978	8.195564655589834e-05		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	3.0	hr	0.0002223482699943278	119.92	0.00010945865556216537	3.870896338004786e-05		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	4.0	hr	0.00015616396663115805	76.13	5.448030657277644e-05	1.925764010901595e-05		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	6.0	hr	5.558706749858195e-05	27.69	2.102845759030477e-05	7.442967226042083e-06		mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	8.0	hr	3.3534856051907076e-05					mole/meter^3	dimensionless
+Park2017	EM	8.0	OME20_MULTI	concentration	5-hydroxyomeprazole	plasma	EM_OME20_MULTI_5-hydroxyomeprazole	10.0	hr	3.613574422755004e-05					mole/meter^3	dimensionless

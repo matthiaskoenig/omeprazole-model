@@ -1,0 +1,13 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	3.0560272	min	404.42654	484.14053	79.71399	225.465211537747		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	8.163265	min	1062.3743	1355.2761	292.9018	828.451396006984		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	11.020409	min	1569.4165	2008.5867	439.1702	1242.16090606021		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	15.102041	min	1738.4305	2220.5386	482.1081	1363.60762709985		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	20.204082	min	1466.8008	1984.9082	518.1074	1465.42902369172		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	24.897959	min	1279.6781	1815.7794	536.1013	1516.32345853169		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	30.0	min	1171.0261	1682.9618	511.9357	1447.97282000593		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	40.204082	min	839.0342	1272.1956	433.1614	1225.16545315303		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	49.795918	min	820.92554	1236.3997	415.47416	1175.13838377514		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	60.204082	min	772.6358	1206.6522	434.0164	1227.58375834469		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	90.0	min	585.51306	923.8917	338.37864	957.079323810726		nmol/l	dimensionless
+Regaardh1986	young8	8.0	concentration	OME_po20	omeprazole	plasma	HPLC	po20_young	119.79592	min	561.3682	895.14374	333.77554	944.059790912807		nmol/l	dimensionless

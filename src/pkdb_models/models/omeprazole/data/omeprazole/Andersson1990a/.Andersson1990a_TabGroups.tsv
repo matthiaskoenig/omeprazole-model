@@ -1,0 +1,8 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	median	min	max	sd	unit
+Andersson1990a	all	NA	10	species	NA	homo sapiens	10	NA	NA	NA	NA	NA	NA
+Andersson1990a	all	NA	10	healthy	NA	Y	10	NA	NA	NA	NA	NA	NA
+Andersson1990a	all	NA	10	sex	NA	M	10	NA	NA	NA	NA	NA	NA
+Andersson1990a	all	NA	10	age 	NA	NA	10	NA	NA	19.0	27.0	NA	yr
+Andersson1990a	all	NA	10	overnight fast	NA	Y	10	NA	NA	NA	NA	NA	NA
+Andersson1990a	all	NA	10	fasting	NA	Y	10	NA	NA	NA	NA	NA	NA
+Andersson1990a	all	NA	10	weight	NA	NA	10	NA	NA	70.0	86.0	NA	kg

@@ -1,0 +1,10 @@
+study	name	group_count	parent	measurement_type	count	choice	mean	sd	min	max	unit	comments
+Geus2000	all	16.0	NA	species	16.0	homo sapiens	NA	NA	NA	NA	NA	NA
+Geus2000	all	16.0	NA	sex	7.0	M	NA	NA	NA	NA	NA	NA
+Geus2000	all	16.0	NA	sex	9.0	F	NA	NA	NA	NA	NA	NA
+Geus2000	all	16.0	NA	age	16.0	NA	24.7	NA	21.4	30.0	yr	NA
+Geus2000	all	16.0	NA	weight	16.0	NA	73.0	NA	55.0	97.0	kg	NA
+Geus2000	all	16.0	NA	height	16.0	NA	175.6	NA	157.0	192.0	cm	NA
+Geus2000	all	16.0	NA	healthy	16.0	Y	NA	NA	NA	NA	NA	NA
+Geus2000	pH3	16.0	all	species	16.0	homo sapiens	NA	NA	NA	NA	NA	NA
+Geus2000	pH4	16.0	all	species	16.0	homo sapiens	NA	NA	NA	NA	NA	NA

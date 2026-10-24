@@ -1,0 +1,16 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	mean_se	pm	mean_sd	mean_unit	count_unit
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.16322546	hr	579.0824				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.29621804	hr	2355.1138				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.29807326	hr	2855.8267				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.34053737	hr	3462.9001				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.42340422	hr	4109.927				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.6661298	hr	3731.6707				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	0.9092678	hr	3536.5266				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	1.1530241	hr	3574.022				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	1.4371831	hr	3535.277				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	1.9645832	hr	3349.7659				nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	3.9916258	hr	2349.2957	261.0227	261.0227	738.2836848544873	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	5.938069	hr	1757.0782	276.6976	276.6976	782.6189971921714	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	7.884512	hr	1314.1489	275.8834999999999	275.8834999999999	780.3163746699154	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	11.9419985	hr	920.4019	223.7162	223.7162	632.7649683251435	nmol/l	dimensionless
+Landahl1992	metabolites	8.0	concentration	OME40_PO	omeprazole metabolites	plasma	HPLC	OME40_PO_omeprazole metabolites	23.953876	hr	383.48074	111.26822000000004	111.26822000000004	314.7140515702267	nmol/l	dimensionless

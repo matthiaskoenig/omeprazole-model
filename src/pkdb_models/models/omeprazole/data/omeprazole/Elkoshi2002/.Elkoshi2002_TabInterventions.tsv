@@ -1,0 +1,5 @@
+study	name	time	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Elkoshi2002	LOS20_SINGLE	0	hr	oral	single dose	dosing	capsule	omeprazole	20	mg	NA
+Elkoshi2002	OMEX20_SINGLE	0	hr	oral	single dose	dosing	capsule	omeprazole	20	mg	NA
+Elkoshi2002	LOS20_MULTIPLE	S-120T24R5	hr	oral	multiple dose	dosing	capsule	omeprazole	20	mg	time: 5 days, once daily, caplet
+Elkoshi2002	OMEX20_MULTIPLE	S-120T24R5	hr	oral	multiple dose	dosing	capsule	omeprazole	20	mg	time: 5 days, once daily

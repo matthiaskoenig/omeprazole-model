@@ -1,0 +1,13 @@
+study	group	count	measurement_type	interventions	substance	tissue	method	label	time	time_unit	mean	pm	mean_se	mean_sd	comments	mean_unit	count_unit
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	0.0	hr	0.0					mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	0.666666666666667	hr	2.281092943002061e-05					mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	1.0	hr	9.274598165690066e-05	15.533854	4.7774544317576486e-05	0.00022911866565013402		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	1.5	hr	0.0002871340499571531	68.65798	8.836508731500566e-05	0.00042378407130558505		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	2.0	hr	0.00038838166153276046	106.944	7.877237881279383e-05	0.0003777790574767266		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	2.5	hr	0.0004514684033165805	127.07843	8.356874030154943e-05	0.0004007815991017063		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	3.0	hr	0.0004906573812446441	138.1407	9.073178428329896e-05	0.00043513435123225324		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	4.0	hr	0.0005642809539801282	161.09482	9.790180535933483e-05	0.0004695205643315248		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	5.0	hr	0.0005280713690159112	166.1747	4.698566366352456e-05	0.00022533532694130002		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	6.0	hr	0.000355722085832735	114.62227	2.3883751765986513e-05	0.00011454244961429405		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	8.0	hr	0.00018299938335224772	58.272125	1.4298092734557749e-05	6.857124385964055e-05		mole/meter^3	dimensionless
+VazdaSilva2005	fed	23.0	concentration	MOP20	omeprazole	plasma	HPLC	Mopral_fed	10.0	hr	0.00010584673842555062					mole/meter^3	dimensionless
